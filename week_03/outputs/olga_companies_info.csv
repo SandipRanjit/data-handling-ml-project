@@ -1,0 +1,101 @@
+Ticker,SimFinId,Company_Name,Sector,Industry,Currency
+ABBV,61199,AbbVie Inc.,Healthcare,Drug Manufacturers,USD
+ABNB,1214552,"Airbnb, Inc.",Consumer,Travel & Leisure,USD
+ABT,63877,ABBOTT LABORATORIES,Healthcare,Medical Devices,USD
+AC,919941,"Associated Capital Group, Inc.",Finance,"Brokers, Exchanges & Other",USD
+ADBE,14099,Adobe Systems,Technology,Application Software,USD
+AMD,191397,ADVANCED MICRO DEVICES INC,Technology,Semiconductors,USD
+AMGN,65735,AMGEN INC,Healthcare,Biotechnology,USD
+AMP,67872,AMERIPRISE FINANCIAL INC,Finance,Asset Management,USD
+AMZN,62747,AMAZON COM INC,Consumer,Retail - Apparel & Specialty,USD
+AVGO,686523,Broadcom Inc.,Technology,Semiconductors,USD
+AWK,168302,"American Water Works Company, Inc.",Utilities,Utilities - Regulated,USD
+BMY,255210,BRISTOL MYERS SQUIBB CO,Healthcare,Drug Manufacturers,USD
+BR,143497,"BROADRIDGE FINANCIAL SOLUTIONS, INC.",Industrials,Business Services,USD
+CAT,253953,CATERPILLAR INC,Industrials,Farm & Construction Machinery,USD
+CMCSA,106366,COMCAST CORP,Communication,Communication Services,USD
+CME,378116,CME Group Inc.,Finance,"Brokers, Exchanges & Other",USD
+CMG,80874,CHIPOTLE MEXICAN GRILL INC,Consumer,Restaurants,USD
+COP,378120,ConocoPhillips,Energy,Oil & Gas - E&P,USD
+COST,217867,COSTCO WHOLESALE CORP /NEW,Consumer,Retail - Defensive,USD
+CRM,85017,SALESFORCE COM INC,Technology,Application Software,USD
+CSX,248102,CSX CORP,Industrials,Transportation & Logistics,USD
+CVS,256275,CVS HEALTH Corp,Healthcare,Health Care Plans,USD
+CVX,248396,CHEVRON CORP,Energy,Oil & Gas - Integrated,USD
+DAL,231789,DELTA AIR LINES INC /DE/,Industrials,Airlines,USD
+DE,373449,DEERE & CO,Industrials,Farm & Construction Machinery,USD
+DFIN,6767673,"Donnelley Financial Solutions, Inc.",Finance,"Brokers, Exchanges & Other",USD
+DHIL,7962818,"Diamond Hill Investment Group, Inc.",Finance,Asset Management,USD
+DLR,286372,"Digital Realty Trust, Inc.",Real Estate,REITs,USD
+DUK,191249,Duke Energy CORP,Utilities,Utilities - Regulated,USD
+DVN,122079,DEVON ENERGY CORP/DE,Energy,Oil & Gas - E&P,USD
+EA,372651,ELECTRONIC ARTS INC.,Technology,Application Software,USD
+ETSY,469839,ETSY INC,Consumer,Retail - Apparel & Specialty,USD
+F,249937,FORD MOTOR CO,Consumer,Autos,USD
+FOX,885908,Fox Corp,Consumer,Entertainment,USD
+GD,234391,GENERAL DYNAMICS CORP,Industrials,Aerospace & Defense,USD
+GE,244314,GENERAL ELECTRIC CO,Industrials,Industrial Products,USD
+GILD,239284,GILEAD SCIENCES INC,Healthcare,Biotechnology,USD
+GM,125620,General Motors Co,Consumer,Autos,USD
+GOOG,18,Alphabet (Google),Technology,Online Media,USD
+GPN,182201,GLOBAL PAYMENTS INC,Industrials,Business Services,USD
+HAL,378158,Halliburton Co.,Energy,Oil & Gas - Services,USD
+HASI,6767479,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",Real Estate,REITs,USD
+HD,261673,HOME DEPOT INC,Consumer,Retail - Apparel & Specialty,USD
+HON,105257,HONEYWELL INTERNATIONAL INC,Industrials,Industrial Products,USD
+IBM,69543,INTERNATIONAL BUSINESS MACHINES CORP,Technology,Application Software,USD
+ICE,378167,Intercontinental Exchange,Finance,"Brokers, Exchanges & Other",USD
+INTC,85652,INTEL CORP,Technology,Semiconductors,USD
+ISRG,103498,INTUITIVE SURGICAL INC,Healthcare,Medical Devices,USD
+JNJ,89661,JOHNSON & JOHNSON,Healthcare,Drug Manufacturers,USD
+KMI,88392,"KINDER MORGAN, INC.",Energy,Oil & Gas - Midstream,USD
+KO,82117,COCA COLA CO,Consumer,Beverages - Non-Alcoholic,USD
+LLY,378181,Lilly (Eli) & Co.,Healthcare,Drug Manufacturers,USD
+LMT,103644,LOCKHEED MARTIN CORP,Industrials,Aerospace & Defense,USD
+LOW,186050,LOWES COMPANIES INC,Consumer,Retail - Apparel & Specialty,USD
+MA,331628,Mastercard Inc,Finance,Credit Services,USD
+MCD,243628,MCDONALDS CORP,Consumer,Restaurants,USD
+MDT,73420,Medtronic plc,Healthcare,Medical Devices,USD
+META,121021,"Meta Platforms, Inc.",Technology,Online Media,USD
+MMM,22219,3M CO,Industrials,Industrial Products,USD
+MPC,353184,Marathon Petroleum Corp,Energy,Oil & Gas - Refining & Marketing,USD
+MRK,262201,"Merck & Co., Inc.",Healthcare,Drug Manufacturers,USD
+MRNA,917766,"Moderna, Inc.",Healthcare,Biotechnology,USD
+MSFT,59265,MICROSOFT CORP,Technology,Application Software,USD
+MU,60906,MICRON TECHNOLOGY INC,Technology,Semiconductors,USD
+NEE,188922,NEXTERA ENERGY INC,Utilities,Utilities - Regulated,USD
+NFLX,83548,NETFLIX INC,Consumer,Entertainment,USD
+NKE,101814,NIKE INC,Consumer,Manufacturing - Apparel & Furniture,USD
+NVDA,172199,NVIDIA CORP,Technology,Semiconductors,USD
+OAK,628032,"Oaktree Capital Group, LLC",Finance,Asset Management,USD
+ORCL,257930,ORACLE CORP,Technology,Application Software,USD
+PEP,218222,PEPSICO INC,Consumer,Beverages - Non-Alcoholic,USD
+PFE,262090,PFIZER INC,Healthcare,Drug Manufacturers,USD
+PG,133209,PROCTER & GAMBLE Co,Consumer,Consumer Packaged Goods,USD
+PLD,113992,"Prologis, Inc.",Real Estate,REITs,USD
+PLTR,1039027,Palantir Technologies Inc.,Technology,Application Software,USD
+PSX,353084,Phillips 66,Energy,Oil & Gas - Refining & Marketing,USD
+PYPL,109664,"PayPal Holdings, Inc.",Finance,Credit Services,USD
+RBLX,1338975,Roblox Corp,Technology,Application Software,USD
+RTX,261978,RTX Corporation,Industrials,Aerospace & Defense,USD
+SLB,353500,SCHLUMBERGER LIMITED/NV,Energy,Oil & Gas - Services,USD
+SOFI,3307892,"SoFi Technologies, Inc.",Finance,Credit Services,USD
+SPG,111127,SIMON PROPERTY GROUP INC /DE/,Real Estate,REITs,USD
+SPOT,3307751,Spotify Technology S.A.,Technology,Online Media,USD
+T,66790,AT&T INC.,Communication,Communication Services,USD
+TGT,72458,TARGET CORP,Consumer,Retail - Defensive,USD
+TMO,372802,THERMO FISHER SCIENTIFIC INC.,Healthcare,Medical Diagnostics & Research,USD
+TMUS,515267,"T-Mobile US, Inc.",Communication,Communication Services,USD
+TSLA,56317,Tesla,Consumer,Autos,USD
+TTWO,372538,TAKE TWO INTERACTIVE SOFTWARE INC,Technology,Application Software,USD
+TXN,252464,TEXAS INSTRUMENTS INC,Technology,Semiconductors,USD
+UBER,914943,"Uber Technologies, Inc",Consumer,Travel & Leisure,USD
+UNH,367714,UNITEDHEALTH GROUP INC,Healthcare,Health Care Plans,USD
+UNP,367644,UNION PACIFIC CORP,Industrials,Transportation & Logistics,USD
+UPS,106423,UNITED PARCEL SERVICE INC,Industrials,Transportation & Logistics,USD
+VCTR,10384115,"Victory Capital Holdings, Inc.",Finance,Asset Management,USD
+VIRT,970570,"Virtu Financial, Inc.",Finance,"Brokers, Exchanges & Other",USD
+WBD,120376,"Warner Bros. Discovery, Inc.",Consumer,Entertainment,USD
+WM,378239,Waste Management Inc.,Industrials,Waste Management,USD
+WMT,239962,Walmart Inc,Consumer,Retail - Defensive,USD
+XOM,121214,EXXON MOBIL CORP,Energy,Oil & Gas - Integrated,USD

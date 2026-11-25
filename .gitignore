@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+*.log
+
+# Google Drive shortcut files
+*.gdoc
+
+# Exclude large training optimizer checkpoints
+**/optimizer.pt

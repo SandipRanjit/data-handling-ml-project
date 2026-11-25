@@ -1,0 +1,10952 @@
+Waste Management, Inc_June 30, 2026
+http://fasb.org/us-gaap/2025#OtherAssetsCurrent
+http://fasb.org/us-gaap/2025#OtherAssetsCurrent
+http://fasb.org/us-gaap/2025#RestrictedCashAndInvestmentsNoncurrent
+http://fasb.org/us-gaap/2025#RestrictedCashAndInvestmentsNoncurrent
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#AccruedLiabilitiesCurrent
+http://fasb.org/us-gaap/2025#AccruedCappingClosurePostClosureAndEnvironmentalCostsNoncurrent
+http://fasb.org/us-gaap/2025#AccruedCappingClosurePostClosureAndEnvironmentalCostsNoncurrent
+--12-31
+0000823768
+2026
+Q2
+false
+P5Y
+P1M
+http://www.wm.com/20260630#GainLossFromDivestituresAssetImpairmentsAndUnusualItems
+http://www.wm.com/20260630#GainLossFromDivestituresAssetImpairmentsAndUnusualItems
+0000823768
+us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OtherNoncurrentAssetsMember
+2026-06-30
+0000823768
+us-gaap:OtherNoncurrentAssetsMember
+2025-12-31
+0000823768
+us-gaap:DebtSecuritiesMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:DebtSecuritiesMember
+2025-01-01
+2025-12-31
+0000823768
+wm:RenewableNaturalGasMember
+wm:CleanFuelProductionTaxCreditsProductionAndSalesDuringFirstQuarterOf2026Member
+2026-01-01
+2026-06-30
+0000823768
+wm:RenewableNaturalGasMember
+wm:CleanFuelProductionTaxCreditsProductionAndSalesDuring2025OperationsMember
+2026-01-01
+2026-06-30
+0000823768
+srt:MinimumMember
+2026-01-01
+2026-06-30
+0000823768
+srt:MaximumMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:TreasuryStockCommonMember
+2026-06-30
+0000823768
+us-gaap:RetainedEarningsMember
+2026-06-30
+0000823768
+us-gaap:NoncontrollingInterestMember
+2026-06-30
+0000823768
+us-gaap:AdditionalPaidInCapitalMember
+2026-06-30
+0000823768
+us-gaap:AccumulatedTranslationAdjustmentMember
+2026-06-30
+0000823768
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-06-30
+0000823768
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2026-06-30
+0000823768
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2026-06-30
+0000823768
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2026-06-30
+0000823768
+us-gaap:TreasuryStockCommonMember
+2026-03-31
+0000823768
+us-gaap:RetainedEarningsMember
+2026-03-31
+0000823768
+us-gaap:NoncontrollingInterestMember
+2026-03-31
+0000823768
+us-gaap:AdditionalPaidInCapitalMember
+2026-03-31
+0000823768
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-03-31
+0000823768
+2026-03-31
+0000823768
+us-gaap:TreasuryStockCommonMember
+2025-12-31
+0000823768
+us-gaap:RetainedEarningsMember
+2025-12-31
+0000823768
+us-gaap:NoncontrollingInterestMember
+2025-12-31
+0000823768
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-31
+0000823768
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-12-31
+0000823768
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-12-31
+0000823768
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2025-12-31
+0000823768
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2025-12-31
+0000823768
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-12-31
+0000823768
+us-gaap:TreasuryStockCommonMember
+2025-06-30
+0000823768
+us-gaap:RetainedEarningsMember
+2025-06-30
+0000823768
+us-gaap:NoncontrollingInterestMember
+2025-06-30
+0000823768
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0000823768
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0000823768
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0000823768
+us-gaap:RetainedEarningsMember
+2025-03-31
+0000823768
+us-gaap:NoncontrollingInterestMember
+2025-03-31
+0000823768
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0000823768
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0000823768
+2025-03-31
+0000823768
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0000823768
+us-gaap:RetainedEarningsMember
+2024-12-31
+0000823768
+us-gaap:NoncontrollingInterestMember
+2024-12-31
+0000823768
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0000823768
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:TransferMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:ResidentialMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RenewableEnergySegmentMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RecyclingProcessingAndSalesMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:OtherCollectionMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:IndustrialMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:HealthcareSolutionsMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CommercialMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CollectionMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CollectionAndDisposalMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:ServiceOtherMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:LandfillMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:WestTierRegionAreasMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:TransferMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:ResidentialMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:RecyclingProcessingAndSalesMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:RecyclingProcessingAndSalesMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:OtherCollectionMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:IndustrialMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:HealthcareSolutionsMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:EastTierRegionAreasMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CommercialMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CollectionMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CollectionAndDisposalMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CollectionAndDisposalMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:ServiceOtherMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:LandfillMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:CorporateAndOtherMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2026-04-01
+2026-06-30
+0000823768
+wm:TransferMember
+2026-04-01
+2026-06-30
+0000823768
+wm:ResidentialMember
+2026-04-01
+2026-06-30
+0000823768
+wm:RenewableEnergySegmentMember
+2026-04-01
+2026-06-30
+0000823768
+wm:RecyclingProcessingAndSalesMember
+2026-04-01
+2026-06-30
+0000823768
+wm:OtherCollectionMember
+2026-04-01
+2026-06-30
+0000823768
+wm:IndustrialMember
+2026-04-01
+2026-06-30
+0000823768
+wm:HealthcareSolutionsMember
+2026-04-01
+2026-06-30
+0000823768
+wm:CommercialMember
+2026-04-01
+2026-06-30
+0000823768
+wm:CollectionMember
+2026-04-01
+2026-06-30
+0000823768
+wm:CollectionAndDisposalMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:ServiceOtherMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:LandfillMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:TransferMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:ResidentialMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:OtherCollectionMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:IndustrialMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:HealthcareSolutionsMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CommercialMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CollectionMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:LandfillMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:WestTierRegionAreasMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:TransferMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:ResidentialMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:RenewableEnergySegmentMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:RecyclingProcessingAndSalesMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:OtherCollectionMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:IndustrialMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:HealthcareSolutionsMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:EastTierRegionAreasMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CommercialMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CollectionMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CollectionAndDisposalMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:LandfillMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:CorporateAndOtherMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2026-01-01
+2026-06-30
+0000823768
+wm:TransferMember
+2026-01-01
+2026-06-30
+0000823768
+wm:ResidentialMember
+2026-01-01
+2026-06-30
+0000823768
+wm:OtherCollectionMember
+2026-01-01
+2026-06-30
+0000823768
+wm:IndustrialMember
+2026-01-01
+2026-06-30
+0000823768
+wm:HealthcareSolutionsMember
+2026-01-01
+2026-06-30
+0000823768
+wm:CommercialMember
+2026-01-01
+2026-06-30
+0000823768
+wm:CollectionMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:LandfillMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:TransferMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:ResidentialMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RenewableEnergySegmentMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RecyclingProcessingAndSalesMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:OtherCollectionMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:IndustrialMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:HealthcareSolutionsMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CommercialMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CollectionMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CollectionAndDisposalMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:ServiceOtherMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:LandfillMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:WestTierRegionAreasMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:TransferMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:ResidentialMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:RecyclingProcessingAndSalesMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:RecyclingProcessingAndSalesMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:OtherCollectionMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:IndustrialMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:HealthcareSolutionsMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:EastTierRegionAreasMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CommercialMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CollectionMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CollectionAndDisposalMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CollectionAndDisposalMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:ServiceOtherMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:LandfillMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:CorporateAndOtherMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2025-04-01
+2025-06-30
+0000823768
+wm:TransferMember
+2025-04-01
+2025-06-30
+0000823768
+wm:ResidentialMember
+2025-04-01
+2025-06-30
+0000823768
+wm:RenewableEnergySegmentMember
+2025-04-01
+2025-06-30
+0000823768
+wm:RecyclingProcessingAndSalesMember
+2025-04-01
+2025-06-30
+0000823768
+wm:OtherCollectionMember
+2025-04-01
+2025-06-30
+0000823768
+wm:IndustrialMember
+2025-04-01
+2025-06-30
+0000823768
+wm:HealthcareSolutionsMember
+2025-04-01
+2025-06-30
+0000823768
+wm:CommercialMember
+2025-04-01
+2025-06-30
+0000823768
+wm:CollectionMember
+2025-04-01
+2025-06-30
+0000823768
+wm:CollectionAndDisposalMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:ServiceOtherMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:LandfillMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:TransferMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:ResidentialMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:OtherCollectionMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:IndustrialMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:HealthcareSolutionsMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CommercialMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CollectionMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:LandfillMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:WestTierRegionAreasMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:TransferMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:ResidentialMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:RenewableEnergySegmentMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:RecyclingProcessingAndSalesMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:OtherCollectionMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:IndustrialMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:HealthcareSolutionsMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:EastTierRegionAreasMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CommercialMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CollectionMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:CollectionAndDisposalMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:LandfillMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:CorporateAndOtherMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-06-30
+0000823768
+wm:TransferMember
+2025-01-01
+2025-06-30
+0000823768
+wm:ResidentialMember
+2025-01-01
+2025-06-30
+0000823768
+wm:OtherCollectionMember
+2025-01-01
+2025-06-30
+0000823768
+wm:IndustrialMember
+2025-01-01
+2025-06-30
+0000823768
+wm:HealthcareSolutionsMember
+2025-01-01
+2025-06-30
+0000823768
+wm:CommercialMember
+2025-01-01
+2025-06-30
+0000823768
+wm:CollectionMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:LandfillMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:AdditionalPaidInCapitalMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:TreasuryStockCommonMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:TreasuryStockCommonMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:TreasuryStockCommonMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:NoncontrollingInterestMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:NoncontrollingInterestMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:NoncontrollingInterestMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:NoncontrollingInterestMember
+2025-01-01
+2025-06-30
+0000823768
+wm:CanadianSeniorNotesMaturingJuly2033Member
+2026-06-01
+2026-06-30
+0000823768
+us-gaap:TaxYear2017Member
+2026-04-01
+2026-06-30
+0000823768
+wm:StockActivityUnder10b51PlanMember
+2026-04-01
+2026-06-30
+0000823768
+wm:StockActivityUnder10b51PlanMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:AccumulatedTranslationAdjustmentMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:ServiceMember
+wm:CollectionAndDisposalMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:HealthcareSolutionsMember
+2026-04-01
+2026-06-30
+0000823768
+wm:WestTierRegionAreasMember
+2026-04-01
+2026-06-30
+0000823768
+wm:RenewableEnergySegmentMember
+2026-04-01
+2026-06-30
+0000823768
+wm:RecyclingProcessingAndSalesMember
+2026-04-01
+2026-06-30
+0000823768
+wm:EastTierRegionAreasMember
+2026-04-01
+2026-06-30
+0000823768
+wm:CollectionAndDisposalMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:CorporateAndOtherMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:AllOtherSegmentsMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:ServiceMember
+wm:CollectionAndDisposalMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:HealthcareSolutionsMember
+2026-01-01
+2026-06-30
+0000823768
+wm:WestTierRegionAreasMember
+2026-01-01
+2026-06-30
+0000823768
+wm:RenewableEnergySegmentMember
+2026-01-01
+2026-06-30
+0000823768
+wm:RecyclingProcessingAndSalesMember
+2026-01-01
+2026-06-30
+0000823768
+wm:EastTierRegionAreasMember
+2026-01-01
+2026-06-30
+0000823768
+wm:CollectionAndDisposalMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:CorporateAndOtherMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:AllOtherSegmentsMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:ServiceMember
+wm:CollectionAndDisposalMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:HealthcareSolutionsMember
+2025-04-01
+2025-06-30
+0000823768
+wm:WestTierRegionAreasMember
+2025-04-01
+2025-06-30
+0000823768
+wm:RenewableEnergySegmentMember
+2025-04-01
+2025-06-30
+0000823768
+wm:RecyclingProcessingAndSalesMember
+2025-04-01
+2025-06-30
+0000823768
+wm:EastTierRegionAreasMember
+2025-04-01
+2025-06-30
+0000823768
+wm:CollectionAndDisposalMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:CorporateAndOtherMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:AllOtherSegmentsMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:ServiceMember
+wm:CollectionAndDisposalMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+wm:HealthcareSolutionsMember
+2025-01-01
+2025-06-30
+0000823768
+wm:WestTierRegionAreasMember
+2025-01-01
+2025-06-30
+0000823768
+wm:RenewableEnergySegmentMember
+2025-01-01
+2025-06-30
+0000823768
+wm:RecyclingProcessingAndSalesMember
+2025-01-01
+2025-06-30
+0000823768
+wm:EastTierRegionAreasMember
+2025-01-01
+2025-06-30
+0000823768
+wm:CollectionAndDisposalMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:CorporateAndOtherMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-06-30
+0000823768
+wm:OtherLetterOfCreditFacilitiesMember
+2026-06-30
+0000823768
+wm:CreditFacilityRevolvingMember
+2026-06-30
+0000823768
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:DebtSecuritiesMember
+2026-06-30
+0000823768
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommonStocksByIndustryMember
+2026-06-30
+0000823768
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:DebtSecuritiesMember
+2025-12-31
+0000823768
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:CommonStocksByIndustryMember
+2025-12-31
+0000823768
+us-gaap:TaxYear2017Member
+2022-10-01
+2022-12-31
+0000823768
+wm:RenewableNaturalGasMember
+2026-04-01
+2026-06-30
+0000823768
+wm:RenewableNaturalGasMember
+2026-01-01
+2026-06-30
+0000823768
+wm:RenewableNaturalGasMember
+2025-04-01
+2025-06-30
+0000823768
+wm:RenewableNaturalGasMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:VariableInterestEntityNotPrimaryBeneficiaryMember
+wm:TrustForFinalCappingClosurePostClosureOrEnvironmentalRemediationObligationsMember
+2026-06-30
+0000823768
+us-gaap:VariableInterestEntityNotPrimaryBeneficiaryMember
+wm:TrustForFinalCappingClosurePostClosureOrEnvironmentalRemediationObligationsMember
+2025-12-31
+0000823768
+us-gaap:RetainedEarningsMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+wm:WestTierRegionAreasMember
+2026-01-01
+2026-06-30
+0000823768
+wm:CommercialPaperProgramMember
+2026-01-01
+2026-06-30
+0000823768
+srt:MinimumMember
+wm:TaxExemptBondsMember
+2026-06-30
+0000823768
+srt:MinimumMember
+wm:SeniorNotesAggregateMember
+2026-06-30
+0000823768
+srt:MaximumMember
+wm:TaxExemptBondsMember
+2026-06-30
+0000823768
+srt:MaximumMember
+wm:SeniorNotesAggregateMember
+2026-06-30
+0000823768
+wm:SeniorNotes7.1PercentDueAugust2026Member
+2026-06-30
+0000823768
+srt:MinimumMember
+wm:TaxExemptBondsMember
+2025-12-31
+0000823768
+srt:MinimumMember
+wm:SeniorNotesAggregateMember
+2025-12-31
+0000823768
+srt:MaximumMember
+wm:TaxExemptBondsMember
+2025-12-31
+0000823768
+srt:MaximumMember
+wm:SeniorNotesAggregateMember
+2025-12-31
+0000823768
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2026-06-30
+0000823768
+us-gaap:FairValueInputsLevel2Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-12-31
+0000823768
+srt:MinimumMember
+wm:CreditFacilityRevolvingMember
+2026-01-01
+2026-06-30
+0000823768
+srt:MaximumMember
+wm:CreditFacilityRevolvingMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:VariableInterestEntityNotPrimaryBeneficiaryMember
+wm:InvestmentInLowIncomeHousingPropertiesMember
+2026-06-30
+0000823768
+wm:TaxExemptBondsMember
+2026-06-30
+0000823768
+wm:SeniorNotesAggregateMember
+2026-06-30
+0000823768
+wm:FinancingLeasesAndOtherMember
+2026-06-30
+0000823768
+wm:CanadianSeniorNotesMember
+2026-06-30
+0000823768
+wm:CanadianSeniorNotesMaturingJuly2033Member
+2026-06-30
+0000823768
+us-gaap:VariableInterestEntityNotPrimaryBeneficiaryMember
+wm:InvestmentInLowIncomeHousingPropertiesMember
+2025-12-31
+0000823768
+wm:TaxExemptBondsMember
+2025-12-31
+0000823768
+wm:SeniorNotesAggregateMember
+2025-12-31
+0000823768
+wm:FinancingLeasesAndOtherMember
+2025-12-31
+0000823768
+wm:CommercialPaperProgramMember
+2025-12-31
+0000823768
+wm:CanadianSeniorNotesMember
+2025-12-31
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:WestTierRegionAreasMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RenewableEnergySegmentMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RecyclingProcessingAndSalesMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:HealthcareSolutionsMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:EastTierRegionAreasMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CollectionAndDisposalMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:CorporateAndOtherMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2026-04-01
+2026-06-30
+0000823768
+wm:HealthcareSolutionsMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+2026-04-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:WestTierRegionAreasMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RenewableEnergySegmentMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RecyclingProcessingAndSalesMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:HealthcareSolutionsMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:EastTierRegionAreasMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CollectionAndDisposalMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:CorporateAndOtherMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2026-01-01
+2026-06-30
+0000823768
+wm:HealthcareSolutionsMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:WestTierRegionAreasMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RenewableEnergySegmentMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RecyclingProcessingAndSalesMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:HealthcareSolutionsMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:EastTierRegionAreasMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CollectionAndDisposalMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:CorporateAndOtherMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2025-04-01
+2025-06-30
+0000823768
+wm:HealthcareSolutionsMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+2025-04-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:WestTierRegionAreasMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RenewableEnergySegmentMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RecyclingProcessingAndSalesMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:HealthcareSolutionsMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:EastTierRegionAreasMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CollectionAndDisposalMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:CorporateAndOtherMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2025-01-01
+2025-06-30
+0000823768
+wm:HealthcareSolutionsMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+2025-01-01
+2025-06-30
+0000823768
+us-gaap:CommonStockMember
+2026-06-30
+0000823768
+us-gaap:CommonStockMember
+2026-03-31
+0000823768
+us-gaap:CommonStockMember
+2025-12-31
+0000823768
+us-gaap:CommonStockMember
+2025-06-30
+0000823768
+us-gaap:CommonStockMember
+2025-03-31
+0000823768
+us-gaap:CommonStockMember
+2024-12-31
+0000823768
+wm:CommercialPaperProgramMember
+2026-06-30
+0000823768
+2024-12-31
+0000823768
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2026-06-30
+0000823768
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0000823768
+2025-06-30
+0000823768
+wm:FinancingLeasesAndOtherMember
+2026-01-01
+2026-06-30
+0000823768
+srt:MinimumMember
+2026-06-30
+0000823768
+srt:MaximumMember
+2026-06-30
+0000823768
+us-gaap:SeriesOfIndividuallyImmaterialBusinessAcquisitionsMember
+2026-06-30
+0000823768
+us-gaap:SeriesOfIndividuallyImmaterialBusinessAcquisitionsMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:FairValueMeasurementsRecurringMember
+2026-06-30
+0000823768
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:WestTierRegionAreasMember
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RenewableEnergySegmentMember
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RecyclingProcessingAndSalesMember
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:HealthcareSolutionsMember
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:EastTierRegionAreasMember
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CollectionAndDisposalMember
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:CorporateAndOtherMember
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2026-06-30
+0000823768
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2026-06-30
+0000823768
+us-gaap:IntersegmentEliminationMember
+2026-06-30
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:WestTierRegionAreasMember
+2025-12-31
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RenewableEnergySegmentMember
+2025-12-31
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:RecyclingProcessingAndSalesMember
+2025-12-31
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:HealthcareSolutionsMember
+2025-12-31
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:EastTierRegionAreasMember
+2025-12-31
+0000823768
+us-gaap:OperatingSegmentsMember
+wm:CollectionAndDisposalMember
+2025-12-31
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:CorporateAndOtherMember
+2025-12-31
+0000823768
+us-gaap:OperatingSegmentsMember
+us-gaap:AllOtherSegmentsMember
+2025-12-31
+0000823768
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2025-12-31
+0000823768
+us-gaap:IntersegmentEliminationMember
+2025-12-31
+0000823768
+us-gaap:LandfillMember
+2026-01-01
+2026-06-30
+0000823768
+us-gaap:LandfillMember
+2026-06-30
+0000823768
+us-gaap:LandfillMember
+2025-12-31
+0000823768
+wm:OilRecoveryAndSludgeProcessingServicesMember
+2026-04-01
+2026-06-30
+0000823768
+wm:OilRecoveryAndSludgeProcessingServicesMember
+2026-01-01
+2026-06-30
+0000823768
+2026-04-01
+2026-06-30
+0000823768
+2025-04-01
+2025-06-30
+0000823768
+2025-01-01
+2025-06-30
+0000823768
+wm:InvestmentInLowIncomeHousingPropertiesMember
+2026-04-01
+2026-06-30
+0000823768
+wm:InvestmentInLowIncomeHousingPropertiesMember
+2026-01-01
+2026-06-30
+0000823768
+wm:InvestmentInLowIncomeHousingPropertiesMember
+2025-04-01
+2025-06-30
+0000823768
+wm:InvestmentInLowIncomeHousingPropertiesMember
+2025-01-01
+2025-06-30
+0000823768
+wm:EnvironmentalCostsMember
+2026-01-01
+2026-06-30
+0000823768
+wm:SanJacintoWastePitsMember
+2026-06-30
+0000823768
+wm:EnvironmentalCostsMember
+2026-06-30
+0000823768
+wm:SanJacintoWastePitsMember
+2025-12-31
+0000823768
+wm:EnvironmentalCostsMember
+2025-12-31
+0000823768
+2026-06-30
+0000823768
+2025-12-31
+0000823768
+wm:ChristopherDesantisMember
+2026-06-30
+0000823768
+wm:ChristopherDesantisMember
+2026-04-01
+2026-06-30
+0000823768
+2026-07-24
+0000823768
+2026-01-01
+2026-06-30
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+iso4217:CAD
+xbrli:pure
+wm:segment
+​
+​
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+​
+Form
+10-Q
+​
+(Mark One)
+​
+​
+​
+​
+​
+​
+​
+☑
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+​
+​
+​
+For the Quarterly Period Ended
+June 30, 2026
+​
+​
+or
+​
+​
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+​
+​
+​
+For the transition period from              to
+​
+​
+Commission file number
+1-12154
+​
+Waste Management, Inc
+.
+(Exact name of registrant as specified in its charter)
+​
+​
+​
+Delaware
+73-1309529
+(State or other jurisdiction of
+(I.R.S. Employer
+incorporation or organization)
+Identification No.)
+​
+800 Capitol Street
+Suite 3000
+Houston
+,
+Texas
+77002
+(Address of principal executive offices)
+​
+(
+713
+)
+512-6200
+(Registrant’s telephone number, including area code)
+​
+Securities registered pursuant to Section 12(b) of the Act:
+​
+Title of Each Class
+​ ​ ​
+Trading Symbol
+​ ​ ​
+Name of Each Exchange on Which Registered
+Common Stock
+, $0.01 par value
+​
+WM
+​
+New York Stock Exchange
+​
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☑
+No
+☐
+​
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☑
+No
+☐
+​
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+​
+​
+​
+​
+Large accelerated filer
+☑
+​
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+​
+Smaller reporting company
+☐
+​
+​
+Emerging growth company
+☐
+​
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+​
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).    Yes
+☐
+No
+☑
+​
+The number of shares of Common Stock, $0.01 par value, of the registrant outstanding as of July 24, 2026 was
+399,715,184
+(excluding treasury shares of 230,567,277).
+​
+​
+​
+PART I.
+Item 1.
+Financial Statements.
+WASTE MANAGEMENT, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In Millions, Except Share and Par Value Amounts)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+June 30,
+​
+December 31,
+​
+​ ​ ​
+2026
+​ ​ ​
+2025
+​
+​
+(Unaudited)
+​
+​
+​
+ASSETS
+​
+​
+​
+​
+​
+​
+Current assets:
+​
+​
+​
+​
+Cash and cash equivalents
+​
+$
+557
+​
+$
+201
+Accounts receivable, net of allowance for doubtful accounts of
+$
+73
+and
+$
+87
+, respectively
+​
+3,495
+​
+3,435
+Other receivables, net of allowance for doubtful accounts of
+$
+3
+and
+$
+3
+, respectively
+​
+711
+​
+620
+Parts and supplies
+​
+232
+​
+225
+Other current assets
+​
+402
+​
+429
+Total current assets
+​
+5,397
+​
+4,910
+Property and equipment, net of accumulated depreciation and depletion of
+$
+25,432
+and
+$
+25,096
+, respectively
+​
+20,440
+​
+20,378
+Goodwill
+​
+14,001
+​
+13,880
+Other intangible assets, net
+​
+3,641
+​
+3,767
+Restricted funds
+​
+648
+​
+513
+Investments in unconsolidated entities
+​
+738
+​
+779
+Other long-term assets
+​
+1,576
+​
+1,608
+Total assets
+​
+$
+46,441
+​
+$
+45,835
+LIABILITIES AND EQUITY
+​
+​
+​
+​
+​
+​
+Current liabilities:
+​
+​
+​
+​
+Accounts payable
+​
+$
+1,992
+​
+$
+1,867
+Accrued liabilities
+​
+2,114
+​
+2,211
+Deferred revenues
+​
+767
+​
+735
+Current portion of long-term debt
+​
+1,075
+​
+711
+Total current liabilities
+​
+5,948
+​
+5,524
+Long-term debt, less current portion
+​
+22,281
+​
+22,196
+Deferred income taxes
+​
+3,307
+​
+3,160
+Landfill and environmental remediation liabilities
+​
+3,325
+​
+3,278
+Other long-term liabilities
+​
+1,654
+​
+1,686
+Total liabilities
+​
+36,515
+​
+35,844
+Commitments and contingencies (Note 6)
+​
+​
+​
+​
+Equity:
+​
+​
+​
+​
+Waste Management, Inc. stockholders’ equity:
+​
+​
+​
+​
+Common stock,
+$
+0.01
+par value;
+1,500,000,000
+shares authorized;
+630,282,461
+shares issued
+​
+6
+​
+6
+Additional paid-in capital
+​
+5,864
+​
+5,676
+Retained earnings
+​
+17,977
+​
+17,232
+Accumulated other comprehensive income (loss)
+​
+(
+71
+)
+​
+(
+10
+)
+Treasury stock at cost,
+230,314,758
+and
+227,340,757
+shares, respectively
+​
+(
+13,851
+)
+​
+(
+12,914
+)
+Total Waste Management, Inc. stockholders’ equity
+​
+9,925
+​
+9,990
+Noncontrolling interests
+​
+1
+​
+1
+Total equity
+​
+9,926
+​
+9,991
+Total liabilities and equity
+​
+$
+46,441
+​
+$
+45,835
+​
+See Notes to Condensed Consolidated Financial Statements.
+2
+​
+WASTE MANAGEMENT, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(In Millions, Except per Share Amounts)
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+Six Months Ended
+​
+​
+June 30,
+​
+June 30,
+​
+​ ​ ​
+2026
+​ ​ ​
+2025
+​ ​ ​
+2026
+​ ​ ​
+2025
+Operating revenues
+​
+$
+6,684
+​
+$
+6,430
+​
+$
+12,911
+​
+$
+12,448
+Costs and expenses:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Operating
+​
+3,955
+​
+3,803
+​
+7,649
+​
+7,415
+Selling, general and administrative
+​
+683
+​
+696
+​
+1,390
+​
+1,383
+Depreciation, depletion, amortization and accretion
+​
+777
+​
+744
+​
+1,512
+​
+1,435
+Restructuring
+​
+6
+​
+12
+​
+10
+​
+25
+(Gain) loss from divestitures, asset impairments and unusual items, net
+​
+10
+​
+24
+​
+(
+16
+)
+​
+26
+​
+​
+5,431
+​
+5,279
+​
+10,545
+​
+10,284
+Income from operations
+​
+1,253
+​
+1,151
+​
+2,366
+​
+2,164
+Other income (expense):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Interest expense, net
+​
+(
+233
+)
+​
+(
+232
+)
+​
+(
+458
+)
+​
+(
+464
+)
+Other, net
+​
+4
+​
+9
+​
+7
+​
+16
+​
+​
+(
+229
+)
+​
+(
+223
+)
+​
+(
+451
+)
+​
+(
+448
+)
+Income before income taxes
+​
+1,024
+​
+928
+​
+1,915
+​
+1,716
+Income tax expense
+​
+238
+​
+201
+​
+406
+​
+352
+Consolidated net income
+​
+786
+​
+727
+​
+1,509
+​
+1,364
+Less: Net income (loss) attributable to noncontrolling interests
+​
+1
+​
+1
+​
+1
+​
+1
+Net income attributable to Waste Management, Inc.
+​
+$
+785
+​
+$
+726
+​
+$
+1,508
+​
+$
+1,363
+Basic earnings per common share
+​
+$
+1.96
+​
+$
+1.80
+​
+$
+3.75
+​
+$
+3.39
+Diluted earnings per common share
+​
+$
+1.95
+​
+$
+1.80
+​
+$
+3.74
+​
+$
+3.37
+​
+​
+​
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(In Millions)
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+Six Months Ended
+​
+​
+June 30,
+​
+June 30,
+​
+​ ​ ​
+2026
+​ ​ ​
+2025
+​ ​ ​
+2026
+​ ​ ​
+2025
+Consolidated net income
+​
+$
+786
+​
+$
+727
+​
+$
+1,509
+​
+$
+1,364
+Other comprehensive income (loss), net of tax:
+​
+​
+​
+​
+​
+​
+​
+​
+Derivative instruments, net
+​
+(
+1
+)
+​
+(
+10
+)
+​
+(
+3
+)
+​
+(
+1
+)
+Available-for-sale securities, net
+​
+4
+​
+6
+​
+—
+​
+8
+Foreign currency translation adjustments
+​
+(
+30
+)
+​
+100
+​
+(
+58
+)
+​
+117
+Post-retirement benefit obligations, net
+​
+—
+​
+​
+—
+​
+—
+​
+—
+Other comprehensive income (loss), net of tax
+​
+(
+27
+)
+​
+​
+96
+​
+(
+61
+)
+​
+124
+Comprehensive income
+​
+759
+​
+823
+​
+1,448
+​
+1,488
+Less: Comprehensive income (loss) attributable to noncontrolling interests
+​
+1
+​
+​
+1
+​
+1
+​
+1
+Comprehensive income attributable to Waste Management, Inc.
+​
+$
+758
+​
+$
+822
+​
+$
+1,447
+​
+$
+1,487
+​
+See Notes to Condensed Consolidated Financial Statements.
+​
+3
+WASTE MANAGEMENT, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In Millions)
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Six Months Ended
+​
+​
+June 30,
+​
+​ ​ ​
+2026
+​ ​ ​
+2025
+Cash flows from operating activities:
+​
+​
+​
+​
+Consolidated net income
+$
+1,509
+​
+$
+1,364
+Adjustments to reconcile consolidated net income to net cash provided by operating activities:
+​
+​
+​
+​
+Depreciation, depletion, amortization and accretion
+​
+1,512
+​
+1,435
+Deferred income tax expense (benefit)
+​
+143
+​
+79
+Provision for bad debts
+​
+69
+​
+43
+Equity-based compensation expense
+​
+98
+​
+92
+Net gain on disposal of assets
+​
+(
+6
+)
+​
+(
+12
+)
+(Gain) loss from divestitures, asset impairments and other, net
+​
+(
+16
+)
+​
+26
+Change in operating assets and liabilities, net of effects of acquisitions and divestitures:
+​
+​
+​
+​
+Receivables
+​
+(
+224
+)
+​
+(
+323
+)
+Other current assets
+​
+3
+​
+(
+52
+)
+Other assets
+​
+127
+​
+134
+Accounts payable and accrued liabilities
+​
+134
+​
+42
+Deferred revenues and other liabilities
+​
+(
+122
+)
+​
+(
+75
+)
+Net cash provided by operating activities
+​
+3,227
+​
+2,753
+Cash flows from investing activities:
+​
+​
+​
+​
+Acquisitions of businesses, net of cash acquired
+​
+(
+85
+)
+​
+(
+366
+)
+Capital expenditures
+​
+(
+1,280
+)
+​
+(
+1,563
+)
+Proceeds from divestitures of businesses and other assets, net of cash divested
+​
+77
+​
+103
+Other, net
+​
+(
+139
+)
+​
+(
+89
+)
+Net cash used in investing activities
+​
+(
+1,427
+)
+​
+(
+1,915
+)
+Cash flows from financing activities:
+​
+​
+​
+​
+New borrowings
+​
+12,823
+​
+9,135
+Debt repayments
+​
+(
+12,484
+)
+​
+(
+9,234
+)
+Common stock repurchase program
+​
+(
+1,003
+)
+​
+—
+Cash dividends
+​
+(
+764
+)
+​
+(
+669
+)
+Exercise of common stock options
+​
+32
+​
+50
+Tax payments associated with equity-based compensation transactions
+​
+(
+40
+)
+​
+(
+49
+)
+Other, net
+​
+(
+16
+)
+​
+(
+14
+)
+Net cash used in financing activities
+​
+(
+1,452
+)
+​
+(
+781
+)
+Effect of exchange rate changes on cash, cash equivalents and restricted cash and cash equivalents
+​
+(
+7
+)
+​
+8
+Increase (decrease) in cash, cash equivalents and restricted cash and cash equivalents
+​
+341
+​
+65
+Cash, cash equivalents and restricted cash and cash equivalents at beginning of period
+​
+297
+​
+487
+Cash, cash equivalents and restricted cash and cash equivalents at end of period
+$
+638
+​
+$
+552
+​
+​
+​
+​
+​
+​
+​
+Reconciliation of cash, cash equivalents and restricted cash and cash equivalents at end of period:
+​
+​
+​
+​
+​
+​
+Cash and cash equivalents
+​
+$
+557
+​
+$
+440
+Restricted cash and cash equivalents included in other current assets
+​
+​
+9
+​
+​
+45
+Restricted cash and cash equivalents included in restricted funds
+​
+​
+72
+​
+​
+67
+Cash, cash equivalents and restricted cash and cash equivalents at end of period
+$
+638
+​
+$
+552
+​
+See Notes to Condensed Consolidated Financial Statements.
+4
+WASTE MANAGEMENT, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY
+(In Millions, Except Shares in Thousands)
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Waste Management, Inc. Stockholders’ Equity
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Accumulated
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Additional
+​
+​
+​
+​
+Other
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Common Stock
+​
+Paid-In
+​
+Retained
+​
+Comprehensive
+​
+Treasury Stock
+​
+Noncontrolling
+​
+​
+Total
+​
+Shares
+​
+Amounts
+​
+Capital
+​
+Earnings
+​
+Income (Loss)
+​
+Shares
+​
+Amounts
+​
+Interests
+Three Months Ended June 30:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2026
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Balance, March 31, 2026
+​
+$
+10,022
+​
+630,282
+​
+$
+6
+​
+$
+5,708
+​
+$
+17,571
+​
+$
+(
+44
+)
+(
+228,009
+)
+​
+$
+(
+13,220
+)
+​
+$
+1
+Consolidated net income
+​
+786
+​
+—
+​
+​
+—
+​
+​
+—
+​
+​
+785
+​
+​
+—
+​
+—
+​
+​
+—
+​
+​
+1
+Other comprehensive income (loss), net of tax
+​
+(
+27
+)
+​
+—
+​
+​
+—
+​
+​
+—
+​
+​
+—
+​
+​
+(
+27
+)
+​
+—
+​
+​
+—
+​
+​
+—
+Cash dividends declared of $
+0.945
+per common share
+​
+(
+379
+)
+​
+—
+​
+​
+—
+​
+​
+—
+​
+​
+(
+379
+)
+​
+​
+—
+​
+—
+​
+​
+—
+​
+​
+—
+Equity-based compensation transactions, net
+​
+52
+​
+—
+​
+​
+—
+​
+​
+49
+​
+​
+—
+​
+​
+—
+​
+59
+​
+​
+3
+​
+​
+—
+Common stock repurchase program
+​
+(
+671
+)
+​
+—
+​
+​
+—
+​
+​
+—
+​
+​
+—
+​
+​
+—
+​
+(
+2,998
+)
+​
+​
+(
+671
+)
+​
+​
+—
+Acquisitions
+​
+​
+144
+​
+—
+​
+​
+—
+​
+​
+107
+​
+​
+—
+​
+​
+—
+​
+632
+​
+​
+37
+​
+​
+—
+Other, net
+​
+(
+1
+)
+​
+—
+​
+​
+—
+​
+​
+—
+​
+​
+—
+​
+​
+—
+​
+1
+​
+​
+—
+​
+​
+(
+1
+)
+Balance, June 30, 2026
+​
+$
+9,926
+​
+630,282
+​
+$
+6
+​
+$
+5,864
+​
+$
+17,977
+​
+$
+(
+71
+)
+(
+230,315
+)
+​
+$
+(
+13,851
+)
+​
+$
+1
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2025
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Balance, March 31, 2025
+​
+$
+8,651
+​
+630,282
+​
+$
+6
+​
+$
+5,515
+​
+$
+16,160
+​
+$
+(
+87
+)
+(
+227,911
+)
+​
+$
+(
+12,944
+)
+​
+$
+1
+Consolidated net income
+​
+727
+​
+—
+​
+—
+​
+—
+​
+726
+​
+—
+—
+​
+—
+​
+1
+Other comprehensive income (loss), net of tax
+​
+96
+​
+—
+​
+—
+​
+—
+​
+—
+​
+96
+—
+​
+—
+​
+—
+Cash dividends declared of $
+0.825
+per common share
+​
+(
+333
+)
+​
+—
+​
+—
+​
+—
+​
+(
+333
+)
+​
+—
+—
+​
+—
+​
+—
+Equity-based compensation transactions, net
+​
+62
+​
+—
+​
+—
+​
+51
+​
+—
+​
+—
+231
+​
+11
+​
+—
+Other, net
+​
+(
+1
+)
+​
+—
+​
+—
+​
+—
+​
+—
+​
+—
+—
+​
+—
+​
+(
+1
+)
+Balance, June 30, 2025
+​
+$
+9,202
+​
+630,282
+​
+$
+6
+​
+$
+5,566
+​
+$
+16,553
+​
+$
+9
+(
+227,680
+)
+​
+$
+(
+12,933
+)
+​
+$
+1
+​
+See Notes to Condensed Consolidated Financial Statements.
+​
+5
+WASTE MANAGEMENT, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY ─ (Continued)
+(In Millions, Except Shares in Thousands)
+(Unaudited)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Waste Management, Inc. Stockholders’ Equity
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Accumulated
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Additional
+​
+​
+​
+​
+Other
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Common Stock
+​
+Paid-In
+​
+Retained
+​
+Comprehensive
+​
+Treasury Stock
+​
+Noncontrolling
+​
+​
+Total
+​
+Shares
+​
+Amounts
+​
+Capital
+​
+Earnings
+​
+Income (Loss)
+​
+Shares
+​
+Amounts
+​
+Interests
+Six Months Ended June 30:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2026
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Balance, December 31, 2025
+​
+$
+9,991
+​
+630,282
+​
+$
+6
+​
+$
+5,676
+​
+$
+17,232
+​
+$
+(
+10
+)
+(
+227,341
+)
+​
+$
+(
+12,914
+)
+​
+$
+1
+Consolidated net income
+​
+1,509
+​
+—
+​
+—
+​
+—
+​
+1,508
+​
+—
+—
+​
+—
+​
+1
+Other comprehensive income (loss), net of tax
+​
+(
+61
+)
+​
+—
+​
+—
+​
+—
+​
+—
+​
+(
+61
+)
+—
+​
+—
+​
+—
+Cash dividends declared of $
+1.89
+per common share
+​
+(
+764
+)
+​
+—
+​
+—
+​
+—
+​
+(
+764
+)
+​
+—
+—
+​
+—
+​
+—
+Equity-based compensation transactions, net
+​
+133
+​
+—
+​
+—
+​
+81
+​
+1
+​
+—
+890
+​
+51
+​
+—
+Common stock repurchase program
+​
+(
+1,025
+)
+​
+—
+​
+—
+​
+—
+​
+—
+​
+—
+(
+4,497
+)
+​
+(
+1,025
+)
+​
+—
+Acquisitions
+​
+​
+144
+​
+—
+​
+​
+—
+​
+​
+107
+​
+​
+—
+​
+​
+​
+​
+632
+​
+​
+37
+​
+​
+—
+Other, net
+​
+(
+1
+)
+​
+—
+​
+—
+​
+—
+​
+—
+​
+—
+1
+​
+—
+​
+(
+1
+)
+Balance, June 30, 2026
+​
+$
+9,926
+​
+630,282
+​
+$
+6
+​
+$
+5,864
+​
+$
+17,977
+​
+$
+(
+71
+)
+(
+230,315
+)
+​
+$
+(
+13,851
+)
+​
+$
+1
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2025
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Balance, December 31, 2024
+​
+$
+8,254
+​
+630,282
+​
+$
+6
+​
+$
+5,496
+​
+$
+15,858
+​
+$
+(
+115
+)
+(
+228,788
+)
+​
+$
+(
+12,993
+)
+​
+$
+2
+Consolidated net income
+​
+1,364
+​
+—
+​
+—
+​
+—
+​
+1,363
+​
+—
+—
+​
+—
+​
+1
+Other comprehensive income (loss), net of tax
+​
+124
+​
+—
+​
+—
+​
+—
+​
+—
+​
+124
+—
+​
+—
+​
+—
+Cash dividends declared of $
+1.65
+per common share
+​
+(
+669
+)
+​
+—
+​
+—
+​
+—
+​
+(
+669
+)
+​
+—
+—
+​
+—
+​
+—
+Equity-based compensation transactions, net
+​
+131
+​
+—
+​
+—
+​
+70
+​
+1
+​
+—
+1,107
+​
+60
+​
+—
+Other, net
+​
+(
+2
+)
+​
+—
+​
+—
+​
+—
+​
+—
+​
+—
+1
+​
+—
+​
+(
+2
+)
+Balance, June 30, 2025
+​
+$
+9,202
+​
+630,282
+​
+$
+6
+​
+$
+5,566
+​
+$
+16,553
+​
+$
+9
+(
+227,680
+)
+​
+$
+(
+12,933
+)
+​
+$
+1
+​
+See Notes to Condensed Consolidated Financial Statements.
+​
+6
+​
+​
+1.
+Basis of Presentation
+The financial statements presented in this report represent the consolidation of Waste Management, Inc., a Delaware corporation; its wholly-owned and majority-owned subsidiaries; and certain variable interest entities for which Waste Management, Inc. or its subsidiaries are the primary beneficiaries as described in Note 13. Waste Management, Inc. is a holding company and all operations are conducted by its subsidiaries. When the terms “the Company,” “we,” “us” or “our” are used in this document, those terms refer to Waste Management, Inc., together with its consolidated subsidiaries and consolidated variable interest entities. When we use the term “WMI,” we are referring only to Waste Management, Inc., the parent holding company.
+We are North America’s leading provider of comprehensive environmental solutions, providing services throughout the United States (“U.S.”) and Canada. We partner with our customers and the communities we serve to manage and reduce waste at each stage from collection to disposal, while recovering valuable resources and creating clean, renewable energy. Our solid waste business is operated and managed locally by our subsidiaries that focus on distinct geographic areas and provide collection, transfer, disposal, recycling and resource recovery services. Through our Renewable Energy segment, we are also a leading developer, operator and owner of landfill gas-to-energy facilities in the U.S. and Canada that produce renewable electricity and renewable natural gas (“RNG”), which is a significant source of fuel that we allocate to our natural gas fleet. Our Healthcare Solutions segment provides regulated waste and compliance services (“RWCS”) and secure information destruction (“SID”) services in the U.S., Canada and Western Europe that protect people and brands, promote health and well-being and safeguard the environment. Additionally, through our Recycling Processing and Sales segment, we are a leading recycler in the U.S. and Canada, handling materials that include paper, cardboard, glass, plastic and metal.
+Our senior management evaluates, oversees and manages the financial performance of our business through
+five
+reportable segments, referred to as (i) Collection and Disposal - East Tier (“East Tier”); (ii) Collection and Disposal - West Tier (“West Tier”); (iii) Recycling Processing and Sales; (iv) Renewable Energy and (v) Healthcare Solutions. Our East and West Tiers along with certain ancillary services (“Other Ancillary”) that are not managed through our Tier segments, but that support our collection and disposal operations, form our “Collection and Disposal” business. We also provide additional services not managed through our
+five
+reportable segments, which are presented as Corporate and Other. Refer to Note 7 for further discussion.
+The Condensed Consolidated Financial Statements as of June 30, 2026 for the three and six months ended June 30, 2026 and 2025 are unaudited. In the opinion of management, these financial statements include all adjustments, which, unless otherwise disclosed, are of a normal recurring nature, necessary for a fair presentation of the financial position, results of operations, comprehensive income, cash flows and changes in equity for the periods presented. The results for interim periods are not necessarily indicative of results for the entire year. The financial statements presented herein should be read in conjunction with the financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2025.
+In preparing our financial statements, we make numerous estimates and assumptions that affect the accounting for and recognition and disclosure of assets, liabilities, equity, revenues and expenses. We must make these estimates and assumptions because certain information that we use is dependent on future events, cannot be calculated with precision from available data or simply cannot be calculated. In some cases, these estimates are difficult to determine, and we must exercise significant judgment. In preparing our financial statements, the most difficult, subjective and complex estimates and the assumptions that present the greatest amount of uncertainty relate to our accounting for landfills, environmental remediation liabilities, long-lived asset impairments, intangible asset impairments and the fair value of assets and liabilities acquired in business combinations. Actual results could differ materially from the estimates and assumptions that we use in the preparation of our financial statements.
+Revenue Recognition
+We generally recognize revenue as services are performed or products are delivered. For example, revenue typically is recognized as waste is collected; tons are received at our landfills, transfer stations or processing facilities; or recycling
+7
+​
+and other commodities, such as RNG, electricity and capacity, Renewable Identification Numbers (“RINs”) and Renewable Energy Credits (“RECs”), are sold. Compliance services revenues are recognized over the contractual service period.
+We also bill for certain services prior to performance. Such services include, among others, certain commercial and residential contracts and equipment rentals. These advanced billings are included in deferred revenues and recognized as revenue in the period service is provided. Substantially all our deferred revenues during the reported periods are realized as revenues within
+one
+to
+three months
+, when the related services are performed.
+Contract Acquisition Costs
+Our incremental
+direct
+costs
+of
+obtaining
+a
+contract,
+which
+consist
+primarily
+of
+sales
+incentives,
+are
+generally
+deferred and
+amortized
+to
+selling,
+general
+and
+administrative
+expense
+over
+the
+estimated
+life
+of
+the
+relevant
+customer
+relationship,
+ranging
+from
+five
+to
+16
+years
+.
+Contract
+acquisition
+costs
+that
+are
+paid
+to
+the
+customer
+are
+deferred
+and
+amortized
+as
+a
+reduction in revenue
+over the contract life.
+Our contract acquisition costs are classified as current or noncurrent based on
+the
+timing
+of
+when
+we
+expect
+to
+recognize
+amortization
+and
+are
+included
+in
+other
+assets
+in
+our
+Condensed
+Consolidated
+Balance
+Sheets.
+As of June 30, 2026 and December 31, 2025, we had $
+230
+million and $
+237
+million, respectively, of deferred contract costs, of which $
+184
+million and $
+177
+million, respectively, were related to deferred sales incentives.
+Leases
+Amounts for our operating lease right-of-use assets are recorded in other long-term assets and the current and long-term portion of our operating lease liabilities are reflected in accrued liabilities and other long-term liabilities, respectively, in our Condensed Consolidated Balance Sheets. Amounts for our financing leases are recorded in property and equipment, net of accumulated depreciation and depletion, and current or long-term debt in our Condensed Consolidated Balance Sheets, as appropriate.
+Concentrations of Credit Risk
+Financial instruments that potentially subject us to concentrations of credit risk consist primarily of cash and cash equivalents, investments held within restricted funds, and accounts and other receivables. We make efforts to control our exposure to credit risk associated with these instruments by (i) placing our assets and other financial interests with a diverse group of credit-worthy financial institutions; (ii) holding high-quality financial instruments while limiting investments in any one instrument and (iii) maintaining strict policies over credit extension that include credit evaluations, credit limits and monitoring procedures, although generally we do not have collateral requirements for credit extensions. We also control our exposure associated with trade receivables by discontinuing service, to the extent allowable, to non-paying customers. However, our overall credit risk associated with trade receivables is limited due to the large number and diversity of customers we serve.
+Reclassifications
+When necessary, reclassifications have been made to our prior period financial information to conform with the current year presentation, including the reclassification of interest accretion on landfill and environmental remediation liabilities from operating expenses to depreciation, depletion, amortization and accretion in our Condensed Consolidated Statements of Operations. These reclassifications are not material to our Condensed Consolidated Financial Statements.
+​
+​
+8
+​
+Adoption of New Accounting Standards in 2026
+Improvements to Measurement of Credit Losses for Accounts Receivable and Contract Assets
+​
+In July 2025, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2025-05, “Financial Instruments – Credit Losses (Topic 326): Measurement of Credit Losses for Account Receivable and Contract Assets” (“ASU 2025-05”), which simplifies the estimation of expected credit losses for current accounts receivable and current contract assets arising from transactions accounted for under Accounting Standards Codification 606, Revenue from Contracts with Customers. The amendments permit entities to elect a practical expedient to assume the current conditions as of the balance sheet date will remain unchanged for the remaining life of the asset when developing a reasonable and supportable forecast for purposes of estimating expected credit losses. The Company adopted ASU 2025-05 on a prospective basis and elected the practical expedient during the quarter ended March 31, 2026. The adoption of the amended guidance did not have a material impact on our Condensed Consolidated Financial Statements.
+2.    Landfill and Environmental Remediation Liabilities
+Liabilities for landfill and environmental remediation costs are presented in the table below (in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+June 30, 2026
+​
+December 31, 2025
+​
+​
+​
+​
+​
+Environmental
+​
+​
+​
+​
+​
+​
+​
+Environmental
+​
+​
+​
+​
+​ ​ ​
+Landfill
+​ ​ ​
+Remediation
+​ ​ ​
+Total
+​ ​ ​
+Landfill
+​ ​ ​
+Remediation
+​ ​ ​
+Total
+Current (in accrued liabilities)
+$
+186
+​
+$
+58
+​
+$
+244
+​
+$
+186
+​
+$
+72
+​
+$
+258
+Long-term
+​
+3,153
+​
+172
+​
+3,325
+​
+3,119
+​
+​
+159
+​
+​
+3,278
+​
+$
+3,339
+​
+$
+230
+​
+$
+3,569
+​
+$
+3,305
+​
+$
+231
+​
+$
+3,536
+​
+The changes to landfill and environmental remediation liabilities for the six months ended June 30, 2026 are reflected in the table below (in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Environmental
+​
+​ ​ ​
+Landfill
+​ ​ ​
+Remediation
+December 31, 2025
+​
+$
+3,305
+​
+$
+231
+Obligations incurred and capitalized
+​
+45
+​
+—
+Obligations settled
+​
+(
+66
+)
+​
+(
+14
+)
+Interest accretion
+​
+78
+​
+—
+Revisions in estimates
+​
+(
+20
+)
+​
+13
+Acquisitions, divestitures and other adjustments
+​
+(
+3
+)
+​
+—
+June 30, 2026
+​
+$
+3,339
+​
+$
+230
+​
+At several of our landfills, we provide financial assurance by depositing cash into restricted trust funds for purposes of settling final capping, closure, post-closure and environmental remediation obligations. Generally, these trust funds are established to comply with statutory requirements and operating agreements. See Note 13 for additional information related to these trusts.
+9
+​
+3.    Debt
+The following table summarizes the major components of debt at principal amounts as of each balance sheet date (in millions) and provides the maturities and interest rate ranges of each major category as of June 30, 2026:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+June 30,
+​
+December 31,
+​
+​ ​ ​
+2026
+​ ​ ​
+2025
+Commercial paper program (weighted average interest rate of
+3.95
+% as of June 30, 2026 and
+4.05
+% as of December 31, 2025)
+​
+$
+1,068
+​
+$
+1,090
+Senior notes, maturing through 2054, interest rates ranging from
+1.15
+% to
+7.75
+% (weighted average interest rate of
+4.27
+% as of June 30, 2026 and
+4.28
+% as of December 31, 2025)
+​
+​
+17,483
+​
+​
+17,498
+Canadian senior notes, C$
+500
+million, redeemed July 2026, interest rate of
+2.60
+%
+​
+352
+​
+​
+364
+Canadian senior notes, C$
+700
+million, maturing July 2033, interest rate of
+3.944
+%
+​
+​
+493
+​
+​
+—
+Tax-exempt bonds, maturing through 2055, fixed and variable interest rates ranging from
+0.70
+% to
+4.60
+% (weighted average interest rate of
+3.33
+% as of June 30, 2026 and
+3.41
+% as of December 31, 2025)
+​
+2,827
+​
+2,827
+Financing leases and other, maturing through 2075 (weighted average interest rate of
+4.90
+% as of June 30, 2026 and
+4.83
+% as of December 31, 2025)
+​
+1,283
+​
+1,284
+Debt issuance costs, discounts and other
+​
+(
+150
+)
+​
+(
+156
+)
+​
+​
+23,356
+​
+22,907
+Current portion of long-term debt
+​
+1,075
+​
+711
+Long-term debt, less current portion
+​
+$
+22,281
+​
+$
+22,196
+​
+10
+​
+Debt Classification
+As of June 30, 2026, we had approximately $
+3.8
+billion of debt maturing within the next 12 months, including (i) $
+2.0
+billion of tax-exempt bonds with term interest rate periods that expire within the next 12 months, which is prior to their scheduled maturities; (ii) $
+1.1
+billion of short-term borrowings under our commercial paper program (net of related discount on issuance); (iii) $
+223
+million of
+7.10
+% senior notes that mature in August 2026; (iv) $
+352
+million of
+2.60
+% Canadian senior notes that the Company elected to redeem in July 2026 and (v) $
+206
+million of other debt with scheduled maturities within the next 12 months. As of June 30, 2026, we have classified $
+2.7
+billion of debt maturing in the next 12 months as long-term because we have the intent and ability to refinance these borrowings on a long-term basis as supported by the forecasted available capacity under our $
+3.5
+billion long-term U.S. and Canadian revolving credit facility (“$3.5 billion revolving credit facility”), as discussed below. The remaining $
+1.1
+billion of debt maturing in the next 12 months is classified as current obligations.
+Access to and Utilization of Credit Facilities and Commercial Paper Program
+$3.5 Billion Revolving Credit Facility —
+Our $
+3.5
+billion revolving credit facility, maturing May 2029, provides us with credit capacity to be used for cash borrowings, to support letters of credit and to support our commercial paper program. The interest rates we pay on outstanding U.S. or Canadian loans are based on a secured overnight financing rate administered by the Federal Reserve Bank of New York (“SOFR”) or the Canadian Overnight Repo Rate Average (“CORRA”) administered by the Bank of Canada, respectively, plus a spread depending on our senior public debt rating assigned by Moody’s Investors Service, Inc. and Standard and Poor’s Global Ratings. The spread above SOFR or CORRA can range from
+0.585
+% to
+1.025
+% per annum, plus applicable credit adjustments. We also pay certain other fees set forth in the $
+3.5
+billion revolving credit facility agreement, including a facility fee based on the aggregate commitment, regardless of usage. As of June 30, 2026, we had
+no
+outstanding borrowings under this facility. We had $
+1.1
+billion of outstanding borrowings (net of related discount on issuance) under our commercial paper program and $
+226
+million of letters of credit issued, both supported by the facility, leaving unused and available credit capacity of $
+2.2
+billion as of June 30, 2026. WM Holdings, Inc. (“WM Holdings”), a wholly-owned subsidiary of WMI, guarantees all the obligations under the $
+3.5
+billion revolving credit facility.
+​
+Commercial Paper Program
+— We have a commercial paper program that enables us to borrow funds for up to
+397 days
+at competitive interest rates. The rates we pay for outstanding borrowings are based on the term of the notes. The commercial paper program is fully supported by our $
+3.5
+billion revolving credit facility. As of June 30, 2026, we had $
+1.1
+billion of outstanding borrowings (net of related discount on issuance) under our commercial paper program.
+Other Letter of Credit Lines —
+As of June 30, 2026, we had utilized $
+944
+million of other uncommitted letter of credit lines, with terms maturing through December 2029.
+Debt Borrowings and Repayments
+Canadian Senior Notes —
+In June 2026, Waste Management of Canada Corporation, an indirect wholly-owned subsidiary of WM, issued C$
+700
+million, or $
+493
+million, of
+3.944
+% senior notes due July 15, 2033, all of which are fully and unconditionally guaranteed on a senior unsecured basis by WM and WM Holdings. The net proceeds from the debt issuance were C$
+696
+million, or $
+490
+million, which were used to redeem the previously outstanding C$
+500
+million
+2.60
+% Canadian senior notes that would have matured in September 2026, and we intend to use the remainder of the proceeds for general corporate purposes.
+Commercial Paper Program
+— During the six months ended June 30, 2026, we made cash repayments of $
+12.4
+billion, which were partially offset by $
+12.3
+billion of cash borrowings (net of related discount on issuance) used for general corporate purposes.
+Financing Leases and Other
+— The decrease in our financing leases and other debt obligations for the six months ended June 30, 2026 is due to $
+98
+million of cash repayments of debt at maturity, partially offset by new, non-cash, finance lease activity of $
+97
+million.
+11
+​
+4.    Income Taxes
+Our effective income tax rate was
+23.2
+% and
+21.2
+% for the three and six months ended June 30, 2026, respectively, compared to
+21.7
+% and
+20.5
+% for the three and six months ended June 30, 2025, respectively. The increase in our effective income tax rate when comparing the three and six months ended June 30, 2026 and 2025 was primarily driven by a decrease in investment tax credits and an increase in pre-tax income, partially offset by the recognition of clean fuel production tax credits at our RNG facilities. We evaluate our effective income tax rate at each interim period and adjust it as facts and circumstances warrant.
+Investments Qualifying for Federal Tax Credits
+Renewable Natural Gas
+— Through our Renewable Energy segment, we have invested in building landfill gas-to-energy facilities in the U.S. and Canada that produce renewable electricity and RNG. Our RNG facilities in the U.S. qualify for investment tax credits and clean fuel production tax credits, pursuant to Sections 48 and 45Z of the Internal Revenue Code, which we expect to realize through 2027 and 2029, respectively.
+During the three and six months ended June 30, 2026, we recognized a reduction in our income tax expense of $
+29
+million and $
+53
+million, respectively, due to investment tax credits from our RNG investments compared to $
+43
+million and $
+89
+million, respectively, for the comparable prior year periods.
+During the three and six months ended June 30, 2026, we recognized a reduction in our income tax expense
+of $
+9
+million and $
+44
+million, respectively, related to clean fuel production tax credits from our RNG production and sales activity, with $
+17
+million attributable to production and sales during the first half of 2026 and $
+27
+million attributable to 2025 operations. The timing of the recognition of these production tax credits resulted from the issuance of proposed Treasury regulations during the first quarter of 2026 that clarified the qualification of our RNG sales for the credit.
+Low-Income Housing
+—
+We have significant financial interests in entities established to invest in and manage low-income housing properties. We support the operations of these entities in exchange for a pro-rata share of the tax credits they generate. The low-income housing investments qualify for federal tax credits that we expect to realize through 2038 pursuant to Sections 42 and 45D of the Internal Revenue Code.
+During the three and six months ended June 30, 2026, we recognized income tax expense of $
+26
+million and $
+48
+million, respectively, related to amortization under ASU 2023-02 and a reduction in our income tax expense of $
+35
+million and $
+65
+million, respectively, primarily due to federal tax credits realized from these investments. In addition, during the three and six months ended June 30, 2026, we recognized interest expense of $7 million and $
+15
+million, respectively, associated with our investments in low-income housing properties.
+During the three and six months ended June 30, 2025, we recognized income tax expense of $
+25
+million and $
+45
+million, respectively, related to amortization under ASU 2023-02 and a reduction in our income tax expense of $
+35
+million and $
+62
+million, respectively, primarily due to federal tax credits realized from these investments. In addition, during the three and six months ended June 30, 2025, we recognized interest expense of $
+8
+million and $
+17
+million, respectively, associated with our investments in low-income housing properties.
+See Note 13 for additional information related to these unconsolidated variable interest entities.
+12
+​
+5.    Earnings Per Share
+Basic and diluted earnings per share for the three and six months ended June 30 were computed using the following common share data (shares in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+Six Months Ended
+​
+​
+June 30,
+​
+June 30,
+​
+​ ​ ​
+2026
+​ ​ ​
+2025
+​ ​ ​
+2026
+​ ​ ​
+2025
+Number of common shares outstanding at end of period
+400.0
+402.6
+400.0
+402.6
+Effect of using weighted average common shares outstanding
+1.5
+—
+2.3
+(
+0.1
+)
+Weighted average basic common shares outstanding
+401.5
+402.6
+402.3
+402.5
+Dilutive effect of equity-based compensation awards and other contingently issuable shares
+0.9
+1.7
+1.0
+1.5
+Weighted average diluted common shares outstanding
+402.4
+404.3
+403.3
+404.0
+Potentially issuable shares
+3.9
+4.3
+3.9
+4.3
+Number of anti-dilutive potentially issuable shares excluded from diluted common shares outstanding
+1.5
+0.9
+1.6
+1.2
+​
+​
+Refer to the Condensed Consolidated Statements of Operations for net income attributable to Waste Management, Inc.
+​
+6.    Commitments and Contingencies
+Financial Instruments —
+We have obtained letters of credit, surety bonds and insurance policies and have established trust funds and issued financial guarantees to support tax-exempt bonds, contracts, performance of landfill final capping, closure and post-closure requirements, environmental remediation and other obligations. Letters of credit generally are supported by our $
+3.5
+billion revolving credit facility and other credit lines established for that purpose. These facilities are discussed further in Note 3. Surety bonds and insurance policies are supported by (i) a diverse group of third-party surety and insurance companies; (ii) an entity in which we have a noncontrolling financial interest or (iii) a wholly-owned insurance captive, the sole business of which is to issue surety bonds and/or insurance policies on our behalf.
+Management does not expect that any claims against or draws on these instruments would have a material adverse effect on our financial condition, results of operations or cash flows. We have not experienced any unmanageable difficulty in obtaining the required financial assurance instruments for our current operations. In an ongoing effort to mitigate risks of future cost increases and reductions in available capacity, we continue to evaluate various options to access cost-effective sources of financial assurance.
+Insurance —
+We carry insurance coverage for protection of our assets and operations from certain risks including general liability, automobile liability, workers’ compensation, real and personal property, directors’ and officers’ liability, pollution legal liability, cyber incident liability and other coverages we believe are customary to the industry. Our exposure to loss for insurance claims is generally limited to the per-incident deductible under the related insurance policy and any amounts that exceed our insured limits. Our exposure could increase if our insurers are unable to meet their commitments on a timely basis.
+We have retained a significant portion of the risks related to our health and welfare, general liability, automobile liability and workers’ compensation claims programs. “General liability” refers to the self-insured portion of specific third-party claims made against us that may be covered under our commercial general liability insurance policy. For our self-insured portions, the exposure for unpaid claims and associated expenses, including incurred but not reported losses, is based on an actuarial valuation or internal estimates. The accruals for these liabilities could be revised if future occurrences or loss development significantly differ from such valuations and estimates. We use a wholly-owned insurance captive to insure the deductibles for our general liability, automobile liability and workers’ compensation claims programs.
+We do not expect the impact of any known casualty, property, environmental or other contingency to have a material impact on our financial condition, results of operations or cash flows.
+13
+​
+Guarantees —
+In the ordinary course of our business, WMI and WM Holdings enter into guarantee agreements associated with their subsidiaries’ operations. Additionally, WMI and WM Holdings have each guaranteed all of the senior debt of the other entity. No additional liabilities have been recorded for these intercompany guarantees because all of the underlying obligations are reflected in our Condensed Consolidated Balance Sheets.
+As of June 30, 2026, we have guaranteed the obligations and certain performance requirements of third parties in connection with both consolidated and unconsolidated entities, including guarantees to cover the difference, if any, between the sale value and the guaranteed market or contractually-determined value of certain homeowner’s properties that are adjacent to or near
+18
+of our landfills. We have also agreed to indemnify certain third-party purchasers against liabilities associated with divested operations prior to such sale. We do not believe that the remaining contingent obligations will have a material adverse effect on the Company’s business, financial condition, results of operations or cash flows.
+Environmental Matters —
+A significant portion of our operating costs and capital expenditures could be characterized as costs of environmental protection. The nature of our operations, particularly with respect to the construction, operation and maintenance of our landfills, subjects us to an array of laws and regulations relating to the protection of the environment. Under current laws and regulations, we may have liabilities for environmental damage caused by our operations, or for damage caused by conditions that existed before we acquired a site. In addition to remediation activity required by state or local authorities, such liabilities include potentially responsible party (“PRP”) investigations. The costs associated with these liabilities can include settlements, certain legal and consultant fees, as well as incremental internal and external costs directly associated with site investigation and clean-up.
+Estimating our degree of responsibility for remediation is inherently difficult. We recognize and accrue for an estimated remediation liability when we determine that such liability is both probable and reasonably estimable. Determining the method and ultimate cost of remediation requires that a number of assumptions be made. There can sometimes be a range of reasonable estimates of the costs associated with the likely site remediation alternatives identified in the environmental impact investigation. In these cases, we use the amount within the range that is our best estimate. If no amount within a range appears to be a better estimate than any other, we use the amount that is the low end of such range. If we used the high ends of such ranges (where estimable), our aggregate potential liability would be approximately $
+16
+million higher than the $
+230
+million recorded in the Condensed Consolidated Balance Sheet as of June 30, 2026. Our ultimate responsibility may differ materially from current estimates. It is possible that technological, regulatory or enforcement developments, the results of environmental studies, the inability to identify other PRPs, the inability of other PRPs to contribute to the settlements of such liabilities, or other factors could require us to record additional liabilities. Our ongoing review of our remediation liabilities, in light of relevant internal and external facts and circumstances, could result in revisions to our accruals that could cause upward or downward adjustments to our balance sheet and income from operations. These adjustments could be material in any given period.
+As of June 30, 2026, we had been notified by the government that we are a PRP in connection with
+75
+locations listed on the Environmental Protection Agency’s (“EPA’s”) Superfund National Priorities List, or NPL. Of the
+75
+sites at which claims have been made against us,
+14
+are sites we own. Each of the NPL sites we own was initially developed by others as a landfill disposal facility. At each of these facilities, we are working in conjunction with the government to characterize or remediate identified site problems, and we have either agreed with other legally liable parties on an arrangement for sharing the costs of remediation or are working toward a cost-sharing agreement. We generally expect to receive any amounts due from other participating parties at or near the time that we make the remedial expenditures. The other
+61
+NPL sites, which we do not own, are at various procedural stages under the Comprehensive Environmental Response, Compensation and Liability Act of 1980, as amended, known as CERCLA or Superfund.
+The majority of proceedings involving NPL sites that we do not own are based on allegations that certain of our subsidiaries (or their predecessors) transported hazardous substances to the sites, often prior to our acquisition of these subsidiaries. CERCLA generally provides for liability for those parties owning, operating, transporting to or disposing at the sites. Proceedings arising under Superfund typically involve numerous waste generators and other waste transportation and disposal companies and seek to allocate or recover costs associated with site investigation and remediation, which costs could be substantial and could have a material adverse effect on our consolidated financial statements. At some of
+14
+​
+the sites at which we have been identified as a PRP, our liability is well defined as a consequence of a governmental decision and an agreement among liable parties as to the share each will pay for implementing that remedy. At other sites, where no remedy has been selected or the liable parties have been unable to agree on an appropriate allocation, our future costs are uncertain.
+In 2018, both of McGinnes Industrial Maintenance Corporation (“MIMC”), a subsidiary of Waste Management of Texas, Inc., and International Paper Company (“IPC”) entered into an Administrative Order on Consent with the EPA as PRPs to develop a remedial design for the San Jacinto River Waste Pits Superfund Site in Harris County, Texas. We recorded a liability for MIMC’s estimated potential share of the EPA’s proposed remedy and related costs, although allocation of responsibility among the PRPs for the proposed remedy has not been established. In November 2024, MIMC and IPC publicly issued a proposed revised full remedial design that was approved by the EPA in September 2025. The EPA issued a Unilateral Administrative Order for the site cleanup in April 2026. The issuance of this order was anticipated, and MIMC and IPC have communicated to the EPA their intention to comply. The recorded liability as of June 30, 2026, and December 31, 2025, was approximately $
+100
+million. MIMC’s ultimate liability could be materially different from current estimates, including potential increases resulting from MIMC’s continued engagement with the EPA as construction contracting and planning proceed.
+Item 103 of the SEC’s Regulation S-K requires disclosure of certain environmental matters when a governmental authority is a party to the proceedings, or such proceedings are known to be contemplated, unless we reasonably believe that the matter will result in no monetary sanctions, or in monetary sanctions, exclusive of interest and costs, below a stated threshold. In accordance with this SEC regulation, the Company uses a threshold of $
+1
+million for purposes of determining whether disclosure of any such environmental proceedings is required. The following matter is disclosed in accordance with that requirement. We do not currently believe that the eventual outcome of this matter will have a material adverse effect on the Company’s business, financial condition, results of operations or cash flows.
+On April 26, 2026, the Delaware Department of Natural Resources and Environmental Control issued an order against Delaware Recyclable Products, Inc., an indirect, wholly-owned subsidiary of WMI, alleging certain environmental violations related to landfill cover and erosion control, stormwater management, the management of prohibited waste, and other permitting and operational matters. The order seeks compliance with a modified permit, certain remedial actions and the payment of an administrative penalty. Our appeal of this order is pending.
+From time to time, we are also named as defendants in personal injury and property damage lawsuits, including purported class actions, on the basis of having owned, operated or transported waste to a disposal facility that is alleged to have contaminated the environment or, in certain cases, on the basis of having conducted environmental remediation activities at sites. Some of the lawsuits may seek to have us pay the costs of monitoring of allegedly affected sites and health care examinations of allegedly affected persons for a substantial period of time even where no actual damage is proven. While we believe we have meritorious defenses to these lawsuits, the ultimate resolution is often substantially uncertain due to the difficulty of determining the cause, extent and impact of alleged contamination (which may have occurred over a long period of time), the potential for successive groups of complainants to emerge, the diversity of the individual plaintiffs’ circumstances, and the potential contribution or indemnification obligations of co-defendants or other third parties, among other factors. Additionally, we often enter into agreements with landowners imposing obligations on us to meet certain regulatory or contractual conditions upon site closure or upon termination of the agreements. Compliance with these agreements inherently involves subjective determinations and may result in disputes, including litigation.
+Litigation —
+We are subject to various proceedings, lawsuits, disputes and claims arising in the ordinary course of our business. Many of these actions raise complex factual and legal issues and are subject to uncertainties. Actions that have been filed against us, and that may be filed against us in the future, include personal injury, property damage, commercial, customer, and employment-related claims, including purported state and national class action lawsuits related to: alleged environmental contamination, including releases of hazardous material and odors; sales and marketing practices, customer service agreements and prices and fees; and federal and state wage and hour and other laws. The plaintiffs in some actions seek unspecified damages or injunctive relief, or both. These actions are in various procedural stages, and some are covered, in part, by insurance. We currently do not believe that the eventual outcome of any such
+15
+​
+actions will have a material adverse effect on the Company’s business, financial condition, results of operations or cash flows.
+On February 11, 2020, Stericycle, Inc. (“Stericycle”), a now wholly-owned subsidiary, received an administrative subpoena from the U.S. Drug Enforcement Administration, which executed a search warrant at a facility in Rancho Cordova, California and an administrative inspection warrant at a facility in Indianapolis, Indiana for materials related to Stericycle’s now-divested Domestic Environmental Solutions business of collecting, transporting, and destroying controlled substances from retail customers (the “ESOL Retail Controlled Substances Business”). On that same day, agents from the California Department of Toxic Substances Control executed a separate search warrant at the Rancho Cordova facility. Since that time, the U.S. Attorney’s Office for the Eastern District of California has been overseeing criminal and civil investigations of the ESOL Retail Controlled Substances Business. Stericycle cooperated with the investigations, which were limited to the period of Stericycle’s historical operation and ownership of the ESOL Retail Controlled Substances Business from 2015 through 2020. In May 2026, Stericycle entered into certain settlement agreements, including a one-year deferred prosecution agreement, with the U.S. Department of Justice resolving the criminal and civil investigations. Stericycle has made the agreed-upon penalty and settlement payments and is subject to certain continuing compliance, reporting and cooperation obligations during the term of the deferred prosecution agreement. We do not currently believe this matter will have a material adverse effect on the Company’s business, financial condition, results of operations or cash flows.
+WMI’s charter and bylaws provide that WMI shall indemnify against all liabilities and expenses, and upon request shall advance expenses to any person, who is subject to a pending or threatened proceeding because such person is or was a director or officer of the Company. Such indemnification is required to the maximum extent permitted under Delaware law. Accordingly, the director or officer must execute an undertaking to reimburse the Company for any fees advanced if it is later determined that the director or officer was not permitted to have such fees advanced under Delaware law. Additionally, the Company has direct contractual obligations to provide indemnification to each of the members of WMI’s Board of Directors and each of WMI’s executive officers. The Company may incur substantial expenses in connection with the fulfillment of its advancement of costs and indemnification obligations in connection with actions or proceedings that may be brought against its former or current officers, directors and employees.
+Multiemployer Defined Benefit Pension Plans —
+About
+15
+% of our workforce is covered by collective bargaining agreements with various local unions across the U.S. and Canada, and certain parts of Europe. As a result of some of these agreements, certain of our subsidiaries are participating employers in a number of trustee-managed multiemployer defined benefit pension plans (“Multiemployer Pension Plans”) for the covered employees. In connection with our ongoing renegotiation of various collective bargaining agreements, we may discuss and negotiate for the complete or partial withdrawal from one or more of these Multiemployer Pension Plans. A complete or partial withdrawal from a Multiemployer Pension Plan may also occur if employees covered by a collective bargaining agreement vote to decertify a union from continuing to represent them. Any other circumstance resulting in a decline in Company contributions to a Multiemployer Pension Plan through a reduction in the labor force, whether through attrition over time or through a business event (such as the discontinuation or nonrenewal of a customer contract, the decertification of a union, or relocation, reduction or discontinuance of certain operations) may also trigger a complete or partial withdrawal from one or more of these pension plans.
+We do not believe that any future liability relating to our past or current participation in, or withdrawals from, the Multiemployer Pension Plans to which we contribute will have a material adverse effect on our business, financial condition or liquidity. However, liability for future withdrawals could have a material adverse effect on our results of operations or cash flows for a particular reporting period, depending on the number of employees withdrawn and the financial condition of the Multiemployer Pension Plan(s) at the time of such withdrawal(s).
+Tax Matters —
+We maintain a liability for uncertain tax positions, the balance of which management believes is adequate. Results of audit assessments by taxing authorities are not currently expected to have a material adverse effect on our financial condition, results of operations or cash flows. We participate in the IRS’s Compliance Assurance Process, which means we work with the IRS throughout the year towards resolving any material issues prior to the filing of our annual tax return. Any unresolved issues as of the tax return filing date are subject to routine examination procedures. In
+16
+​
+the fourth quarter of 2022, the Company received a notice of tax due for the 2017 tax year related to a remaining disagreement with the IRS, and in response to that notice, the Company placed a deposit of approximately $
+103
+million with the IRS. The Company filed a claim for refund of the entire deposit in the fourth quarter of 2024 and received a partial refund of approximately $
+14
+million plus interest from the IRS in the second quarter of 2026. We expect to litigate any denial of the claim for refund of the remaining deposit. As of June 30, 2026 and December 31, 2025, the IRS deposit of $
+89
+million and $
+103
+million, respectively, was classified as a component of other long-term assets in the Company’s Condensed Consolidated Balance Sheets.
+7.    Segment and Related Information
+Our senior management evaluates, oversees and manages the financial performance of our business through
+five
+reportable segments, referred to as (i) East Tier; (ii) West Tier; (iii) Recycling Processing and Sales; (iv) Renewable Energy and (v) Healthcare Solutions. Our East and West Tiers along with Other Ancillary services that are not managed through our Tier segments, but that support our collection and disposal operations, form our “Collection and Disposal” business. We also provide additional services not managed through our
+five
+reportable segments, which are presented as Corporate and Other.
+Summarized financial information concerning our reportable segments for the three and six months ended June 30 is shown in the following table (in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Depreciation,
+​
+​
+​
+​
+​
+​
+​
+Net
+​
+Intercompany
+​
+Gross
+​
+​
+​
+Selling,
+​
+Other
+​
+Depletion,
+Income
+Capital
+​
+​
+Operating
+​
+Operating
+​
+Operating
+​
+Operating
+​
+General and
+​
+Net
+​
+Amortization
+​
+from
+Expenditures
+​
+​
+Revenues
+​
+Revenues(a)
+​
+Revenues
+​
+Expenses
+​
+Administrative
+​
+Expenses(b)
+​
+and Accretion
+​
+Operations(c)
+​
+(d)
+Three Months Ended June 30:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2026
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Collection and Disposal:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+East Tier
+​
+$
+2,406
+​
+$
+663
+​
+$
+3,069
+​
+$
+1,888
+​
+$
+91
+​
+$
+—
+​
+$
+306
+​
+$
+784
+​
+$
+302
+West Tier
+​
+2,291
+​
+582
+​
+2,873
+​
+1,769
+​
+91
+​
+—
+​
+252
+​
+761
+​
+293
+Other Ancillary
+​
+782
+​
+58
+​
+840
+​
+800
+​
+28
+​
+—
+​
+7
+​
+5
+​
+16
+Collection and Disposal(e)(f)(g)
+​
+5,479
+​
+1,303
+​
+6,782
+​
+4,457
+​
+210
+​
+—
+​
+565
+​
+1,550
+​
+611
+Recycling Processing and Sales(e)
+​
+403
+​
+​
+88
+​
+491
+​
+385
+​
+14
+​
+2
+​
+54
+​
+36
+​
+64
+Renewable Energy(f)
+​
+​
+157
+​
+​
+—
+​
+​
+157
+​
+​
+81
+​
+​
+5
+​
+​
+—
+​
+​
+24
+​
+​
+47
+​
+​
+61
+Healthcare Solutions(g)(h)
+​
+​
+638
+​
+​
+104
+​
+​
+742
+​
+​
+506
+​
+​
+126
+​
+​
+3
+​
+​
+105
+​
+​
+2
+​
+​
+28
+Corporate and Other(f)
+​
+7
+​
+​
+8
+​
+15
+​
+22
+​
+335
+​
+11
+​
+29
+​
+(
+382
+)
+​
+(
+41
+)
+Total
+​
+$
+6,684
+​
+$
+1,503
+​
+$
+8,187
+​
+$
+5,451
+​
+$
+690
+​
+$
+16
+​
+$
+777
+​
+$
+1,253
+​
+$
+723
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Intercompany Elimination(a)
+​
+​
+​
+​
+​
+​
+​
+​
+(
+1,503
+)
+​
+​
+(
+1,496
+)
+​
+​
+(
+7
+)
+​
+​
+—
+​
+​
+—
+​
+​
+—
+​
+​
+​
+Net
+​
+​
+​
+​
+​
+​
+​
+​
+6,684
+​
+​
+3,955
+​
+​
+683
+​
+​
+16
+​
+​
+777
+​
+​
+1,253
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Depreciation,
+​
+​
+​
+​
+​
+​
+​
+​
+Net
+​
+Intercompany
+​
+Gross
+​
+​
+​
+Selling,
+​
+Other
+​
+Depletion,
+Income
+Capital
+​
+​
+Operating
+​
+Operating
+​
+Operating
+​
+Operating
+​
+General and
+​
+Net
+​
+Amortization
+from
+Expenditures
+​
+​
+Revenues
+​
+Revenues(a)
+​
+Revenues
+​
+Expenses
+​
+Administrative
+​
+Expenses(b)
+​
+and Accretion
+​
+Operations(c)
+​
+(d)
+2025
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Collection and Disposal:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+East Tier
+​
+$
+2,292
+​
+$
+630
+​
+$
+2,922
+​
+$
+1,815
+​
+$
+88
+​
+$
+8
+​
+$
+290
+​
+$
+721
+​
+$
+360
+West Tier
+​
+2,251
+​
+554
+​
+2,805
+​
+1,706
+​
+86
+​
+2
+​
+254
+​
+757
+​
+335
+Other Ancillary
+​
+738
+​
+51
+​
+789
+​
+753
+​
+31
+​
+16
+​
+6
+​
+(
+17
+)
+​
+12
+Collection and Disposal(e)(f)(g)
+​
+5,281
+​
+1,235
+​
+6,516
+​
+4,274
+​
+205
+​
+26
+​
+550
+​
+1,461
+​
+707
+Recycling Processing and Sales(e)
+​
+381
+​
+​
+101
+​
+482
+​
+398
+​
+14
+​
+1
+​
+45
+​
+24
+​
+70
+Renewable Energy(f)
+​
+​
+115
+​
+​
+—
+​
+​
+115
+​
+​
+59
+​
+​
+3
+​
+​
+—
+​
+​
+15
+​
+​
+38
+​
+​
+115
+Healthcare Solutions(g)(h)
+​
+​
+646
+​
+​
+114
+​
+​
+760
+​
+​
+519
+​
+​
+150
+​
+​
+9
+​
+​
+105
+​
+​
+(
+23
+)
+​
+​
+46
+Corporate and Other(f)
+​
+7
+​
+​
+8
+​
+15
+​
+4
+​
+331
+​
+—
+​
+29
+​
+(
+349
+)
+​
+(
+123
+)
+Total
+​
+$
+6,430
+​
+$
+1,458
+​
+$
+7,888
+​
+$
+5,254
+​
+$
+703
+​
+$
+36
+​
+$
+744
+​
+$
+1,151
+​
+$
+815
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Intercompany Elimination(a)
+​
+​
+​
+​
+​
+​
+​
+​
+(
+1,458
+)
+​
+​
+(
+1,451
+)
+​
+​
+(
+7
+)
+​
+​
+—
+​
+​
+—
+​
+​
+—
+​
+​
+​
+Net
+​
+​
+​
+​
+​
+​
+​
+​
+6,430
+​
+​
+3,803
+​
+​
+696
+​
+​
+36
+​
+​
+744
+​
+​
+1,151
+​
+​
+​
+​
+17
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Depreciation,
+​
+​
+​
+​
+​
+​
+​
+Net
+​
+Intercompany
+​
+Gross
+​
+​
+​
+Selling,
+​
+Other
+​
+Depletion,
+Income
+Capital
+​
+​
+Operating
+​
+Operating
+​
+Operating
+​
+Operating
+​
+General and
+​
+Net
+​
+Amortization
+​
+from
+Expenditures
+​
+​
+Revenues
+​
+Revenues(a)
+​
+Revenues
+​
+Expenses
+​
+Administrative
+​
+Expenses(b)
+​
+and Accretion
+​
+Operations(c)
+​
+(d)
+Six Months Ended June 30:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2026
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Collection and Disposal:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+East Tier
+​
+$
+4,605
+​
+$
+1,263
+​
+$
+5,868
+​
+$
+3,589
+​
+$
+181
+​
+$
+-
+​
+$
+591
+​
+$
+1,507
+​
+$
+481
+West Tier
+​
+4,441
+​
+1,119
+​
+5,560
+​
+3,418
+​
+187
+​
+(
+34
+)
+​
+491
+​
+1,498
+​
+529
+Other Ancillary
+​
+1,514
+​
+115
+​
+1,629
+​
+1,553
+​
+57
+​
+-
+​
+14
+​
+5
+​
+33
+Collection and Disposal(e)(f)(g)
+​
+10,560
+​
+2,497
+​
+13,057
+​
+8,560
+​
+425
+​
+(
+34
+)
+​
+1,096
+​
+3,010
+​
+1,043
+Recycling Processing and Sales(e)
+​
+771
+​
+​
+175
+​
+946
+​
+753
+​
+29
+​
+4
+​
+105
+​
+55
+​
+94
+Renewable Energy(f)
+​
+​
+316
+​
+​
+2
+​
+​
+318
+​
+​
+164
+​
+​
+11
+​
+​
+-
+​
+​
+48
+​
+​
+95
+​
+​
+104
+Healthcare Solutions(g)(h)
+​
+​
+1,252
+​
+​
+211
+​
+​
+1,463
+​
+​
+1,006
+​
+​
+248
+​
+​
+12
+​
+​
+209
+​
+​
+(
+12
+)
+​
+​
+55
+Corporate and Other(f)
+​
+12
+​
+​
+16
+​
+28
+​
+54
+​
+690
+​
+12
+​
+54
+​
+(
+782
+)
+​
+(
+35
+)
+Total
+​
+$
+12,911
+​
+$
+2,901
+​
+$
+15,812
+​
+$
+10,537
+​
+$
+1,403
+​
+$
+(
+6
+)
+​
+$
+1,512
+​
+$
+2,366
+​
+$
+1,261
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Intercompany Elimination(a)
+​
+​
+​
+​
+​
+​
+​
+​
+(
+2,901
+)
+​
+​
+(
+2,888
+)
+​
+​
+(
+13
+)
+​
+​
+—
+​
+​
+—
+​
+​
+—
+​
+​
+​
+Net
+​
+​
+​
+​
+​
+​
+​
+​
+12,911
+​
+​
+7,649
+​
+​
+1,390
+​
+​
+(
+6
+)
+​
+​
+1,512
+​
+​
+2,366
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Depreciation,
+​
+​
+​
+​
+​
+​
+​
+​
+Net
+​
+Intercompany
+​
+Gross
+​
+​
+​
+Selling,
+​
+Other
+​
+Depletion,
+Income
+Capital
+​
+​
+Operating
+​
+Operating
+​
+Operating
+​
+Operating
+​
+General and
+​
+Net
+​
+Amortization
+from
+Expenditures
+​
+​
+Revenues
+​
+Revenues(a)
+​
+Revenues
+​
+Expenses
+​
+Administrative
+​
+Expenses(b)
+​
+and Accretion
+​
+Operations(c)
+​
+(d)
+2025
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Collection and Disposal:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+East Tier
+​
+$
+4,432
+​
+$
+1,188
+​
+$
+5,620
+​
+$
+3,488
+​
+$
+176
+​
+$
+8
+​
+$
+558
+​
+$
+1,390
+​
+$
+557
+West Tier
+​
+4,333
+​
+1,060
+​
+5,393
+​
+3,298
+​
+169
+​
+2
+​
+488
+​
+1,436
+​
+557
+Other Ancillary
+​
+1,438
+​
+103
+​
+1,541
+​
+1,471
+​
+61
+​
+16
+​
+13
+​
+(
+20
+)
+​
+29
+Collection and Disposal(e)(f)(g)
+​
+10,203
+​
+2,351
+​
+12,554
+​
+8,257
+​
+406
+​
+26
+​
+1,059
+​
+2,806
+​
+1,143
+Recycling Processing and Sales(e)
+​
+765
+​
+​
+182
+​
+947
+​
+786
+​
+29
+​
+6
+​
+84
+​
+42
+​
+108
+Renewable Energy(f)
+​
+​
+206
+​
+​
+1
+​
+​
+207
+​
+​
+114
+​
+​
+6
+​
+​
+-
+​
+​
+30
+​
+​
+57
+​
+​
+237
+Healthcare Solutions(g)(h)
+​
+​
+1,265
+​
+​
+216
+​
+​
+1,481
+​
+​
+996
+​
+​
+305
+​
+​
+18
+​
+​
+206
+​
+​
+(
+44
+)
+​
+​
+80
+Corporate and Other(f)
+​
+9
+​
+​
+16
+​
+25
+​
+16
+​
+649
+​
+1
+​
+56
+​
+(
+697
+)
+​
+(
+112
+)
+Total
+​
+$
+12,448
+​
+$
+2,766
+​
+$
+15,214
+​
+$
+10,169
+​
+$
+1,395
+​
+$
+51
+​
+$
+1,435
+​
+$
+2,164
+​
+$
+1,456
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Intercompany Elimination(a)
+​
+​
+​
+​
+​
+​
+​
+​
+(
+2,766
+)
+​
+​
+(
+2,754
+)
+​
+​
+(
+12
+)
+​
+​
+—
+​
+​
+—
+​
+​
+—
+​
+​
+​
+Net
+​
+​
+​
+​
+​
+​
+​
+​
+12,448
+​
+​
+7,415
+​
+​
+1,383
+​
+​
+51
+​
+​
+1,435
+​
+​
+2,164
+​
+​
+​
+(a)
+Includes each segment’s intercompany activity, including transactions within a segment and between segments. Transactions within and between segments are generally made on a basis intended to reflect the market value of the service.
+(b)
+Other net expenses include restructuring expenses, (gain) loss from divestitures, and asset impairments and unusual items, net.
+(c)
+For those items included in the determination of income from operations, the accounting policies of the segments are the same as those described in Note 1.
+(d)
+Includes non-cash items. Additionally, our Corporate and Other business recognizes construction work in progress for fleet purchases during the period. Capital expenditures are reported in our reportable segments at the time they are recorded within the segments’ property and equipment balances and, therefore, include timing differences for amounts accrued but not yet paid as well as amounts transferred from Corporate and Other for fleet placed in service.
+(e)
+Certain fees related to the processing of recyclable material we collect are included within our Collection and Disposal business. The amounts in income from operations for the three and six months ended June 30, 2026 are
+$
+22
+million and
+$
+40
+million, respectively. The amounts in income from operations for the three and six months ended June 30, 2025 are
+$
+20
+million and
+$
+40
+million, respectively.
+(f)
+Renewable Energy pays a
+15
+%
+intercompany royalty to our Collection and Disposal business and Corporate and Other for landfill gas. The total amount of royalties in gross and intercompany operating revenues for the East Tier, West Tier, and Corporate and Other and in operating expenses for Renewable Energy for the three and six months ended June 30, 2026 are
+$
+24
+million and
+$
+48
+million, respectively. The total amount of royalties in gross and intercompany operating revenues for the East Tier, West Tier, and Corporate and Other and in operating expenses for Renewable Energy for the three and six months ended June 30, 2025 are
+$
+17
+million and
+$
+31
+million, respectively.
+18
+​
+(g)
+Our Collection and Disposal business records intercompany operating revenue for collection and disposal services provided to Healthcare Solutions. The total amount of intercompany operating revenues reflected in our Collection and Disposal business and in operating expenses for Healthcare Solutions for the three and six months ended June 30, 2026 are
+$
+16
+million and
+$
+36
+million, respectively, and for three and six months ended June 30, 2025 are
+$
+12
+million and
+$
+20
+million, respectively.
+(h)
+In the third quarter of 2025, as a result of continued integration efforts and to enhance transparency and accountability, the Company began reflecting intra-segment activity within the Healthcare Solutions segment. These charges were designed to measure profitability at more granular levels of the enterprise and to facilitate clearer financial accountability within operating units. Accordingly, adjustments to the three and six months ended June 30, 2025 were made to properly reflect intra-segment activity for each period. Intra-segment operating revenues and operating expenses within Healthcare Solutions for the three and six months ended June 30, 2026 are
+$
+101
+million and
+$
+202
+million, respectively. Intra-segment operating revenues and operating expenses within Healthcare Solutions for the three and six months ended June 30, 2025 are
+$
+113
+million and
+$
+207
+million, respectively.
+Total assets by reportable segment are presented in the table below as follows (in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+June 30,
+​
+December 31,
+​
+​ ​ ​
+2026
+​ ​ ​
+2025
+Collection and Disposal:
+​
+​
+​
+​
+​
+​
+East Tier
+​
+$
+15,906
+​
+$
+16,099
+West Tier
+​
+​
+12,608
+​
+​
+12,245
+Other Ancillary
+​
+​
+818
+​
+​
+801
+Collection and Disposal
+​
+​
+29,332
+​
+​
+29,145
+Recycling Processing and Sales
+​
+2,841
+​
+2,718
+Renewable Energy
+​
+2,032
+​
+1,976
+Healthcare Solutions
+​
+​
+8,758
+​
+​
+9,002
+Corporate and Other
+​
+​
+4,075
+​
+​
+3,888
+Elimination of intercompany investments and advances
+​
+​
+(
+597
+)
+​
+​
+(
+894
+)
+Total assets, per Condensed Consolidated Balance Sheet
+​
+$
+46,441
+​
+$
+45,835
+​
+19
+​
+The mix of operating revenues from our major lines of business for the three and six months ended June 30 are as follows (in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Net
+​
+Intercompany
+​
+Gross
+​
+​ ​ ​
+Operating
+​
+Operating
+​
+Operating
+​
+​
+Revenues
+​ ​ ​
+Revenues
+(a)
+​ ​ ​
+Revenues
+Three Months Ended June 30:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2026
+​
+​
+​
+​
+​
+​
+​
+​
+Commercial
+$
+1,485
+​
+$
+236
+​
+$
+1,721
+Industrial
+​
+820
+​
+​
+245
+​
+1,065
+Residential
+​
+​
+911
+​
+​
+19
+​
+​
+930
+Other collection
+​
+849
+​
+74
+​
+923
+Total collection
+​
+4,065
+​
+574
+​
+4,639
+Landfill
+​
+​
+1,004
+​
+​
+429
+​
+​
+1,433
+Transfer
+​
+​
+410
+​
+​
+300
+​
+​
+710
+Total Collection and Disposal
+​
+5,479
+​
+1,303
+​
+6,782
+Recycling Processing and Sales
+​
+403
+​
+88
+​
+491
+Renewable Energy
+​
+157
+​
+—
+​
+157
+Healthcare Solutions (b)
+​
+​
+638
+​
+​
+104
+​
+​
+742
+Corporate and Other
+​
+​
+7
+​
+​
+8
+​
+​
+15
+Total
+​
+$
+6,684
+​
+$
+1,503
+​
+$
+8,187
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2025
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Commercial
+$
+1,398
+​
+$
+220
+​
+$
+1,618
+Industrial
+​
+790
+​
+​
+223
+​
+1,013
+Residential
+​
+​
+872
+​
+​
+22
+​
+​
+894
+Other collection
+​
+796
+​
+68
+​
+864
+Total collection
+​
+3,856
+​
+533
+​
+4,389
+Landfill
+​
+​
+1,036
+​
+​
+410
+​
+​
+1,446
+Transfer
+​
+​
+389
+​
+​
+292
+​
+​
+681
+Total Collection and Disposal
+​
+5,281
+​
+1,235
+​
+6,516
+Recycling Processing and Sales
+​
+381
+​
+101
+​
+482
+Renewable Energy
+​
+115
+​
+—
+​
+115
+Healthcare Solutions (b)
+​
+​
+646
+​
+​
+114
+​
+​
+760
+Corporate and Other
+​
+​
+7
+​
+​
+8
+​
+​
+15
+Total
+​
+$
+6,430
+​
+$
+1,458
+​
+$
+7,888
+​
+20
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Net
+​
+Intercompany
+​
+Gross
+​
+​ ​ ​
+Operating
+​
+Operating
+​
+Operating
+​
+​
+Revenues
+​ ​ ​
+Revenues (a)
+​ ​ ​
+Revenues
+Six Months Ended June 30:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2026
+​
+​
+​
+​
+​
+​
+​
+​
+Commercial
+$
+2,914
+​
+$
+465
+​
+$
+3,379
+Industrial
+​
+1,578
+​
+​
+467
+​
+2,045
+Residential
+​
+​
+1,799
+​
+​
+37
+​
+​
+1,836
+Other collection
+​
+1,643
+​
+146
+​
+1,789
+Total collection
+​
+7,934
+​
+1,115
+​
+9,049
+Landfill
+​
+​
+1,868
+​
+​
+811
+​
+​
+2,679
+Transfer
+​
+​
+758
+​
+​
+571
+​
+​
+1,329
+Total Collection and Disposal
+​
+10,560
+​
+2,497
+​
+13,057
+Recycling Processing and Sales
+​
+771
+​
+175
+​
+946
+Renewable Energy
+​
+316
+​
+2
+​
+318
+Healthcare Solutions (b)
+​
+​
+1,252
+​
+​
+211
+​
+​
+1,463
+Corporate and Other
+​
+​
+12
+​
+​
+16
+​
+​
+28
+Total
+​
+$
+12,911
+​
+$
+2,901
+​
+$
+15,812
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2025
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Commercial
+$
+2,778
+​
+$
+434
+​
+$
+3,212
+Industrial
+​
+1,531
+​
+​
+422
+​
+1,953
+Residential
+​
+​
+1,744
+​
+​
+44
+​
+​
+1,788
+Other collection
+​
+1,549
+​
+140
+​
+1,689
+Total collection
+​
+7,602
+​
+1,040
+​
+8,642
+Landfill
+​
+​
+1,876
+​
+​
+763
+​
+​
+2,639
+Transfer
+​
+​
+725
+​
+​
+548
+​
+​
+1,273
+Total Collection and Disposal
+​
+10,203
+​
+2,351
+​
+12,554
+Recycling Processing and Sales
+​
+765
+​
+182
+​
+947
+Renewable Energy
+​
+206
+​
+1
+​
+207
+Healthcare Solutions (b)
+​
+​
+1,265
+​
+​
+216
+​
+​
+1,481
+Corporate and Other
+​
+​
+9
+​
+​
+16
+​
+​
+25
+Total
+​
+$
+12,448
+​
+$
+2,766
+​
+$
+15,214
+(a)
+Includes each segment’s intercompany activity, including transactions within a segment and between segments. Transactions within and between segments are generally made on a basis intended to reflect the market value of the service.
+(b)
+In the third quarter of 2025, as a result of continued integration efforts and to enhance transparency and accountability, the Company began reflecting intra-segment activity within the Healthcare Solutions segment. These charges were designed to measure profitability at more granular levels of the enterprise and to facilitate clearer financial accountability within operating units. Accordingly, adjustments to the three and six months ended June 30, 2025 were made to properly reflect intra-segment activity for each period. Intra-segment operating revenues and operating expenses within Healthcare Solutions for the three and six months ended June 30, 2026 are
+$
+101
+million and
+$
+202
+million, respectively. Intra-segment operating revenues and operating expenses within Healthcare Solutions for the three and six months ended June 30, 2025 are
+$
+113
+million and
+$
+207
+million, respectively.
+Our financial and operating results may fluctuate for many reasons, including period-to-period changes in the relative contribution of revenue by each line of business, changes in commodity prices and general economic conditions. Our operating revenues and volumes typically experience seasonal increases in the summer months that are reflected in second and third quarter revenues and results of operations.
+Service or operational disruptions caused by severe storms, extended periods of inclement weather or climate events can significantly affect the operating results of the geographic areas affected. Extreme weather events may also lead to
+21
+​
+supply chain disruption and delayed project development, or disruption of our customers’ businesses, reducing the amount of waste generated by their operations.
+Conversely, certain destructive weather and climate conditions, such as wildfires in the Western U.S. and hurricanes that most often impact our operations in the Southern and Eastern U.S. during the second half of the year, can increase our revenues in the geographic areas affected as a result of the waste volumes generated by these events.
+8.  Acquisitions and Divestitures
+Acquisitions
+During the six months ended June 30, 2026, we completed solid waste acquisitions for total consideration of $
+235
+million, which included issuance of shares of our common stock valued at $
+144
+million from treasury stock, $
+85
+million in net cash paid and $
+6
+million of other consideration, specifically purchase price holdbacks. In addition, we paid $
+13
+million of holdbacks related to prior year acquisitions.
+Total consideration for our 2026 acquisitions was primarily allocated to $
+27
+million of property and equipment, $
+75
+million of other intangible assets, primarily customer relationships, and $
+138
+million of goodwill. The goodwill was primarily a result of expected synergies from combining the acquired businesses with our existing operations and substantially all was not tax deductible. We remain in the measurement period for our 2026 acquisitions, and adjustments to our preliminary purchase price allocation may occur.
+Divestitures
+Proceeds from divestitures of businesses and other assets, net of cash divested, were $
+77
+million and $
+103
+million for the six months ended June 30, 2026 and 2025, respectively. Proceeds in 2026 primarily related to a business divestiture in our West Tier, which resulted in a gain of $
+34
+million
+recognized
+in (gain) loss from divestitures, asset impairments and unusual items, net
+in our Condensed Consolidated Statements of Operations. Proceeds in 2025 primarily related to the January 2025 sale of our Healthcare Solutions segment’s Spain and Portugal subsidiaries. As the fair value of consideration transferred was equal to the carrying value of the divested Spain and Portugal subsidiaries, no gain or loss was recognized.
+9.  (Gain) Loss from Divestitures, Asset Impairments and Unusual Items, Net
+(Gain) loss from divestitures, asset impairments and unusual items, net for the three months ended June 30, 2026 was not material. (Gain) loss from divestitures, asset impairments and unusual items, net for the six months ended June 30, 2026 primarily relates to a $
+34
+million
+gain
+on a business divestiture in our West Tier, offset by immaterial charges related to legal and remediation liabilities.
+(Gain) loss from divestitures, asset impairments and unusual items, net for the three and six months ended June 30, 2025, primarily relates to a $
+16
+million goodwill impairment charge to a business engaged in oil recovery and sludge processing services. This charge is reflected in Other Ancillary within our Collection and Disposal business.
+22
+​
+10.  Accumulated Other Comprehensive Income (Loss)
+The changes in the balances of each component of accumulated other comprehensive income (loss), net of tax, which is included as a component of Waste Management, Inc. stockholders’ equity, are as follows (in millions, with amounts in parentheses representing decreases to accumulated other comprehensive income):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Foreign
+​
+Post-
+​
+​
+​
+​
+​
+​
+​
+​
+Available-
+​
+Currency
+​
+Retirement
+​
+​
+​
+​
+​
+Derivative
+​
+for-Sale
+​
+Translation
+​
+Benefit
+​
+​
+​
+​
+​ ​
+Instruments
+​ ​
+Securities
+​ ​
+Adjustments
+​ ​
+Obligations
+​ ​ ​
+Total
+Balance, December 31, 2025
+​
+$
+35
+​
+$
+29
+​
+$
+(
+81
+)
+​
+$
+7
+​
+$
+(
+10
+)
+Other comprehensive income (loss) before reclassifications, net of tax expense (benefit) of $
+0
+, $
+0
+, $
+0
+and $
+0
+, respectively
+​
+(
+2
+)
+​
+—
+​
+(
+58
+)
+​
+—
+​
+(
+60
+)
+Amounts reclassified from accumulated other comprehensive (income) loss, net of tax (expense) benefit of $
+0
+, $
+0
+, $
+0
+and $
+0
+, respectively
+​
+(
+1
+)
+​
+​
+—
+​
+—
+​
+​
+—
+​
+(
+1
+)
+Net current period other comprehensive income (loss)
+​
+(
+3
+)
+​
+—
+​
+(
+58
+)
+​
+—
+​
+(
+61
+)
+Balance, June 30, 2026
+​
+$
+32
+​
+$
+29
+​
+$
+(
+139
+)
+​
+$
+7
+​
+$
+(
+71
+)
+​
+​
+​
+11.  Common Stock Repurchase Program
+The Company repurchases shares of its common stock as part of capital allocation programs authorized by our Board of Directors. During the three months ended June 30, 2026, we repurchased
+3.0
+million shares of our common stock in open market transactions in compliance with Rule 10b5-1 and Rule 10b-18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) for $
+671
+million, inclusive of per-share commissions and taxes, for a weighted average price per share of $
+223.94
+. During the six months ended June 30, 2026, we repurchased
+4.5
+million shares of our common stock in open market transactions in compliance with Rule 10b5-1 and Rule 10b-18 of the Exchange Act for $
+1.0
+billion, inclusive of per-share commissions and taxes, for a weighted average price per share of $
+227.89
+. These repurchases were made under the $
+3.0
+billion Board of Directors authorization announced in December 2025.
+As of June 30, 2026, the Company has remaining authorization for $
+2.0
+billion of future share repurchases. Any future share repurchases pursuant to this authorization of our Board of Directors will be made at the discretion of management and will depend on factors similar to those considered by the Board of Directors in making dividend declarations, including our leverage level, net earnings, financial condition and cash required for future business plans, growth and acquisitions.
+12.  Fair Value Measurements
+Assets and Liabilities Accounted for at Fair Value
+Our assets and liabilities that are measured at fair value on a recurring basis include the following (in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+June 30,
+​
+December 31,
+​
+​ ​ ​
+2026
+​ ​ ​
+2025
+Quoted prices in active markets (Level 1):
+​
+​
+​
+​
+​
+​
+Cash equivalents and money market funds
+$
+424
+$
+91
+Equity securities
+​
+​
+92
+​
+​
+88
+Significant other observable inputs (Level 2):
+​
+​
+​
+​
+​
+​
+Available-for-sale securities (a)
+​
+670
+​
+528
+Total assets measured at fair value
+$
+1,186
+​
+$
+707
+(a)
+Our available-for-sale securities primarily relate to debt securities with maturities over the next
+nine years
+.
+23
+​
+Fair Value of Debt
+As of June 30, 2026 and December 31, 2025, the carrying value of our debt was $
+23.4
+billion and $
+22.9
+billion, respectively. The estimated fair value of our debt was approximately $
+22.6
+billion and $
+22.5
+billion as of June 30, 2026 and December 31, 2025, respectively.
+Although we have determined the estimated fair value amounts using available market information and commonly accepted valuation methodologies, considerable judgment is required in interpreting market data to develop the estimates of fair value. Accordingly, our estimates are not necessarily indicative of the amounts that we, or holders of the instruments, could realize in a current market exchange. The use of different assumptions or estimation methodologies could have a material effect on the estimated fair values. The fair value estimates are based on Level 2 inputs of the fair value hierarchy available as of June 30, 2026 and December 31, 2025. These amounts have not been revalued since those dates and current estimates of fair value could differ significantly from the amounts presented.
+13.  Variable Interest Entities
+The following is a description of our financial interests in unconsolidated and consolidated variable interest entities that we consider significant:
+Low-Income Housing Properties
+We do not consolidate our investments in entities established to manage low-income housing properties because we are not the primary beneficiary of these entities as we do not have the power to direct the activities of these entities. Our aggregate investment balance in these entities was $
+577
+million and $
+624
+million as of June 30, 2026 and December 31, 2025, respectively. The debt balance related to our investments in low-income housing properties was $
+565
+million and $
+616
+million as of June 30, 2026 and December 31, 2025, respectively. Additional information related to these investments is discussed in Note 4.
+Trust Funds for Final Capping, Closure, Post-Closure or Environmental Remediation Obligations
+Unconsolidated Variable Interest Entities —
+Trust funds that are established for both the benefit of the Company and the host community in which we operate are not consolidated because we are not the primary beneficiary of these entities as (i) we do not have the power to direct the significant activities of the trusts or (ii) power over the trusts’ significant activities is shared. Our interests in these trusts are accounted for as investments in unconsolidated entities and receivables. These amounts are recorded in other receivables, investments in unconsolidated entities and other long-term assets in our Condensed Consolidated Balance Sheets, as appropriate. We also reflect our share of the unrealized gains and losses on available-for-sale securities held by these trusts as a component of our accumulated other comprehensive income (loss). Our investments and receivables related to these trusts had an aggregate carrying value of $
+133
+million and $
+127
+million as of June 30, 2026 and December 31, 2025, respectively.
+Consolidated Variable Interest Entities —
+Trust funds for which we are the sole beneficiary are consolidated because we are the primary beneficiary. These trust funds are recorded in restricted funds in our Condensed Consolidated Balance Sheets. Unrealized gains and losses on available-for-sale securities held by these trusts are recorded as a component of accumulated other comprehensive income (loss). These trusts had a fair value of $
+144
+million and $
+140
+million as of June 30, 2026 and December 31, 2025, respectively.
+​
+24
+​
+​
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and
+Results of Operations.
+The following discussion should be read in conjunction with the Condensed Consolidated Financial Statements and notes thereto included under Item 1 and our Consolidated Financial Statements and notes thereto and related Management’s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K for the year ended December 31, 2025.
+​
+This Quarterly Report on Form 10-Q contains certain forward-looking statements that are made subject to the safe harbor protections provided by the Private Securities Litigation Reform Act of 1995. Forward-looking statements are often identified by the words, “will,” “may,” “should,” “continue,” “anticipate,” “believe,” “expect,” “plan,” “forecast,” “project,” “estimate,” “intend,” and words of a similar nature and include estimates or projections of financial and other data; comments on expectations relating to future periods; plans or objectives for the future; and statements of opinions, views or beliefs about current and future events, circumstances or performance. You should view these statements with caution. They are based on the facts and circumstances known to us as of the date the statements are made. These forward looking statements are subject to risks and uncertainties that could cause actual results to be materially different from those set forth in such forward-looking statements, including but not limited to failure to implement our optimization, automation, growth and cost savings initiatives and overall business strategy; failure to obtain the results anticipated from strategic initiatives, investments, acquisitions or new lines of business; failure to identify acquisition targets, consummate and integrate acquisitions, including our ability to integrate the acquisition of Stericycle, Inc. (“Stericycle”) (which is now presented as our Healthcare Solutions segment) and achieve the anticipated benefits therefrom, including synergies; legal, regulatory, operational, technological and other matters that may affect the costs and timing of our ability to integrate and deliver all of the expected benefits of the Stericycle acquisition; existing or new environmental and other regulations, including developments related to emerging contaminants, gas emissions, renewable energy, recyclables, extended producer responsibility and our natural gas fleet; significant environmental, safety or other incidents resulting in liabilities or brand damage; failure to obtain and maintain necessary permits due to land scarcity, public opposition or otherwise; diminishing landfill capacity, resulting in increased costs and the need for disposal alternatives; failure to attract, hire and retain key team members and a high quality workforce; increases in labor costs due to union organizing activities or changes in wage and labor related regulations; disruption and costs resulting from severe weather and destructive climate events; failure to achieve our sustainability goals or execute on our sustainability-related strategy and initiatives, including within planned timelines or anticipated budgets due to disruptions, delays, cost increases or changes in environmental or tax regulations and incentives; focus on and regulation of, environmental and sustainability-related disclosures, which could lead to increased costs, risk of non-compliance, brand damage and litigation risk related to our sustainability efforts; macroeconomic conditions, geopolitical conflict and large-scale market disruption resulting in labor, supply chain and transportation constraints, inflationary cost pressures and fluctuations in commodity prices, fuel and other energy costs; increased competition and pricing pressure; impacts from international trade restrictions and tariffs; competitive disposal alternatives, diversion of waste from landfills and declining waste volumes; changes in general economic conditions, capital markets or consumer trends; changing conditions in the recycling industry, including impacts on demand, pricing and availability of counterparties; changing conditions in the healthcare industry; adoption of new tax legislation; fuel shortages; failure to develop and protect new technology; failure of technology to perform as expected; inability to adapt and manage the benefits and risks of artificial intelligence; failure to prevent, detect and address cybersecurity incidents or comply with privacy regulations; negative outcomes of litigation or governmental proceedings, including those acquired through transactions; failure to maintain an effective system of internal control over financial reporting; and operational or management decisions or developments that result in impairment charges and other risks discussed in our filings with the SEC, including Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2025. We assume no obligation to update any forward-looking statement, including financial estimates and forecasts, whether as a result of future events, circumstances or developments or otherwise.
+​
+Overview
+We are North America’s leading provider of comprehensive environmental solutions, providing services throughout the United States (“U.S.”) and Canada. We partner with our customers and the communities we serve to manage and
+25
+​
+reduce waste at each stage from collection to disposal, while recovering valuable resources and creating clean, renewable energy. We own or operate the largest network of landfills throughout the U.S. and Canada. In order to make disposal more practical for larger urban markets, where the distance to landfills is typically farther, we manage transfer stations that consolidate, compact and transport waste efficiently and economically. Our solid waste business is operated and managed locally by our subsidiaries that focus on distinct geographic areas and provide collection, transfer, disposal, recycling and resource recovery services. Through our Renewable Energy segment, we are also a leading developer, operator and owner of landfill gas-to-energy facilities in the U.S. and Canada that produce renewable electricity and renewable natural gas (“RNG”), which is a significant source of fuel that we allocate to our natural gas fleet. Our Healthcare Solutions segment provides regulated waste and compliance services (“RWCS”) and secure information destruction (“SID”) services in the U.S., Canada and Western Europe that protect people and brands, promote health and well-being and safeguard the environment.  Additionally, through our Recycling Processing and Sales segment, we are a leading recycler in the U.S. and Canada, handling materials that include paper, cardboard, glass, plastic and metal.
+Our senior management evaluates, oversees and manages the financial performance of our business through five reportable segments, referred to as (i) Collection and Disposal - East Tier (“East Tier”); (ii) Collection and Disposal - West Tier (“West Tier”); (iii) Recycling Processing and Sales; (iv) Renewable Energy and (v) Healthcare Solutions. Our East and West Tiers, along with certain ancillary services (“Other Ancillary”) that are not managed through our Tier segments, but that support our collection and disposal operations, form our “Collection and Disposal” business. We also provide additional services not managed through our five reportable segments, which are presented as Corporate and Other.
+Strategy
+Our fundamental strategy has not changed; we remain dedicated to providing long-term value to our stockholders by successfully executing our core strategy of focused differentiation and continuous improvement. We have enabled a people-first, technology-led focus to drive our mission to maximize resource value, while minimizing environmental impact, and sustainability and environmental stewardship are embedded in all that we do. Our strategy leverages and sustains the strongest asset network in the industry to drive best-in-class customer experience and growth. Our strategic planning processes appropriately consider that the future of our business and the industry can be influenced by changes in economic conditions, the competitive landscape, the regulatory environment, asset and resource availability and technology. We believe that focused differentiation, which is driven by capitalizing on our unique and extensive network of assets, will deliver profitable growth and position us to leverage competitive advantages. Simultaneously, we believe that investing in automation to improve processes and drive operational efficiency combined with a focus on the cost to serve our customers will yield an attractive profit margin and enhanced service quality. We have furthered our strategy of focused differentiation and continuous improvement beyond our traditional waste operations through our sustainability growth strategy, which has positioned us to capitalize on the significant investments made in our Renewable Energy and Recycling Processing and Sales segments, while increasing automation and reducing labor dependency. In addition, our Healthcare Solutions segment provides a complementary business platform in medical waste, a sector with attractive near- and long-term growth dynamics, and in secure information destruction services to further our leading suite of comprehensive waste and environmental solutions. Furthermore, we continue to evaluate and plan to pursue emerging diversion technologies that may generate additional value.
+Business Environment
+The waste industry is a comparatively mature and stable industry. However, customers increasingly expect more of their waste materials to be recovered and those waste streams are becoming more complex. In addition, many state and local governments mandate diversion, recycling and waste reduction at the source and prohibit the disposal of certain types of waste at landfills. We monitor these developments to adapt our service offerings. As companies, individuals and communities look for ways to be more sustainable, we promote our comprehensive services that go beyond our core business of collecting and disposing of waste in order to meet their needs. This includes expanding traditional recycling services, increasing organics collection and processing, providing medical waste services and expanding our renewable energy projects to meet the evolving needs of our diverse customer base. As North America’s leading provider of comprehensive environmental solutions, we are taking big, bold steps to catalyze positive change – change that will impact our Company as well as the communities we serve. Consistent with our Company’s long-standing commitment to sustainability and environmental stewardship, we have published our 2026 Sustainability Report, providing details on our
+26
+​
+sustainability-related performance and outlining progress towards our 2030 sustainability goals. The 2026 Sustainability Report conveys the strong linkage between the Company’s sustainability goals and our growth strategy, inclusive of the expansion of the Company’s Recycling Processing and Sales and Renewable Energy segments. The information in this report can be found at sustainability.wm.com but it does not constitute a part of, and is not incorporated by reference into, this Quarterly Report on Form 10-Q.
+We encounter intense competition from governmental, quasi-governmental and private service providers based on pricing, and to a much lesser extent, the nature of service offerings, particularly in the residential line of business. Our industry is directly affected by changes in general economic factors, including increases and decreases in consumer spending, business expansions and construction activity. These factors generally correlate to volumes of waste generated and impact our revenue. Negative economic conditions and other macroeconomic trends can and have caused customers to reduce their service needs. Such negative economic conditions, in addition to competitor actions, can impact our strategy to negotiate, renew, or expand service contracts and grow our business. We also encounter competition for acquisitions and growth opportunities. General economic factors and the market for consumer goods, in addition to regulatory developments, can also significantly impact commodity prices for the recyclable materials we sell. Significant components of our operating expenses vary directly as we experience changes in revenue due to volume and inflation. Volume changes can fluctuate significantly by line of business and can impact key financial metrics. We must dynamically manage our cost structure in response to volume changes and cost inflation.
+We believe the Company’s industry-leading asset network and strategic focus on investing in our people and our digital platform will give the Company the necessary tools to address the evolving challenges impacting the Company and our industry. In line with our commitment to continuous improvement and a differentiated customer experience, we remain focused on our automation and optimization investments to enhance our operational efficiency and change the way we interact with our customers. Advancements made through these initiatives are intended to seamlessly and digitally connect all enterprise functions required to service customers and provide the best experience. We have made significant progress in executing this technology enablement strategy to automate and optimize certain elements of our service delivery model. The key benefits are reduced labor dependency on certain high-turnover jobs, particularly in customer experience, recycling and residential collection, while further elevating our customer self-service through digitalization and implementation of technologies to enhance the safety, reliability and efficiency within our collection operations.
+We sometimes experience margin pressures and variability in earnings and margins from our commodity-driven businesses, specifically within our Recycling Processing and Sales and Renewable Energy segments. During the first half of 2026, we continued to experience decreases in market prices for recycled commodities when compared to the prior year period. Additionally, we experienced declines in commodity prices from the prior year period that had an unfavorable impact on the Renewable Energy segment. We continue to take proactive steps to adjust our business models to protect against the down side risk of changes in commodity prices.
+Variability in economic conditions, including inflation, interest rates, employment trends and supply chain reliability, can create risk and uncertainty in financial outlook. We take proactive steps to recover and mitigate inflationary cost pressures through our overall pricing efforts and by managing our costs through efficiency, labor productivity and investments in technology to automate certain aspects of our business. We remain committed to putting our people first to ensure that they are well positioned to execute our daily operations diligently and safely. We remain focused on delivering outstanding customer service, managing our variable costs with changing volumes and investing in technology that will enhance our customers’ experience and provide operating efficiencies intended to reduce our cost to serve
+.
+Current Quarter Financial Results
+During the second quarter of 2026, we continued to focus on our priorities to advance our strategy – growing the core business by focusing on customer lifetime value; delivering operational excellence and capitalizing on network advantages; capturing and enhancing returns from our investments in our Recycling Processing and Sales and Renewable Energy segments and driving accretive growth as we take our Healthcare Solutions segment from integration to scalable growth. We continue to invest in our people through paying a competitive market wage, investing in our digital platform
+27
+​
+and providing training for our team members. During the second quarter of 2026, we also allocated $1,038 million of available cash to our shareholders through dividends and common stock repurchases.
+Key elements of our financial results for the second quarter of 2026 include:
+●
+Revenues of $6,684 million, compared to $6,430 million in the prior year period, an increase of $254 million, or 4.0%. The increase is primarily due to (i) higher yield in our Collection and Disposal business; (ii) increases in our energy surcharge due to higher fuel prices and (iii) volume growth in our Recycling Processing and Sales and Renewable Energy segments. These increases are partially offset by (i) lower collection and disposal volumes; (ii) volume declines in our Healthcare Solutions segment and (iii) a reduction in single-stream and brokerage recycled commodity prices;
+●
+Operating expenses of $3,955 million, or 59.2% of revenues, compared to $3,803 million, or 59.1% of revenues, in the prior year period. The $152 million increase is primarily due to (i) higher fuel prices; (ii) annual employee wage increases and higher employee medical costs and (iii) growth in our Renewable Energy segment. These increases were offset by (i) the Company’s ability to flex spending with lower collection and special waste volumes and (ii) continued operating efficiency and cost control initiatives;
+●
+Selling, general and administrative expenses of $683 million, or 10.2% of revenues, compared to $696 million, or 10.8% of revenues, in the prior year period. The $13 million decrease is primarily due to lower professional fees and lower labor costs resulting from synergies achieved from our acquisitions, particularly Stericycle, partially offset by higher bad debt expenses;
+●
+Income from operations of $1,253 million, or 18.7% of revenues, compared to $1,151 million, or 17.9% of revenues, in the prior year period. The $102 million increase is primarily due to (i) growth in our Collection and Disposal business driven by yield; (ii) benefits from the realization of synergies in our Healthcare Solutions segment and (iii) contributions from increased volumes in our Recycling Processing and Sales and Renewable Energy segments. These increases were partially offset by prior year earnings from wildfire clean-up activities;
+●
+Net income attributable to Waste Management, Inc. of $785 million, or $1.95 per diluted share, compared to $726 million, or $1.80 per diluted share, in the prior year period. The $59 million increase is primarily due to the increase in income from operations, discussed above, partially offset by higher income tax expense;
+●
+Net cash provided by operating activities of $1,726 million compared to $1,545 million in the prior year period.  The $181 million increase in net cash provided by operating activities is primarily due to
+(i) higher earnings, particularly driven by our Collection and Disposal business; (ii) favorable changes in working capital, net of effects from acquisitions and divestitures and (iii) lower cash taxes;
+●
+Free cash flow of $1,104 million compared to $818 million in the prior year period. The $286 million increase in free cash flow is primarily due to the increase in net cash provided by operating activities described above as well as a decrease in capital spending driven by (i) lower spend on collection vehicles and (ii) planned reductions in capital investment in our sustainability growth projects due to our transition from peak construction of this portfolio into a period of harvesting returns. Free cash flow is a non-GAAP measure of liquidity. Refer to Free Cash Flow below for our definition of free cash flow, additional information about our use of this measure and a reconciliation to net cash provided by operating activities, which is the most comparable GAAP measure.
+28
+​
+Results of Operations
+Operating Revenues
+The mix of operating revenues for the three and six months ended June 30 are as follows (in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Net
+​
+Intercompany
+​
+Gross
+​
+​ ​ ​
+Operating
+​
+Operating
+​
+Operating
+​
+​
+Revenues
+​ ​ ​
+Revenues
+(a)
+​ ​ ​
+Revenues
+Three Months Ended June 30:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2026
+​
+​
+​
+​
+​
+​
+​
+​
+Commercial
+$
+1,485
+​
+$
+236
+​
+$
+1,721
+Industrial
+​
+820
+​
+​
+245
+​
+1,065
+Residential
+​
+​
+911
+​
+​
+19
+​
+​
+930
+Other collection
+​
+849
+​
+74
+​
+923
+Total collection
+​
+4,065
+​
+574
+​
+4,639
+Landfill
+​
+​
+1,004
+​
+​
+429
+​
+​
+1,433
+Transfer
+​
+​
+410
+​
+​
+300
+​
+​
+710
+Total Collection and Disposal
+​
+5,479
+​
+1,303
+​
+6,782
+Recycling Processing and Sales
+​
+403
+​
+88
+​
+491
+Renewable Energy
+​
+157
+​
+—
+​
+157
+Healthcare Solutions (b)
+​
+​
+638
+​
+​
+104
+​
+​
+742
+Corporate and Other
+​
+​
+7
+​
+​
+8
+​
+​
+15
+Total
+​
+$
+6,684
+​
+$
+1,503
+​
+$
+8,187
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2025
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Commercial
+$
+1,398
+​
+$
+220
+​
+$
+1,618
+Industrial
+​
+790
+​
+​
+223
+​
+1,013
+Residential
+​
+​
+872
+​
+​
+22
+​
+​
+894
+Other collection
+​
+796
+​
+68
+​
+864
+Total collection
+​
+3,856
+​
+533
+​
+4,389
+Landfill
+​
+​
+1,036
+​
+​
+410
+​
+​
+1,446
+Transfer
+​
+​
+389
+​
+​
+292
+​
+​
+681
+Total Collection and Disposal
+​
+5,281
+​
+1,235
+​
+6,516
+Recycling Processing and Sales
+​
+381
+​
+101
+​
+482
+Renewable Energy
+​
+115
+​
+—
+​
+115
+Healthcare Solutions (b)
+​
+​
+646
+​
+​
+114
+​
+​
+760
+Corporate and Other
+​
+​
+7
+​
+​
+8
+​
+​
+15
+Total
+​
+$
+6,430
+​
+$
+1,458
+​
+$
+7,888
+​
+29
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Net
+​
+Intercompany
+​
+Gross
+​
+​ ​ ​
+Operating
+​
+Operating
+​
+Operating
+​
+​
+Revenues
+​ ​ ​
+Revenues (a)
+​ ​ ​
+Revenues
+Six Months Ended June 30:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2026
+​
+​
+​
+​
+​
+​
+​
+​
+Commercial
+$
+2,914
+​
+$
+465
+​
+$
+3,379
+Industrial
+​
+1,578
+​
+​
+467
+​
+2,045
+Residential
+​
+​
+1,799
+​
+​
+37
+​
+​
+1,836
+Other collection
+​
+1,643
+​
+146
+​
+1,789
+Total collection
+​
+7,934
+​
+1,115
+​
+9,049
+Landfill
+​
+​
+1,868
+​
+​
+811
+​
+​
+2,679
+Transfer
+​
+​
+758
+​
+​
+571
+​
+​
+1,329
+Total Collection and Disposal
+​
+10,560
+​
+2,497
+​
+13,057
+Recycling Processing and Sales
+​
+771
+​
+175
+​
+946
+Renewable Energy
+​
+316
+​
+2
+​
+318
+Healthcare Solutions (b)
+​
+​
+1,252
+​
+​
+211
+​
+​
+1,463
+Corporate and Other
+​
+​
+12
+​
+​
+16
+​
+​
+28
+Total
+​
+$
+12,911
+​
+$
+2,901
+​
+$
+15,812
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2025
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Commercial
+$
+2,778
+​
+$
+434
+​
+$
+3,212
+Industrial
+​
+1,531
+​
+​
+422
+​
+1,953
+Residential
+​
+​
+1,744
+​
+​
+44
+​
+​
+1,788
+Other collection
+​
+1,549
+​
+140
+​
+1,689
+Total collection
+​
+7,602
+​
+1,040
+​
+8,642
+Landfill
+​
+​
+1,876
+​
+​
+763
+​
+​
+2,639
+Transfer
+​
+​
+725
+​
+​
+548
+​
+​
+1,273
+Total Collection and Disposal
+​
+10,203
+​
+2,351
+​
+12,554
+Recycling Processing and Sales
+​
+765
+​
+182
+​
+947
+Renewable Energy
+​
+206
+​
+1
+​
+207
+Healthcare Solutions (b)
+​
+​
+1,265
+​
+​
+216
+​
+​
+1,481
+Corporate and Other
+​
+​
+9
+​
+​
+16
+​
+​
+25
+Total
+​
+$
+12,448
+​
+$
+2,766
+​
+$
+15,214
+(a)
+Includes each segment’s intercompany activity, including transactions within a segment and between segments. Transactions within and between segments are generally made on a basis intended to reflect the market value of the service.
+(b)
+In the third quarter of 2025, as a result of continued integration efforts and to enhance transparency and accountability, the Company began reflecting intra-segment activity within the Healthcare Solutions segment. These charges were designed to measure profitability at more granular levels of the enterprise and to facilitate clearer financial accountability within operating units. Accordingly, adjustments to the three and six months ended June 30, 2025 were made to properly reflect intra-segment activity for each period. Intra-segment operating revenues and operating expenses within Healthcare Solutions for the three and six months ended June 30, 2026 are $101 million and $202 million, respectively. Intra-segment operating revenues and operating expenses within Healthcare Solutions for the three and six months ended June 30, 2025 are $113 million and $207 million, respectively.
+​
+​
+30
+​
+The following table provides details associated with the period-to-period change in revenues and average yield (dollars in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Period-to-Period Change for the
+Three Months Ended
+June 30, 2026 vs. 2025
+​
+​
+Period-to-Period Change for the
+Six Months Ended
+June 30, 2026 vs. 2025
+​
+​
+​
+​
+​
+As a % of
+​
+​
+​
+​
+​
+As a % of
+​
+​
+​
+​
+As a % of
+​
+​
+​
+​
+As a % of
+​
+​
+​
+​
+​
+Related
+​
+​
+​
+​
+​
+Total
+​
+​
+​
+​
+Related
+​
+​
+​
+​
+Total
+​
+​ ​ ​
+Amount
+​ ​ ​
+Business(a)
+​ ​ ​
+​
+Amount
+​ ​ ​
+Company(b)
+​
+​ ​ ​
+Amount
+​ ​ ​
+Business(a)
+​ ​ ​
+​
+Amount
+​ ​ ​
+Company(b)
+​
+Collection and Disposal
+​
+$
+181
+​
+3.6
+%
+​
+​
+​
+​
+​
+​
+​
+$
+362
+​
+3.7
+%
+​
+​
+​
+​
+​
+​
+Recycling Processing and Sales and Renewable Energy (c)
+​
+(6)
+​
+(1.2)
+​
+​
+​
+​
+​
+​
+​
+(43)
+​
+(4.3)
+​
+​
+​
+​
+​
+​
+Energy surcharge and mandated fees
+​
+102
+​
+38.2
+​
+​
+​
+​
+​
+​
+​
+122
+​
+23.7
+​
+​
+​
+​
+​
+​
+Total average yield
+​
+​
+​
+​
+​
+​
+$
+277
+​
+4.3
+%
+​
+​
+​
+​
+​
+​
+$
+441
+​
+3.5
+%
+Volume (d)
+​
+​
+​
+​
+​
+​
+(22)
+​
+(0.3)
+​
+​
+​
+​
+​
+​
+​
+(10)
+​
+(0.1)
+​
+Healthcare Solutions (e)
+​
+​
+​
+​
+​
+​
+​
+​
+(30)
+​
+(0.5)
+​
+​
+​
+​
+​
+​
+​
+​
+(42)
+​
+(0.3)
+​
+Internal revenue growth
+​
+​
+​
+​
+​
+​
+​
+​
+225
+​
+3.5
+​
+​
+​
+​
+​
+​
+​
+​
+​
+389
+​
+3.1
+​
+Acquisitions
+​
+​
+​
+​
+​
+​
+​
+​
+33
+​
+0.5
+​
+​
+​
+​
+​
+​
+​
+​
+​
+68
+​
+0.6
+​
+Divestitures
+​
+​
+​
+​
+​
+​
+​
+​
+(5)
+​
+—
+​
+​
+​
+​
+​
+​
+​
+​
+​
+(9)
+​
+(0.1)
+​
+Foreign currency translation
+​
+​
+​
+​
+​
+​
+​
+​
+1
+​
+—
+​
+​
+​
+​
+​
+​
+​
+​
+​
+15
+​
+0.1
+​
+Total
+​
+​
+​
+​
+​
+​
+​
+$
+254
+​
+4.0
+%
+​
+​
+​
+​
+​
+​
+​
+$
+463
+​
+3.7
+%
+(a)
+Calculated by dividing the increase or decrease for the current year period by the prior year period’s related business revenues adjusted to exclude the impacts of divestitures for the current year period.
+(b)
+Calculated by dividing the increase or decrease for the current year period by the prior year period’s total Company revenues adjusted to exclude the impacts of divestitures for the current year period.
+(c)
+Includes combined impact of commodity price variability in both our Recycling Processing and Sales and Renewable Energy segments, as well as changes in certain recycling fees charged by our collection and disposal operations.
+(d)
+Includes activities from our Corporate and Other businesses.
+(e)
+The amounts reported herein represent the change in our revenues from the combined impacts of yield and volume attributable to our Healthcare Solutions segment.
+The significant items affecting revenues during the three and six months ended June 30, 2026, as compared to the prior year periods, are summarized below:
+Average Yield
+Collection and Disposal Average Yield
+— This measure reflects the effect on our revenues from the pricing activities of our collection, transfer and landfill operations, exclusive of volume changes. Revenue growth from Collection and Disposal average yield includes not only base rate changes and environmental and service fee fluctuations, but also (i) certain average price changes related to the overall mix of services, which are due to the types of services provided; (ii) changes in average price from new and lost business and (iii) price decreases to retain customers.
+31
+​
+The details of our revenue growth from Collection and Disposal average yield are as follows (dollars in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Period-to-Period Change for the
+​
+Period-to-Period Change for the
+​
+​
+Three Months Ended
+​
+Six Months Ended
+​
+​
+​
+June 30, 2026 vs. 2025
+June 30, 2026 vs. 2025
+​
+​
+​
+​
+​
+​
+As a % of
+​
+​
+​
+As a % of
+​
+​
+​
+​
+​
+​
+Related
+​
+​
+​
+Related
+​
+​
+​ ​ ​
+Amount
+​ ​ ​
+​ ​
+Business
+​ ​ ​
+Amount
+​ ​ ​
+​ ​
+Business
+Commercial
+​
+$
+60
+​
+4.0
+%
+$
+129
+​
+4.4
+%
+Industrial
+​
+32
+​
+3.4
+​
+59
+​
+3.3
+​
+Residential
+​
+51
+​
+6.1
+​
+104
+​
+6.2
+​
+Total collection
+​
+143
+​
+4.2
+​
+292
+​
+4.3
+​
+Landfill
+​
+25
+​
+2.5
+​
+46
+​
+2.7
+​
+Transfer
+​
+13
+​
+3.6
+​
+24
+​
+3.4
+​
+Total Collection and Disposal
+​
+$
+181
+​
+3.6
+%
+$
+362
+​
+3.7
+%
+Our overall pricing efforts are focused on keeping pace with the increasing costs and capital intensity of our business. We continue to see yield growth in our landfill business primarily driven by municipal solid waste, which achieved average yield of 5.2% and 5.9% for the three and six months ended June 30, 2026, respectively.
+Recycling Processing and Sales and Renewable Energy
+— Recycling Processing and Sales revenues attributable to yield decreased $2 million and $30 million for the three and six months ended June 30, 2026, respectively, as compared to the prior year periods. Average market prices for single-stream recycled commodities declined by about 10% and 20% for the three and six months ended June 30, 2026, respectively, as compared to the prior year periods. Revenues attributable to yield in our Renewable Energy segment decreased $4 million and $13 million for the three and six months ended June 30, 2026, respectively, as compared to the prior year periods primarily due to lower RNG pricing, partially offset by higher electricity prices. While there may be short-term fluctuations in our commodity-driven businesses as prices change, we believe that our business models and processes appropriately mitigate the downside risk of changes in commodity prices.
+Energy Surcharge and Mandated Fees —
+These fees increased $102 million and $122 million for the three and six months ended June 30, 2026, respectively, as compared to the prior year periods. The increase in energy surcharge revenues was primarily due to an increase of approximately 50% and 30% in market prices for diesel fuel for three and six months ended June 30, 2026, respectively, as compared to the prior year periods.
+Volume
+Our revenues from volume (excluding volumes from acquisitions and divestitures, as well as Healthcare Solutions) decreased $22 million, or 0.3%, and $10 million, or 0.1%, for the three and six months ended June 30, 2026, respectively, as compared to the prior year periods.  Volume increased in both our Recycling Processing Sales and our Renewable Energy segments primarily due to contributions from recycling automation and growth projects and new renewable natural gas plants. These volume increases were largely offset by special waste volume declines compared to the prior year periods, which benefited from wildfire cleanup activities in the West Tier, and volume declines in our collection business primarily due to our intentional shedding of lower-margin residential business. Additionally, the six months ended June 30, 2026 was negatively impacted by harsh winter weather conditions in the first quarter of 2026.
+Healthcare Solutions
+Revenues from our Healthcare Solutions segment for three and six months ended June 30, 2026, decreased $30 million, or 0.5%, and $42 million, or 0.3%, respectively, as compared to the prior year periods as contributions from pricing activities were more than offset by declines in volumes.
+32
+​
+Acquisitions and
+Divestitures
+Acquisitions and divestitures resulted in a net increase in revenues of $28 million, or 0.5%, and $59 million, or 0.5%, for the three and six months ended June 30, 2026, respectively, as compared to the prior year periods primarily due to our investments in tuck-in collection and disposal businesses.
+Operating Expenses
+The following table summarizes the major components of our operating expenses for the three and six months ended June 30 (in millions of dollars and as a percentage of revenues):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+​
+Six Months Ended
+​
+​
+​
+June 30,
+​
+​
+June 30,
+​
+​
+​ ​ ​
+2026
+​
+​ ​ ​
+2025
+​ ​ ​
+​ ​ ​
+2026
+​
+​ ​ ​
+2025
+​
+Labor and related benefits
+​
+$
+1,150
+​ ​ ​
+17.2
+%
+​
+$
+1,129
+​ ​ ​
+17.6
+%
+​
+$
+2,265
+​ ​ ​
+17.5
+%
+​
+$
+2,203
+​ ​ ​
+17.7
+%
+Transfer and disposal costs
+​
+363
+​
+5.4
+​
+​
+366
+​
+5.7
+​
+​
+689
+​
+5.3
+​
+​
+698
+​
+5.6
+​
+Maintenance and repairs
+​
+586
+​
+8.8
+​
+​
+580
+​
+9.0
+​
+​
+1,132
+​
+8.8
+​
+​
+1,129
+​
+9.1
+​
+Subcontractor costs
+​
+689
+​
+10.3
+​
+​
+631
+​
+9.8
+​
+​
+1,306
+​
+10.1
+​
+​
+1,231
+​
+9.9
+​
+Cost of goods sold
+​
+225
+​
+3.4
+​
+​
+246
+​
+3.8
+​
+​
+437
+​
+3.4
+​
+​
+482
+​
+3.9
+​
+Fuel
+​
+171
+​
+2.6
+​
+​
+129
+​
+2.0
+​
+​
+313
+​
+2.4
+​
+​
+260
+​
+2.1
+​
+Disposal and franchise fees and taxes
+​
+218
+​
+3.3
+​
+​
+215
+​
+3.4
+​
+​
+406
+​
+3.2
+​
+​
+396
+​
+3.2
+​
+Landfill operating costs
+​
+119
+​
+1.8
+​
+​
+106
+​
+1.6
+​
+​
+220
+​
+1.7
+​
+​
+195
+​
+1.6
+​
+Risk management
+​
+97
+​
+1.4
+​
+​
+90
+​
+1.4
+​
+​
+211
+​
+1.6
+​
+​
+206
+​
+1.6
+​
+Other
+​
+337
+​
+5.0
+​
+​
+311
+​
+4.8
+​
+​
+670
+​
+5.2
+​
+​
+615
+​
+4.9
+​
+​
+​
+$
+3,955
+​
+59.2
+%
+​
+$
+3,803
+​
+59.1
+%
+​
+$
+7,649
+​
+59.2
+%
+​
+$
+7,415
+​
+59.6
+%
+​
+Our operating expenses for the three and six months ended June 30, 2026 increased as compared to the prior year periods, primarily due to (i) higher fuel prices; (ii) annual employee wage increases and higher employee medical costs and (iii) growth in our Renewable Energy segment. These increases were partially offset by (i) the Company’s ability to flex spending with lower collection and special waste volumes and (ii) continued operating efficiency and cost control initiatives.
+The significant items affecting operating expenses during the three and six months ended June 30, 2026, as compared to the prior year periods, are summarized below:
+Labor and Related Benefits
+—The increase in labor and related benefits costs was primarily due to annual employee wage increases and an increase in employee medical costs as compared with the prior year periods. These increases were partially offset by (i) the Company’s ability to flex spending with lower collection and special waste volumes; (ii) collection efficiency improvements and (iii) improved driver retention.
+Transfer and Disposal Costs
+— The decrease in transfer and disposal costs for the three and six months ended June 30, 2026, as compared to the prior year periods, was primarily due to lower residential volumes attributable to intentional shedding of lower-margin contracts. Lower transfer and disposal volumes caused by harsh winter weather during the first quarter of 2026 further contributed to the cost decrease for the six months ended June 30, 2026 as compared to the prior year period.
+Maintenance and Repairs
+— The increase in maintenance and repairs costs was primarily due to annual wage increases and increased maintenance technician headcount. The increase was partially offset by reduced demand for third-party services driven by fleet and operational optimization.
+Subcontractor Costs
+— The increase in subcontractor costs was primarily due to increases in market prices for diesel fuel as previously mentioned.
+33
+​
+Cost of Goods Sold
+— The decrease in cost of goods sold was primarily due to fluctuations in average market prices for single-stream recycling commodities discussed above. This decrease was partially offset by additional pipeline transportation costs attributable to new RNG facilities brought online during 2025 and 2026.
+Fuel
+— The increase in fuel costs was primarily due to the increases in average market prices for diesel fuel previously mentioned. This increase was partially offset by reduced fuel consumption due to declines in collection volumes.
+Disposal and Franchise Fees and Taxes
+— The increase in disposal and franchise fees and taxes was primarily due to an increase in landfill host fees and other fees and taxes paid to municipalities on our disposal volumes.
+​
+Landfill Operating Costs
+— The increase in landfill operating costs was primarily due to higher leachate treatment costs
+in our West Tier
+.
+Risk Management
+— The increase in risk management costs was primarily due increased claims costs as compared to the prior year periods.
+Other
+— The increase in other operating costs was primarily due to increased utility costs largely attributable to higher electricity prices and new RNG plants brought online during 2025 and 2026.
+​
+Selling, General and Administrative Expenses
+The following table summarizes the major components of our selling, general and administrative expenses for the three and six months ended June 30 (in millions of dollars and as a percentage of revenues):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+​
+Six Months Ended
+​
+​
+​
+June 30,
+​
+​
+June 30,
+​
+​
+​ ​ ​
+2026
+​
+​ ​ ​
+2025
+​
+​ ​ ​
+2026
+​
+​ ​ ​
+2025
+​
+Labor and related benefits
+​
+$
+406
+​ ​ ​
+6.1
+%
+​
+$
+412
+​ ​ ​
+6.4
+%
+​
+$
+843
+​ ​ ​
+6.5
+%
+​
+$
+839
+​ ​ ​
+6.7
+%
+Professional fees
+​
+90
+​
+1.3
+​
+​
+106
+​
+1.6
+​
+​
+172
+​
+1.3
+​
+​
+198
+​
+1.6
+​
+Provision for bad debts
+​
+40
+​
+0.6
+​
+​
+24
+​
+0.4
+​
+​
+69
+​
+0.6
+​
+​
+43
+​
+0.4
+​
+Other
+​
+147
+​
+2.2
+​
+​
+154
+​
+2.4
+​
+​
+306
+​
+2.4
+​
+​
+303
+​
+2.4
+​
+​
+​
+$
+683
+​
+10.2
+%
+​
+$
+696
+​
+10.8
+%
+​
+$
+1,390
+​
+10.8
+%
+​
+$
+1,383
+​
+11.1
+%
+​
+Selling, general and administrative expenses decreased for the three months ended June 30, 2026, as compared to the prior year period, primarily due to decreases in professional fees and lower labor costs resulting from synergies achieved from our acquisitions, particularly Stericycle, partially offset by higher bad debt expenses. Selling, general and administrative expenses increased for the six months ended June 30, 2026, as compared to the prior year period, primarily due to increases in bad debt expenses and technology costs, partially offset by lower professional fees.
+The significant items affecting selling, general and administrative expenses during the three and six months ended June 30, 2026, as compared to the prior year periods, are summarized below:
+Labor and Related Benefits —
+The decrease in labor and related benefits costs for the three months ended June 30, 2026, as compared to the prior year period, was primarily due to a reduction in workforce as we achieved synergies from our acquisitions, particularly Stericycle, and lower annual incentive compensation costs. These decreases were partially offset by annual employee wage increases. The increase in labor and related benefits costs for the six months ended June 30, 2026, as compared to the prior year period, was primarily due to annual employee wage increases and higher long-term incentive compensation costs. These increases were partially offset by a reduction in workforce as we achieved synergies from our acquisitions, particularly Stericycle.
+Professional Fees
+— The decrease in professional fees was primarily due to higher consulting costs incurred in the prior year periods to support the integration of Stericycle.
+34
+​
+Provision for Bad Debts
+— The increase in provision for bad debts in both the three and six months ended June 30, 2026 was primarily due to increased receivable balances in our Collection and Disposal business driven by increased revenues. The increase for the six months ended June 30, 2026 as compared to the prior year period was also driven by favorable adjustments to the provision for bad debts that benefited the first quarter of 2025.
+Other —
+The decrease in other expenses for the three months ended June 30, 2026, as compared to the prior year period, was primarily due to lower litigation expenses. The increase in other expenses for the six months ended June 30, 2026, as compared to the prior year period, was primarily due to increased technology costs to support strategic initiatives.
+​
+Depreciation, Depletion, Amortization and Accretion Expenses
+The following table summarizes the components of our depreciation, depletion, amortization and accretion expenses for the three and six months ended June 30 (in millions of dollars and as a percentage of revenues):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+​
+Six Months Ended
+​
+​
+​
+​
+June 30,
+​
+​
+June 30,
+​
+​
+​ ​ ​
+2026
+​
+​
+​ ​ ​
+2025
+​ ​ ​
+​ ​ ​
+2026
+​
+​ ​ ​
+2025
+​ ​ ​
+Depreciation of tangible property and equipment
+​
+$
+412
+​ ​ ​
+6.2
+​
+%
+​
+$
+386
+​ ​ ​
+6.0
+%
+​
+$
+819
+​ ​ ​
+6.3
+%
+​
+$
+757
+​ ​ ​
+6.1
+%
+Depletion of landfill airspace
+​
+230
+​
+3.4
+​
+​
+​
+220
+​
+3.4
+​
+​
+422
+​
+3.3
+​
+​
+403
+​
+3.2
+​
+Amortization of intangible assets
+​
+96
+​
+1.4
+​
+​
+​
+102
+​
+1.6
+​
+​
+193
+​
+1.5
+​
+​
+204
+​
+1.6
+​
+Interest accretion on landfill and environmental remediation liabilities
+​
+​
+39
+​
+0.6
+​
+​
+​
+​
+36
+​
+0.6
+​
+​
+​
+78
+​
+0.6
+​
+​
+​
+71
+​
+0.6
+​
+​
+​
+$
+777
+​
+11.6
+​
+%
+​
+$
+744
+​
+11.6
+%
+​
+$
+1,512
+​
+11.7
+%
+​
+$
+1,435
+​
+11.5
+%
+​
+The increase in depreciation of tangible property and equipment for the three and six months ended June 30, 2026, as compared to the prior year periods, was primarily due to investments in capital assets placed in service during 2025 and 2026, particularly within our sustainability businesses. The increase in depletion of landfill airspace for the three and six months ended June 30, 2026, as compared to the prior year periods, was primarily due to
+changes in rates from revisions in landfill estimates within our East Tier. The decrease in amortization of intangible assets for the three and six months ended June 30, 2026, as compared to the prior year periods, was primarily due to the conclusion of amortization related to customer relationships and other intangibles acquired as a result of acquisitions during prior years within our East Tier. The increase in interest accretion on landfill and environmental remediation liabilities for the three and six months ended June 30, 2026, as compared to the prior year periods, was primarily due to revisions in landfill estimates.
+Restructuring
+Restructuring charges for the three and six months ended June 30, 2026 were not material. Restructuring charges for the three and six months ended June 30, 2025 were primarily due to employee costs related to integration of our November 2024 acquisition of Stericycle.
+(Gain) Loss from Divestitures, Asset Impairments and Unusual Items, Net
+(Gain) loss from divestitures, asset impairments and unusual items, net for the three months ended June 30, 2026 was not material. (Gain) loss from divestitures, asset impairments and unusual items, net for the six months ended June 30, 2026 primarily relates to a $34 million gain on a business divestiture in our West Tier, offset by immaterial charges related to legal and remediation liabilities.
+(Gain) loss from divestitures, asset impairments and unusual items, net for the three and six months ended June 30, 2025, primarily relates to a $16 million goodwill impairment charge to a business engaged in oil recovery and sludge processing services. This charge is reflected in Other Ancillary within our Collection and Disposal business.
+35
+​
+​
+Income from Operations
+The following table summarizes income from operations for our reportable segments for the three and six months ended June 30 (dollars in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+​
+​
+Six Months Ended
+​
+​
+​
+​
+June 30,
+​
+Period-to-Period
+​
+June 30,
+​
+Period-to-Period
+​
+​
+2026
+​ ​ ​
+2025
+​ ​ ​
+Change
+​
+2026
+​ ​ ​
+2025
+​
+Change
+​ ​ ​
+Collection and Disposal:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+East Tier
+​
+$
+784
+​
+$
+721
+​
+$
+63
+8.7
+%
+$
+1,507
+​
+$
+1,390
+​
+$
+117
+8.4
+%
+West Tier
+​
+​
+761
+​
+​
+757
+​
+​
+4
+​
+0.5
+​
+​
+1,498
+​
+​
+1,436
+​
+​
+62
+4.3
+​
+Other Ancillary
+​
+5
+​
+(17)
+​
+22
+*
+​
+5
+​
+(20)
+​
+25
+*
+​
+Collection and Disposal
+​
+1,550
+​
+1,461
+​
+89
+6.1
+​
+3,010
+​
+2,806
+​
+204
+7.3
+​
+Recycling Processing and Sales
+​
+36
+​
+24
+​
+12
+50.0
+​
+55
+​
+42
+​
+13
+31.0
+​
+Renewable Energy
+​
+​
+47
+​
+​
+38
+​
+​
+9
+​
+23.7
+​
+​
+95
+​
+​
+57
+​
+​
+38
+​
+66.7
+​
+Healthcare Solutions
+​
+​
+2
+​
+​
+(23)
+​
+​
+25
+​
+108.7
+​
+​
+(12)
+​
+​
+(44)
+​
+​
+32
+​
+72.7
+​
+Corporate and Other
+​
+​
+(382)
+​
+​
+(349)
+​
+​
+(33)
+​
+9.5
+​
+​
+(782)
+​
+​
+(697)
+​
+​
+(85)
+​
+12.2
+​
+Total
+​
+$
+1,253
+​
+$
+1,151
+​
+$
+102
+8.9
+%
+$
+2,366
+​
+$
+2,164
+​
+$
+202
+9.3
+%
+Percentage of revenues
+​ ​
+​
+18.7
+%
+​
+17.9
+%
+​
+​
+​
+​
+​
+​
+18.3
+%
+​
+17.4
+%
+​
+​
+​
+​
+​
+*Percentage change does not provide a meaningful comparison.
+The significant items affecting income from operations for our segments during the three and six months ended June   30, 2026, as compared to the prior year periods, are summarized below:
+Collection and Disposal —
+Income from operations in our Collection and Disposal business increased primarily due to (i) revenue growth from price increases, which translates into increased yield or average unit price; (ii) actions to improve efficiency and the operating costs incurred to serve our customers and (iii) a gain from a business divestiture in our West Tier recognized in the first quarter of 2026. These increases were partially offset by declines in special waste volume in our West Tier, which was favorably impacted by wildfire clean-up activities in the prior year periods, and lower volumes caused by harsh winter weather in early 2026.
+Recycling Processing and Sales —
+The increase in income from operations in our Recycling Processing and Sales segment was primarily due to lower expenses from the suspension of a business engaged in plastic film and wrap recycling during 2025, increased volumes and reduced costs from the automation of our recycling facilities as well as investments in new facilities. These increases were partially offset by declines in commodity prices compared to the prior year periods.
+Renewable Energy —
+The increase in income from operations in our Renewable Energy segment was primarily due to higher volumes driven by the completion of projects that increase the beneficial use of landfill gas sold to third parties. This increase was partially offset by a decline in RINs pricing.
+Healthcare Solutions —
+Our Healthcare Solutions segment generated income from operations in the three months ended June 30, 2026 and a loss from operations in the six months ended June 30, 2026. The improvement across both time periods is primarily due to non-recurring integration costs incurred during the prior year periods along with lower costs in the current year from the realization of synergies, offset by lower volumes.
+Corporate and Other —
+The loss from operations in Corporate and Other increased in the three months ended June 30, 2026 primarily due to (i) increased technology costs to support strategic initiatives; (ii) higher risk management expenses and (iii) annual wage increases. The loss from operations in Corporate and Other increased in the six months ended June 30, 2026 primarily due to (i) increased technology costs to support our strategic initiatives; (ii) annual wage increases and (iii) increased employee medical costs.
+36
+​
+Interest Expense, Net
+Our interest expense, net was $233 million and $458 million for the three and six months ended June 30, 2026, respectively, compared to $232 million and $464 million for the three and six months ended June 30, 2025, respectively. Interest expense, net benefited from a decrease in our average debt balances and increases in interest income as compared to the prior year periods. These benefits were partially offset for the six-month period, and more than offset for the three-month period, by lower capitalized interest resulting from the completion of the majority of our sustainability growth projects by the end of 2025.
+Income Tax Expense
+Our income tax expense and effective income tax rate was $238 million, or 23.2%, and $406 million, or 21.2%, for the three and six months ended June 30, 2026, respectively, compared to $201 million, or 21.7%, and $352 million, or 20.5%, for the three and six months ended June 30, 2025, respectively. See Note 4 to the Condensed Consolidated Financial Statements for more information related to income taxes.
+Tax Legislation
+—
+The Inflation Reduction Act of 2022 (“IRA”) contains several tax-related provisions, including with respect to (i) alternative fuel tax credits; (ii) tax incentives for investments in renewable energy production, carbon capture and other climate actions and (iii) the overall measurement of corporate income taxes. Given the complexity and uncertainty around the applicability of the legislation to our specific facts and circumstances, we continue to analyze the IRA provisions to identify and quantify potential opportunities and applicable benefits included in the legislation. We secured approximately $60 million of annual pre-tax benefit through the provisions of the IRA related to alternative fuel tax credits (recorded as a reduction in our operating expense) in 2024. The alternative fuel credit expired at the end of 2024 and will not provide any future benefit to the Company without further legislative action. With respect to the Section 48 investment tax credit, we expect our cumulative benefit to be between $400 million and $425 million,
+$309 million of which was recognized between 2023 and 2025 with the remainder anticipated to be realized in 2026 and 2027
+. Finally, in February 2026 the Internal Revenue Service issued proposed regulatory guidance clarifying qualification for the Section 45Z clean fuel production tax credit. We expect our cumulative benefit from this clean fuel production tax credit to be as much as $150 million through 2029. This expected benefit is dependent on a number of estimates and assumptions, which we continue to monitor and factor into our credit realization expectations.
+Liquidity and Capital Resources
+The Company consistently generates cash flow from operations that meets and exceeds our working capital needs, allows for payment of our dividends, investment in the business through capital expenditures and tuck-in acquisitions and funding of strategic sustainability growth investments. We continually monitor our actual and forecasted cash flows, our liquidity and our capital resources, enabling us to plan for our present needs and fund unbudgeted business requirements that may arise during the year. The Company believes that its investment grade credit ratings, diverse investor base, large value of unencumbered assets and modest leverage enable it to obtain adequate financing, and refinance upcoming maturities, as necessary to meet its ongoing capital, operating, strategic and other liquidity requirements. We also have the ability to manage liquidity during periods of significant financial market disruption through temporary modification of our capital expenditure and share repurchase plans.
+37
+​
+Summary of Cash and Cash Equivalents, Restricted Funds and Debt Obligations
+The following is a summary of our cash and cash equivalents, restricted funds and debt balances (in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+June 30,
+​
+December 31,
+​
+​ ​ ​
+2026
+​ ​ ​
+2025
+Cash and cash equivalents
+​
+$
+557
+​
+$
+201
+Restricted funds and other:
+​
+​
+​
+​
+Insurance reserves
+​
+$
+603
+​
+$
+472
+Final capping, closure, post-closure and environmental remediation funds
+​
+​
+144
+​
+​
+140
+Other
+​
+1
+​
+10
+Total restricted funds and other (a)
+​
+$
+748
+​
+$
+622
+Debt:
+​
+​
+​
+​
+Current portion
+​
+$
+1,075
+​
+$
+711
+Long-term portion
+​
+22,281
+​
+22,196
+Total debt
+​
+$
+23,356
+​
+$
+22,907
+(a)
+As of June 30, 2026 and December 31, 2025, $100 million and $109 million, respectively, of these account balances were included in other current assets in our Condensed Consolidated Balance Sheets.
+Debt
+— As of June 30, 2026, we had approximately $3.8 billion of debt maturing within the next 12 months, including (i) $2.0 billion of tax-exempt bonds with term interest rate periods that expire within the next 12 months, which is prior to their scheduled maturities; (ii) $1.1 billion of short-term borrowings under our commercial paper program (net of related discount on issuance); (iii) $223 million of 7.10% senior notes that mature in August 2026; (iv) $352 million of 2.60% Canadian senior notes that the Company elected to redeem in July 2026 and (v) $206 million of other debt with scheduled maturities within the next 12 months. As of June 30, 2026, we have classified $2.7 billion of debt maturing in the next 12 months as long-term because we have the intent and ability to refinance these borrowings on a long-term basis as supported by the forecasted available capacity under our $3.5 billion long-term U.S. and Canadian revolving credit facility. The remaining $1.1 billion of debt maturing in the next 12 months is classified as current obligations.
+Guarantor Financial Information
+WM Holdings, Inc. (“WM Holdings”) has fully and unconditionally guaranteed all of Waste Management, Inc.’s (“WMI’s”) senior indebtedness. WMI has fully and unconditionally guaranteed all of WM Holdings’ senior indebtedness. None of WMI’s other subsidiaries have guaranteed any of WMI’s or WM Holdings’ debt. In lieu of providing separate financial statements for the subsidiary issuer and guarantor (WMI and WM Holdings), we have presented the accompanying supplemental summarized combined balance sheet and income statement information for WMI and WM Holdings on a combined basis after elimination of intercompany transactions between WMI and WM Holdings and amounts related to investments in any subsidiary that is a non-guarantor (in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+June 30,
+​
+December 31,
+​
+​ ​ ​
+2026
+​ ​ ​
+2025
+Balance Sheet Information:
+​
+​
+​
+​
+​
+​
+Current assets
+$
+19
+​
+$
+44
+Noncurrent assets
+​
+​
+12
+​
+​
+13
+Current liabilities
+​
+672
+​
+738
+Noncurrent liabilities:
+​
+​
+​
+​
+​
+​
+Advances due to affiliates
+​
+​
+19,757
+​
+​
+18,160
+Other noncurrent liabilities
+​
+19,918
+​
+19,733
+​
+38
+​
+​
+​
+​
+​
+​
+​ ​ ​
+Six Months Ended
+​
+​
+June 30, 2026
+Income Statement Information:
+​
+​
+​
+Revenue
+$
+—
+Operating income
+​
+​
+—
+Net loss
+​
+​
+(327)
+​
+​
+Summary of Cash Flow Activity
+The following is a summary of our cash flows for the six months ended June 30 (in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+2026
+​ ​ ​
+2025
+Net cash provided by operating activities
+​
+$
+3,227
+​
+$
+2,753
+Net cash used in investing activities
+​
+​
+(1,427)
+​
+​
+(1,915)
+Net cash used in financing activities
+​
+​
+(1,452)
+​
+​
+(781)
+​
+Net Cash Provided by Operating Activities —
+Our operating cash flows increased by $474 million for the six months ended June 30, 2026, as compared to the prior year period, primarily due to (i) higher earnings, particularly driven by our Collection and Disposal business; (ii) favorable changes in working capital, net of effects from acquisitions and divestitures; (iii) lower annual incentive compensation payments and (iv) lower cash taxes.
+Net Cash Used in Investing Activities —
+The most significant items included in our investing cash flows for the six months ended June 30, 2026 and 2025
+are summarized below:
+●
+Capital Expenditures —
+We used $1,280 million and $1,563 million for capital expenditures during the six months ended June 30, 2026 and 2025, respectively.
+The decrease in capital spending is primarily driven by (i) lower spend on collection vehicles and (ii) planned reductions in capital investments in our sustainability growth projects due to our transition from peak construction of this portfolio into a period of harvesting returns.
+●
+Acquisitions —
+Our cash spending on acquisitions was $98 million and $374 million during the six months ended June 30, 2026 and 2025, respectively, of which $85 million and $366 million, respectively, are considered cash used in investing activities. The remaining spend is cash used in financing activities related to the timing of contingent consideration paid. These acquisitions are related to our solid waste and recycling businesses.
+●
+Divestitures
+— Proceeds from divestitures of businesses and other assets, net of cash divested, were $77 million and $103 million for the six months ended June 30, 2026 and 2025, respectively. Proceeds in 2026 primarily related to a business divestiture in our West Tier. Proceeds in 2025 primarily related to the sale of our Healthcare Solutions segment’s Spain and Portugal subsidiaries.
+●
+Other, Net
+— The change in other investing activities were primarily driven by changes in our investment portfolio associated with a wholly-owned insurance captive. During the six months ended June 30, 2026 and 2025, we used $134 million and $87 million, respectively, of cash from restricted cash and cash equivalents to invest in available-for-sale securities.
+39
+​
+Net Cash Used in Financing Activities —
+The most significant items affecting the comparison of our financing cash flows for the six months ended June 30, 2026 and 2025 are summarized below:
+●
+Debt Borrowings and Repayments —
+The following summarizes our cash borrowings and repayments of debt for the six months ended June 30 (in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​ ​ ​
+2026
+​
+2025
+Borrowings
+:
+​
+​
+​
+​
+Commercial paper
+$
+12,330
+​
+$
+9,005
+Senior notes
+​
+​
+493
+​
+​
+—
+Tax-exempt bonds
+​
+—
+​
+​
+130
+​
+$
+12,823
+​
+$
+9,135
+Repayments
+:
+​
+​
+​
+Commercial paper
+$
+(12,371)
+​
+$
+(8,744)
+Senior notes
+​
+(15)
+​
+​
+(422)
+Other debt
+(98)
+​
+(68)
+​
+$
+(12,484)
+​
+$
+(9,234)
+Net cash borrowings (repayments)
+​
+$
+339
+​
+$
+(99)
+​
+Refer to Note 3 to the Condensed Consolidated Financial Statements for additional information related to our debt borrowings and repayments.
+●
+Common Stock Repurchase Program —
+During the six months ended June 30, 2026, we paid cash of $1,003 million for common stock repurchases. There were no share repurchases made in 2025. See Note 11 to the Condensed Consolidated Financial Statements for additional information about our share repurchase activity.
+●
+Cash Dividends —
+We paid cash dividends of $764 million and $669 million during the six months ended June 30, 2026 and 2025 respectively. The increase in dividend payments is primarily due to our quarterly per share dividend increasing from $0.825 in 2025 to $0.945 in 2026.
+Free Cash Flow
+We are presenting free cash flow, which is a non-GAAP measure of liquidity, in our disclosures because we use this measure in the evaluation and management of our business. We define free cash flow as net cash provided by operating activities, less capital expenditures, plus proceeds from divestitures of businesses and other assets, net of cash divested. We believe it is indicative of our ability to pay our quarterly dividends, repurchase common stock, fund acquisitions and other investments and, in the absence of refinancings, to repay our debt obligations. Free cash flow is not intended to replace net cash provided by operating activities, which is the most comparable GAAP measure. We believe free cash flow gives investors useful insight into how we view our liquidity, but the use of free cash flow as a liquidity measure has material limitations because it excludes certain expenditures that are required or that we have committed to, such as declared dividend payments and debt service requirements.
+40
+​
+Our calculation of free cash flow and reconciliation to net cash provided by operating activities for the three and six months ended June 30, 2026 and 2025 is shown in the table below (in millions) and may not be calculated the same as similarly-titled measures presented by other companies:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Three Months Ended
+​
+Six Months Ended
+​
+​
+June 30,
+​
+June 30,
+​
+​
+2026
+​ ​ ​
+2025
+​ ​ ​
+2026
+​ ​ ​
+2025
+Net cash provided by operating activities
+​
+$
+1,726
+​
+$
+1,545
+​
+$
+3,227
+​
+$
+2,753
+Capital expenditures to support the business
+​
+​
+(555)
+​
+​
+(572)
+​
+​
+(1,144)
+​
+​
+(1,275)
+Capital expenditures - sustainability growth investments (a)
+​
+​
+(75)
+​
+​
+(160)
+​
+​
+(136)
+​
+​
+(288)
+Total capital expenditures
+​
+(630)
+​
+(732)
+​
+(1,280)
+​
+(1,563)
+Proceeds from divestitures of businesses and other assets, net of cash divested
+​
+8
+​
+5
+​
+77
+​
+103
+Free cash flow
+​
+$
+1,104
+​
+$
+818
+​
+$
+2,024
+​
+$
+1,293
+(a)
+These growth investments are intended to further our sustainability leadership position by increasing recycling volumes and growing renewable natural gas generation. We expect they will deliver circular solutions for our customers and drive environmental value to the communities we serve.
+Critical Accounting Estimates and Assumptions
+In preparing our financial statements, we make numerous estimates and assumptions that affect the accounting for and recognition and disclosure of assets, liabilities, equity, revenues and expenses. We must make these estimates and assumptions because certain information that we use is dependent on future events, cannot be calculated with precision from available data or simply cannot be calculated. In some cases, these estimates are difficult to determine and we must exercise significant judgment. In preparing our financial statements, the most difficult, subjective and complex estimates and the assumptions that present the greatest amount of uncertainty relate to our accounting for landfills, environmental remediation liabilities, long-lived asset impairments, intangible asset impairments and the fair value of assets and liabilities acquired in business combinations, as described in Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2025. Actual results could differ materially from the estimates and assumptions that we use in the preparation of our financial statements.
+Seasonal Trends
+Our financial and operating results may fluctuate for many reasons, including period-to-period changes in the relative contribution
+of
+revenue
+by
+each
+line
+of
+business,
+changes
+in
+commodity
+prices
+and
+general
+economic
+conditions.
+Our operating
+revenues
+and
+volumes
+typically
+experience
+seasonal
+increases
+in
+the
+summer
+months
+that
+are
+reflected
+in
+second and third quarter revenues and results of operations.
+Service or operational disruptions caused by severe storms, extended periods of inclement weather or climate events can significantly affect the operating results of the geographic areas affected. Extreme weather events may also lead to supply chain disruption and delayed project development, or disruption of our customers’ businesses, reducing the amount of waste generated by their operations.
+Conversely, certain destructive weather and climate conditions, such as wildfires in the Western U.S. and hurricanes that
+most
+often
+impact
+our
+operations
+in
+the
+Southern
+and
+Eastern
+U.S.
+during
+the
+second
+half
+of
+the
+year,
+can
+increase
+our revenues
+in
+the
+geographic
+areas
+affected
+as
+a
+result
+of
+the
+waste
+volumes
+generated
+by
+these
+events.
+Inflation
+Variability in economic
+conditions,
+including inflation,
+interest
+rates,
+employment
+trends
+and
+supply chain reliability, can
+create
+risk
+and
+uncertainty
+in
+financial
+outlook.
+We
+take
+proactive
+steps
+to
+recover
+and
+mitigate
+inflationary
+cost
+pressures
+through
+our
+overall
+pricing
+efforts
+and
+by
+managing
+our
+costs
+through
+efficiency,
+labor
+productivity
+and
+41
+​
+investments
+in
+technology
+to
+automate
+certain
+aspects
+of
+our
+business.
+These
+efforts
+may
+not
+be
+successful
+for
+various
+reasons
+including
+the
+pace
+of
+inflation,
+operating
+cost
+inefficiencies,
+market
+responses
+and
+contractual
+limitations,
+such
+as
+the
+timing
+lag
+in
+our
+ability
+to
+recover
+increased
+costs
+under
+certain
+contracts
+that
+are
+tied
+to
+a
+price
+escalation
+index with a lookback provision.
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk.
+Information about market risks as of June 30, 2026 does not materially differ from that discussed under Item 7A in our Annual Report on Form 10-K for the year ended December 31, 2025.
+Item 4.
+Controls and Procedures.
+Effectiveness of Disclosure Controls and Procedures
+Our management, with the participation of our principal executive and financial officers, has evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) in ensuring that the information required to be disclosed in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, including ensuring that such information is accumulated and communicated to management (including the principal executive and financial officers) as appropriate to allow timely decisions regarding required disclosure. Based on such evaluation, our principal executive and financial officers have concluded that such disclosure controls and procedures were effective as of June 30, 2026 (the end of the period covered by this Quarterly Report on Form 10-Q) at a reasonable assurance level.
+Changes in Internal Control over Financial Reporting
+Management, together with our CEO and CFO, evaluated the changes in our internal control over financial reporting during the quarter ended June 30, 2026. We determined that there were no changes in our internal control over financial reporting during the quarter ended June 30, 2026 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+​
+​
+42
+​
+PART II.
+Item 1.
+Legal Proceedings.
+Information regarding our legal proceedings can be found under the
+Environmental Matters
+and
+Litigation
+sections of Note 6 to the Condensed Consolidated Financial Statements.
+Item 1A.
+Risk Factors.
+There have been no material changes to the risk factors previously disclosed in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2025.
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds.
+The following table summarizes common stock repurchases made during the second quarter of 2026 (shares in millions):
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Total Number of
+​
+​
+​
+​
+​
+Total
+​
+​
+​
+​
+Shares Purchased as
+​
+Approximate Maximum
+​
+​
+Number of
+​
+Average
+​
+Part of Publicly
+​
+Dollar Value of Shares that
+​
+​
+Shares
+​
+Price Paid
+​
+Announced Plans or
+​
+May Yet be Purchased Under
+Period
+​ ​ ​
+Purchased
+per Share
+Programs
+the Plans or Programs
+April 1 — 30
+0.9
+​
+$
+231.02
+​
+0.9
+​
+$
+2.5 billion
+​
+May 1 — 31
+0.8
+​
+$
+221.12
+​
+0.8
+​
+$
+2.3 billion
+​
+June 1 — 30
+1.3
+​
+$
+220.96
+​
+1.3
+​
+$
+2.0 billion
+(a)
+Total
+3.0
+​
+$
+223.94
+3.0
+​
+​
+​
+​
+(a)
+As of June 30, 2026, the Company has authorization for $2.0 billion of future share repurchases. The amount of future share repurchases executed under our Board of Directors’ authorization is determined in management’s discretion, based on various factors, including our leverage level, net earnings, financial condition and cash required for future business plans, growth and acquisitions.
+​
+Item 3.
+Defaults Upon Senior Securities.
+None.
+​
+Item 4.
+Mine Safety Disclosures.
+Information concerning mine safety and other regulatory matters required by Section 1503(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act and Item 104 of Regulation S-K is included in Exhibit 95 to this quarterly report.
+​
+43
+​
+Item 5.
+Other Information
+.
+​
+Securities Trading Plans of Directors and Executive Officers
+​
+On
+May 19, 2026
+,
+Christopher DeSantis
+,
+Senior Vice President – Operations
+,
+adopted
+a stock trading plan (the “DeSantis Plan”) intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Exchange Act. The DeSantis Plan will commence on August 19, 2026 and will automatically terminate on the earlier of
+August 19, 2027
+and the completion of all the contemplated transactions set forth therein. The DeSantis Plan provides for the cashless exercise of two stock option awards totaling
+5,211
+stock options upon our common stock reaching specified market prices, pursuant to which shares of common stock will be sold to cover option costs, tax obligations, commissions and fees.  The DeSantis Plan also provides for the sale of the remaining shares after settlement, the proceeds of which will be delivered to Mr. DeSantis.
+​
+​
+44
+​
+​
+Item 6.
+Exhibits.
+​
+​
+​
+Exhibit No.
+​ ​ ​
+Description
+​
+​
+​
+10.1*
+​
+Waste Management Holdings, Inc. Executive Severance Protection Plan, as amended.
+​
+​
+​
+10.2
+​
+Waste Management, Inc. Employee Stock Purchase Plan, as amended and restated May 12, 2026 [Incorporated by reference to Exhibit 10.1 to Form 8-K filed May 14, 2026].
+​
+​
+​
+22.1*
+​
+Guarantor Subsidiary.
+​
+​
+​
+31.1*
+​
+Certification Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934 James C. Fish, Jr., Chief Executive Officer.
+​
+​
+​
+31.2*
+​
+Certification Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934 David L. Reed, Executive Vice President and Chief Financial Officer.
+​
+​
+​
+32.1**
+​
+Certification Pursuant to 18 U.S.C. §1350 of James C. Fish, Jr., Chief Executive Officer.
+​
+​
+​
+32.2**
+​
+Certification Pursuant to 18 U.S.C. §1350 of David L. Reed, Executive Vice President and Chief Financial Officer.
+​
+​
+​
+95*
+​
+Mine Safety Disclosures.
+​
+​
+​
+101.INS*
+​
+Inline XBRL Instance.
+​
+​
+​
+101.SCH*
+​
+Inline XBRL Taxonomy Extension Schema.
+​
+​
+​
+101.CAL*
+​
+Inline XBRL Taxonomy Extension Calculation.
+​
+​
+​
+101.LAB*
+​
+Inline XBRL Taxonomy Extension Labels.
+​
+​
+​
+101.PRE*
+​
+Inline XBRL Taxonomy Extension Presentation.
+​
+​
+​
+101.DEF*
+​
+Inline XBRL Taxonomy Extension Definition.
+​
+​
+​
+104*
+​
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+​
+*     Filed herewith.
+**   Furnished herewith.
+​
+45
+​
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+​
+​
+​
+​
+WASTE MANAGEMENT, INC.
+​
+​
+​
+​
+By:
+/s/ DAVID L. REED
+​
+​
+David L. Reed
+​
+​
+Executive Vice President and
+​
+​
+Chief Financial Officer
+​
+​
+(Principal Financial Officer)
+​
+​
+​
+​
+WASTE MANAGEMENT, INC.
+​
+​
+​
+​
+By:
+/s/ JOHN CARROLL
+​
+​
+John Carroll
+​
+​
+Vice President and
+​
+​
+Chief Accounting Officer
+​
+​
+(Principal Accounting Officer)
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Date: July 29, 2026
+​
+​
+​
+​
+​
+​
+​
+​
+​
+46

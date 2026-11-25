@@ -1,0 +1,5362 @@
+10-Q
+false
+0001669811
+--12-31
+28
+Q2
+http://fasb.org/us-gaap/2026#SecuredOvernightFinancingRateSofrMember
+http://fasb.org/us-gaap/2026#SecuredOvernightFinancingRateSofrMember
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+2025-04-01
+2025-06-30
+0001669811
+dfin:TermLoanAFacilityMember
+2024-12-31
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGranted2024Member
+dfin:PSUFirstAnnualPerformancePeriodMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2026-06-30
+0001669811
+us-gaap:CorporateNonSegmentMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PSURemainingPerformancePeriodMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixMember
+2026-06-30
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+us-gaap:TechnologyServiceMember
+2025-04-01
+2025-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+us-gaap:TechnologyServiceMember
+2025-01-01
+2025-06-30
+0001669811
+dfin:PrintAndDistributionServiceMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:RetainedEarningsMember
+2025-12-31
+0001669811
+us-gaap:RestrictedStockUnitsRSUMember
+2026-04-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+2026-04-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+us-gaap:OperatingSegmentsMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveOneMember
+srt:MaximumMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:SoftwareSolutionsMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PsuCumulativePerformancePeriodsMember
+dfin:PerformancePeriodYearGranted20241Member
+2026-06-30
+0001669811
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixMember
+dfin:PSUFirstAnnualPerformancePeriodMember
+2026-06-30
+0001669811
+dfin:PerformancePeriodYearGranted2024Member
+us-gaap:PerformanceSharesMember
+srt:MinimumMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+dfin:PrintAndDistributionServiceMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixMember
+dfin:PSUSecondAnnualPerformancePeriodMember
+2026-01-01
+2026-06-30
+0001669811
+2026-06-30
+0001669811
+us-gaap:OperatingSegmentsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-04-01
+2026-06-30
+0001669811
+dfin:PrintAndDistributionServiceMember
+2025-04-01
+2025-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+dfin:SoftwareSolutionsMember
+2025-01-01
+2025-06-30
+0001669811
+2026-03-31
+0001669811
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-03-31
+0001669811
+dfin:SoftwareSolutionsMember
+2026-01-01
+2026-06-30
+0001669811
+srt:MinimumMember
+dfin:TermLoanAFacilityMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-01-01
+2025-06-30
+0001669811
+dfin:PrintAndDistributionServiceMember
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2025-01-01
+2025-06-30
+0001669811
+dfin:PerformancePeriodYearGranted2024Member
+us-gaap:PerformanceSharesMember
+srt:MaximumMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:CommonStockMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-06-30
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:TermLoanAFacilityMember
+srt:MaximumMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:AdditionalPaidInCapitalMember
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+us-gaap:TechnologyServiceMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:TechnologyServiceMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:TreasuryStockCommonMember
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:RetainedEarningsMember
+2025-04-01
+2025-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+dfin:SoftwareSolutionsMember
+2025-04-01
+2025-06-30
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+us-gaap:TechnologyServiceMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGranted2024Member
+dfin:PSUFirstAnnualPerformancePeriodMember
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+dfin:SoftwareSolutionsMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-06-30
+0001669811
+us-gaap:CorporateNonSegmentMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+srt:MaximumMember
+dfin:PsuCumulativePerformancePeriodsMember
+dfin:PerformancePeriodYearGranted20241Member
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:MachineryAndEquipmentMember
+2026-06-30
+0001669811
+us-gaap:AdditionalPaidInCapitalMember
+2026-03-31
+0001669811
+dfin:DanielNLeibMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveMember
+dfin:PSURemainingPerformancePeriodMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveOneMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-03-31
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+us-gaap:OperatingSegmentsMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+dfin:PrintAndDistributionServiceMember
+2026-04-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+dfin:SoftwareSolutionsMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:TreasuryStockCommonMember
+2025-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+dfin:SoftwareSolutionsMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:EquitySecuritiesMember
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+dfin:PrintAndDistributionServiceMember
+2025-01-01
+2025-06-30
+0001669811
+dfin:PrintAndDistributionServiceMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:AmendedAndRestatedCreditAgreementMember
+dfin:TermLoanAFacilityMember
+2026-06-30
+0001669811
+dfin:AmendedAndRestatedCreditAgreementMember
+dfin:TermLoanAFacilityMember
+2025-06-30
+0001669811
+us-gaap:OperatingSegmentsMember
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:CertainExecutiveOfficersAndSeniorManagementMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:OperatingSegmentsMember
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveOneMember
+srt:MinimumMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+dfin:PrintAndDistributionServiceMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+2025-12-31
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+2026-04-01
+2026-06-30
+0001669811
+dfin:AmendedAndRestatedCreditAgreementMember
+dfin:TermLoanAFacilityMember
+2025-12-31
+0001669811
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001669811
+dfin:PrintAndDistributionServiceMember
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:PerformancePeriodYearGranted2024Member
+us-gaap:PerformanceSharesMember
+dfin:PSURemainingPerformancePeriodMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:RestrictedStockUnitsRSUMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+dfin:SoftwareSolutionsMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-12-31
+0001669811
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:AccumulatedTranslationAdjustmentMember
+2024-12-31
+0001669811
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveMember
+dfin:PSUFirstAnnualPerformancePeriodMember
+2026-06-30
+0001669811
+2024-12-31
+0001669811
+us-gaap:EmployeeSeveranceMember
+2025-12-31
+0001669811
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:EmployeeSeveranceMember
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveMember
+dfin:PSUFirstAnnualPerformancePeriodMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:TreasuryStockCommonMember
+2025-12-31
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveMember
+dfin:PSUSecondAnnualPerformancePeriodMember
+2026-06-30
+0001669811
+us-gaap:OperatingSegmentsMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-12-31
+0001669811
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGranted2024Member
+dfin:PSUSecondAnnualPerformancePeriodMember
+2026-06-30
+0001669811
+us-gaap:RetainedEarningsMember
+2025-06-30
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2026-04-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+dfin:SoftwareSolutionsMember
+2025-01-01
+2025-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+dfin:PrintAndDistributionServiceMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:RetainedEarningsMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+us-gaap:OperatingSegmentsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+dfin:SoftwareSolutionsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:CorporateNonSegmentMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:AccumulatedTranslationAdjustmentMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGranted2024Member
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:PerformancePeriodYearGranted2024Member
+us-gaap:PerformanceSharesMember
+dfin:PSUSecondAnnualPerformancePeriodMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixOneMember
+srt:MaximumMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+us-gaap:TechnologyServiceMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:RevolvingCreditFacilityMember
+2025-06-30
+0001669811
+dfin:TermLoanAFacilityMember
+2026-06-30
+0001669811
+2026-04-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+us-gaap:TechnologyServiceMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001669811
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0001669811
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+dfin:PrintAndDistributionServiceMember
+2026-01-01
+2026-06-30
+0001669811
+srt:MinimumMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:CommonStockMember
+2026-06-30
+0001669811
+us-gaap:CommonStockMember
+2025-12-31
+0001669811
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2026-06-30
+0001669811
+us-gaap:CommonStockMember
+2025-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+2025-01-01
+2025-06-30
+0001669811
+2026-07-24
+0001669811
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-06-30
+0001669811
+us-gaap:RestrictedStockUnitsRSUMember
+2025-12-31
+0001669811
+us-gaap:PerformanceSharesMember
+srt:MinimumMember
+dfin:PsuCumulativePerformancePeriodsMember
+dfin:PerformancePeriodYearGranted20241Member
+2026-01-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+dfin:SoftwareSolutionsMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:AmendedAndRestatedCreditAgreementMember
+2025-03-13
+2025-03-13
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+dfin:SoftwareSolutionsMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:RetainedEarningsMember
+2026-03-31
+0001669811
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2024-12-31
+0001669811
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+2025-01-01
+2025-06-30
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+us-gaap:TechnologyServiceMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:EmployeeSeveranceMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+dfin:SoftwareSolutionsMember
+2026-04-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+dfin:PrintAndDistributionServiceMember
+2025-01-01
+2025-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+dfin:SoftwareSolutionsMember
+2025-01-01
+2025-06-30
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2025-12-31
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+dfin:PrintAndDistributionServiceMember
+2025-04-01
+2025-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+us-gaap:OperatingSegmentsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2026-03-31
+0001669811
+us-gaap:TechnologyServiceMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:CommonStockMember
+2024-12-31
+0001669811
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+us-gaap:OperatingSegmentsMember
+2025-04-01
+2025-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+us-gaap:TechnologyServiceMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PSURemainingPerformancePeriodMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-06-30
+0001669811
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:CommonStockMember
+2025-03-31
+0001669811
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:RevolvingCreditFacilityMember
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveMember
+srt:MaximumMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+dfin:SoftwareSolutionsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:TwoThousandTwentySixPerformanceGrantsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:RestrictedStockUnitsRSUMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixMember
+dfin:PSUSecondAnnualPerformancePeriodMember
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveOneMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-06-30
+0001669811
+us-gaap:TechnologyServiceMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:OperatingSegmentsMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixMember
+dfin:PSUFirstAnnualPerformancePeriodMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:LandMember
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+2026-06-30
+0001669811
+us-gaap:AdditionalPaidInCapitalMember
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:TwoThousandTwentyThreePerformanceGrantsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:TreasuryStockCommonMember
+2026-03-31
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:RestrictedStockUnitsRSUMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:CommonStockMember
+2026-04-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+2026-06-30
+0001669811
+2025-03-31
+0001669811
+us-gaap:BuildingMember
+2025-12-31
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+us-gaap:TechnologyServiceMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGranted2024Member
+2026-01-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+us-gaap:OperatingSegmentsMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+2025-04-01
+2025-06-30
+0001669811
+dfin:SoftwareSolutionsMember
+2025-04-01
+2025-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+dfin:PrintAndDistributionServiceMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+us-gaap:TechnologyServiceMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixMember
+srt:MaximumMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:TreasuryStockCommonMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:CommonStockMember
+2025-04-01
+2025-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+2025-12-31
+0001669811
+dfin:SoftwareSolutionsMember
+2025-01-01
+2025-06-30
+0001669811
+srt:MaximumMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:AmendedAndRestatedCreditAgreementMember
+2025-03-13
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveMember
+dfin:PSURemainingPerformancePeriodMember
+2026-06-30
+0001669811
+us-gaap:AccumulatedTranslationAdjustmentMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:MachineryAndEquipmentMember
+2025-12-31
+0001669811
+us-gaap:OperatingSegmentsMember
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:PrintAndDistributionServiceMember
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveMember
+srt:MinimumMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-06-30
+0001669811
+us-gaap:EquitySecuritiesMember
+2025-12-31
+0001669811
+us-gaap:ReportableSegmentAggregationBeforeOtherOperatingSegmentMember
+us-gaap:OperatingSegmentsMember
+2026-04-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+dfin:SoftwareSolutionsMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:AmendedAndRestatedCreditAgreementMember
+dfin:TermLoanAFacilityMember
+2025-03-13
+0001669811
+dfin:PerformancePeriodYearGranted2024Member
+us-gaap:PerformanceSharesMember
+2026-06-30
+0001669811
+2026-01-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+us-gaap:OperatingSegmentsMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveMember
+dfin:PSUSecondAnnualPerformancePeriodMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+us-gaap:OperatingSegmentsMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:RestrictedStockUnitsRSUMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+dfin:PrintAndDistributionServiceMember
+2025-04-01
+2025-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+dfin:PrintAndDistributionServiceMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+srt:MinimumMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:RestrictedStockUnitsRSUMember
+2026-06-30
+0001669811
+us-gaap:BuildingMember
+2026-06-30
+0001669811
+dfin:AmendedAndRestatedCreditAgreementMember
+dfin:TermLoanAFacilityMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001669811
+us-gaap:PerformanceSharesMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+2025-12-31
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+dfin:SoftwareSolutionsMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:LandMember
+2025-12-31
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+us-gaap:OperatingSegmentsMember
+2026-04-01
+2026-06-30
+0001669811
+dfin:PrintAndDistributionServiceMember
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:TechnologyServiceMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixOneMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-06-30
+0001669811
+us-gaap:AccumulatedTranslationAdjustmentMember
+2025-03-31
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001669811
+us-gaap:AdditionalPaidInCapitalMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:AccumulatedTranslationAdjustmentMember
+2026-06-30
+0001669811
+us-gaap:RevolvingCreditFacilityMember
+2025-12-31
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+us-gaap:TechnologyServiceMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:TreasuryStockCommonMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:RetainedEarningsMember
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+2026-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:CommonStockMember
+2026-03-31
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGranted2024Member
+dfin:PsuCumulativePerformancePeriodsMember
+2026-06-30
+0001669811
+us-gaap:AccumulatedTranslationAdjustmentMember
+2026-03-31
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+us-gaap:TechnologyServiceMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2025-04-01
+2025-06-30
+0001669811
+dfin:PrintAndDistributionServiceMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixOneMember
+srt:MinimumMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:AdditionalPaidInCapitalMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001669811
+us-gaap:CommonStockMember
+2025-01-01
+2025-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+us-gaap:OperatingSegmentsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:CorporateNonSegmentMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+us-gaap:OperatingSegmentsMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-12-31
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentyFiveMember
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+us-gaap:TechnologyServiceMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixOneMember
+dfin:PsuCumulativePerformancePeriodsMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:CommonStockMember
+2026-04-16
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+dfin:PrintAndDistributionServiceMember
+2026-01-01
+2026-06-30
+0001669811
+us-gaap:CommonStockMember
+2026-04-16
+2026-04-16
+0001669811
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:CommonStockMember
+2025-05-15
+2025-05-15
+0001669811
+dfin:DanielNLeibMember
+dfin:SaleOfCommonStockMember
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+us-gaap:OperatingSegmentsMember
+2026-04-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+dfin:SoftwareSolutionsMember
+2026-04-01
+2026-06-30
+0001669811
+2025-12-31
+0001669811
+dfin:PerformancePeriodYearGranted2024Member
+us-gaap:PerformanceSharesMember
+dfin:PSURemainingPerformancePeriodMember
+2026-06-30
+0001669811
+dfin:InvestmentCompaniesComplianceAndCommunicationsManagementMember
+us-gaap:TechnologyServiceMember
+2026-01-01
+2026-06-30
+0001669811
+dfin:TermLoanAFacilityMember
+2025-12-31
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+2025-12-31
+0001669811
+dfin:InvestmentCompaniesSoftwareSolutionsMember
+us-gaap:TechnologyServiceMember
+2025-04-01
+2025-06-30
+0001669811
+2025-04-01
+2025-06-30
+0001669811
+2026-06-30
+2026-06-30
+0001669811
+us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember
+2026-04-01
+2026-06-30
+0001669811
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-31
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PerformancePeriodYearGrantedTwoThousandTwentySixMember
+2026-06-30
+0001669811
+us-gaap:TreasuryStockCommonMember
+2025-04-01
+2025-06-30
+0001669811
+us-gaap:PerformanceSharesMember
+dfin:PsuCumulativePerformancePeriodsMember
+dfin:PerformancePeriodYearGranted20241Member
+2026-01-01
+2026-06-30
+0001669811
+dfin:CapitalMarketsSoftwareSolutionsMember
+us-gaap:TechnologyServiceMember
+2025-04-01
+2025-06-30
+0001669811
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2025-01-01
+2025-06-30
+0001669811
+us-gaap:OperatingSegmentsMember
+dfin:CapitalMarketsComplianceAndCommunicationsManagementMember
+2026-04-01
+2026-06-30
+xbrli:pure
+xbrli:shares
+iso4217:USD
+xbrli:shares
+dfin:Employee
+dfin:Segment
+iso4217:USD
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+June 30,
+2026
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission File Number
+1-37728
+Donnelley Financial Solutions, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+36-4829638
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+391 Steel Way
+,
+Lancaster
+,
+Pennsylvania
+17601
+(Address of principal executive offices)
+(Zip code)
+(
+800
+)
+823-5304
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Common Stock (Par Value $0.01)
+DFIN
+NYSE
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Sections 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒    No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒    No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated filer
+☒
+Accelerated filer
+☐
+Non-Accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes  ☐    No
+☒
+As of July 24, 2026,
+24,585,383
+shares of common stock were outstanding.
+DONNELLEY FINANCIAL SOLUTIONS, INC.
+QUARTERLY REPORT ON FORM 10-Q
+FOR THE QUARTERLY PERIOD ENDED JUNE 30, 2026
+TABLE OF CONTENTS
+Page
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+3
+Part I
+FINANCIAL INFORMATION
+Item 1:
+Condensed Consolidated Financial Statements (unaudited)
+Condensed Consolidated Statements of Operations for the three and six months ended June 30, 2026 and 2025
+4
+Condensed Consolidated Statements of Comprehensive Income for the three and six months ended June 30, 2026 and 2025
+5
+Condensed Consolidated Balance Sheets as of June 30, 2026 and December 31, 2025
+6
+Condensed Consolidated Statements of Cash Flows for the six months ended June 30, 2026 and 2025
+7
+Condensed Consolidated Statements of Changes in Stockholders’ Equity for the three and six months ended June 30, 2026 and 2025
+8
+Notes to Condensed Consolidated Financial Statements
+10
+Item 2:
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+26
+Item 3:
+Quantitative and Qualitative Disclosures About Market Risk
+39
+Item 4:
+Controls and Procedures
+39
+Part II
+OTHER INFORMATION
+Item 1:
+Legal Proceedings
+39
+Item 1A:
+Risk Factors
+39
+Item 2:
+Unregistered Sales of Equity Securities and Use of Proceeds
+40
+Item 3:
+Defaults Upon Senior Securities
+40
+Item 4:
+Mine Safety Disclosures
+40
+Item 5:
+Other Information
+40
+Item 6:
+Exhibits
+41
+Signatures
+42
+2
+SPECIAL NOTE REG
+ARDING FORWARD-LOOKING STATEMENTS
+Donnelley Financial Solutions, Inc. and subsidiaries (“DFIN” or the “Company”) has made forward-looking statements in this Quarterly Report on Form 10-Q (the “Quarterly Report”) within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995 that are subject to risks and uncertainties. These statements are based on the beliefs and assumptions of the Company. Generally, forward-looking statements include information concerning possible or assumed future actions, events, or results of operations of the Company. These statements may include words such as “anticipates,” “estimates,” “expects,” “projects,” “forecasts,” “intends,” “plans,” “continues,” “believes,” “may,” “will,” “goals” and variations of such words and similar expressions, and are intended to identify forward-looking statements.
+Forward-looking statements are not guarantees of future performance. These forward-looking statements are subject to a number of important factors, including those factors discussed in detail in Part I, Item 1A.
+Risk Factors,
+of the Company’s Annual Report on Form 10-K for the year ended December 31, 2025 filed with the SEC on February 17, 2026 (the “Annual Report”), in addition to those discussed elsewhere in this Quarterly Report, that could cause the Company’s actual results to differ materially from those indicated in any such forward-looking statements. These factors include, but are not limited to:
+•
+the volatility of the global economy and financial markets, and its impact on transactional volume;
+•
+failure to offer high quality customer support and services;
+•
+the retention of existing, and continued attraction of additional clients;
+•
+failure to maintain the confidentiality, integrity and availability of systems, software and solutions as a result of a material breach of security or other performance issues;
+•
+the growth of new technologies and changes in client demands, including those related to artificial intelligence (“AI”), to which the Company may not be able to adequately adapt;
+•
+the ability to gain client acceptance of the Company’s new products and technologies;
+•
+the competitive market for the Company’s products, clients’ budgetary constraints and industry fragmentation affecting prices;
+•
+the effect of availability, quality, security or other performance issues of any of the Company’s or third-party systems or services;
+•
+factors that affect client demand, including changes in economic conditions and national or international regulations;
+•
+failure of disaster recovery and business continuity plans to adequately respond to a material disruptive event;
+•
+the retention of existing, and continued attraction of employees in critical roles, including management;
+•
+reliance on strategic partnerships for client referrals and to offer end-to-end solutions;
+•
+the effect of increasing costs of providing healthcare and other benefits to employees;
+•
+failure to properly use and protect client and employee information and data;
+•
+the Company’s ability to access debt and the capital markets during adverse credit market conditions;
+•
+failure to protect the Company’s proprietary technology;
+•
+ability to maintain the Company’s brands and reputation;
+•
+the effects of operating in international markets, including fluctuations in currency exchange rates;
+•
+funding obligations arising from multiemployer pension plans of the Company’s former affiliates;
+•
+the effect of economic and political conditions, including global health crises, geopolitical unrest or instability and government shutdowns, on a regional, national or international basis.
+Because forward-looking statements are subject to assumptions and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements. Undue reliance should not be placed on such statements, which speak only as of the date of this document or the date of any document that may be incorporated by reference into this document.
+Consequently, readers of the Quarterly Report should consider these forward-looking statements only as the Company’s current plans, estimates and beliefs. Except to the extent required by law, the Company does not undertake and specifically declines any obligation to publicly release the results of any revisions to these forward-looking statements that may be made to reflect future events or circumstances after the date of such statements or to reflect the occurrence of anticipated or unanticipated events. The Company undertakes no obligation to update or revise any forward-looking statements in this Quarterly Report to reflect any new events or any change in conditions or circumstances other than to the extent required by law.
+3
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Condensed Consolidated Sta
+tements of Operations
+(in millions, except per share data)
+(UNAUDITED)
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Net sales
+Software solutions
+$
+99.4
+$
+92.2
+$
+191.1
+$
+176.8
+Tech-enabled services
+90.2
+85.2
+160.3
+161.7
+Print and distribution
+34.6
+40.7
+78.3
+80.7
+Total net sales
+224.2
+218.1
+429.7
+419.2
+Cost of sales
+(a)
+Software solutions
+28.2
+26.4
+55.8
+54.0
+Tech-enabled services
+29.8
+31.6
+56.6
+58.9
+Print and distribution
+18.2
+21.2
+37.7
+39.3
+Total cost of sales
+76.2
+79.2
+150.1
+152.2
+Selling, general and administrative expenses
+(a)
+74.7
+70.0
+142.1
+135.8
+Depreciation and amortization
+15.0
+15.1
+30.0
+29.2
+Restructuring, impairment and other charges, net
+2.3
+1.0
+3.0
+3.9
+Other operating income, net
+—
+—
+—
+(
+0.5
+)
+Income from operations
+56.0
+52.8
+104.5
+98.6
+Interest expense, net
+3.5
+3.8
+6.3
+6.9
+Investment and other loss, net
+0.4
+0.3
+0.7
+0.8
+Earnings before income taxes
+52.1
+48.7
+97.5
+90.9
+Income tax expense
+15.7
+12.6
+27.6
+23.8
+Net earnings
+$
+36.4
+$
+36.1
+$
+69.9
+$
+67.1
+Net earnings per share:
+Basic
+$
+1.45
+$
+1.30
+$
+2.75
+$
+2.38
+Diluted
+$
+1.44
+$
+1.28
+$
+2.72
+$
+2.33
+Weighted-average number of common shares outstanding:
+Basic
+25.1
+27.7
+25.4
+28.2
+Diluted
+25.3
+28.2
+25.7
+28.8
+(a)
+Exclusive of depreciation and amortization
+See Notes to the Unaudited Condensed Consolidated Financial Statements
+4
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Condensed Consolidated Statemen
+ts of Comprehensive Income
+(in millions)
+(UNAUDITED)
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Net earnings
+$
+36.4
+$
+36.1
+$
+69.9
+$
+67.1
+Other comprehensive (loss) income, net of tax:
+Translation adjustments
+(
+0.7
+)
+1.4
+(
+1.2
+)
+1.7
+Adjustment for net periodic pension and other postretirement benefits plans
+—
+0.3
+0.1
+0.6
+Other comprehensive (loss) income, net of tax
+(
+0.7
+)
+1.7
+(
+1.1
+)
+2.3
+Comprehensive income
+$
+35.7
+$
+37.8
+$
+68.8
+$
+69.4
+See Notes to the Unaudited Condensed Consolidated Financial Statements
+5
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Condensed Consolidated Balance Sheets
+(in millions, except per share data)
+(UNAUDITED)
+June 30, 2026
+December 31, 2025
+ASSETS
+Cash and cash equivalents
+$
+25.3
+$
+24.5
+Receivables, less allowances for expected losses of $
+23.2
+in 2026 (2025 - $
+20.9
+)
+193.1
+143.0
+Prepaid expenses and other current assets
+36.8
+43.9
+Total current assets
+255.2
+211.4
+Property, plant and equipment, net
+7.1
+8.8
+Operating lease right-of-use assets
+7.6
+7.6
+Software, net
+86.4
+92.9
+Goodwill
+405.5
+405.8
+Deferred income taxes, net
+41.7
+43.7
+Other noncurrent assets
+30.8
+30.2
+Total assets
+$
+834.3
+$
+800.4
+LIABILITIES
+Accounts payable
+$
+22.4
+$
+23.7
+Current portion of long-term debt
+5.8
+5.8
+Operating lease liabilities
+3.4
+3.9
+Accrued liabilities
+160.9
+166.6
+Total current liabilities
+192.5
+200.0
+Long-term debt
+198.2
+165.5
+Deferred compensation liabilities
+13.2
+12.5
+Pension and other postretirement benefits plans liabilities
+23.4
+23.8
+Noncurrent operating lease liabilities
+4.3
+3.3
+Other noncurrent liabilities
+15.3
+16.1
+Total liabilities
+446.9
+421.2
+Commitments and Contingencies (Note 7)
+EQUITY
+Preferred stock, $
+0.01
+par value
+Authorized:
+1.0
+shares; Issued:
+None
+—
+—
+Common stock, $
+0.01
+par value
+Authorized:
+65.0
+shares;
+Issued and outstanding:
+40.3
+shares and
+24.7
+shares in 2026 (2025 -
+39.6
+shares and
+25.6
+shares)
+0.4
+0.4
+Treasury stock, at cost:
+15.6
+shares in 2026 (2025 -
+14.0
+shares)
+(
+607.4
+)
+(
+530.3
+)
+Additional paid-in capital
+384.3
+367.8
+Retained earnings
+630.8
+560.9
+Accumulated other comprehensive loss
+(
+20.7
+)
+(
+19.6
+)
+Total equity
+387.4
+379.2
+Total liabilities and equity
+$
+834.3
+$
+800.4
+See Notes to the Unaudited Condensed Consolidated Financial Statements
+6
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Condensed Consolidated Sta
+tements of Cash Flows
+(in millions)
+(UNAUDITED)
+Six Months Ended June 30,
+2026
+2025
+OPERATING ACTIVITIES
+Net earnings
+$
+69.9
+$
+67.1
+Adjustments to reconcile net earnings to net cash provided by operating activities:
+Depreciation and amortization
+30.0
+29.2
+Provision for expected losses on accounts receivable
+6.9
+4.8
+Share-based compensation expense
+15.7
+13.5
+Deferred income taxes
+1.9
+(
+0.3
+)
+Amortization of operating lease right-of-use assets
+3.2
+3.4
+Other
+(
+0.9
+)
+(
+0.2
+)
+Changes in operating assets and liabilities:
+Receivables, net
+(
+57.4
+)
+(
+67.6
+)
+Prepaid expenses and other current assets
+(
+0.8
+)
+2.9
+Accounts payable
+1.0
+10.5
+Income taxes payable and receivable
+8.8
+3.9
+Accrued liabilities and other
+(
+5.7
+)
+(
+30.5
+)
+Operating lease liabilities
+(
+2.7
+)
+(
+5.1
+)
+Pension and other postretirement benefits plans contributions
+(
+0.8
+)
+(
+0.9
+)
+Net cash provided by operating activities
+69.1
+30.7
+INVESTING ACTIVITIES
+Capital expenditures
+(
+23.9
+)
+(
+30.0
+)
+Other investing activities
+0.1
+0.1
+Net cash used in investing activities
+(
+23.8
+)
+(
+29.9
+)
+FINANCING ACTIVITIES
+Revolving facility borrowings
+123.0
+207.5
+Payments on revolving facility borrowings
+(
+87.5
+)
+(
+130.5
+)
+Payments on long-term debt
+(
+2.9
+)
+(
+126.4
+)
+Proceeds from issuance of long-term debt
+—
+115.0
+Debt issuance costs
+—
+(
+2.2
+)
+Treasury share repurchases
+(
+76.2
+)
+(
+88.7
+)
+Cash received for common stock issuances
+—
+1.5
+Finance lease payments
+(
+0.4
+)
+(
+1.7
+)
+Net cash used in financing activities
+(
+44.0
+)
+(
+25.5
+)
+Effect of exchange rate on cash and cash equivalents
+(
+0.5
+)
+1.2
+Net increase (decrease) in cash and cash equivalents
+0.8
+(
+23.5
+)
+Cash and cash equivalents at beginning of year
+24.5
+57.3
+Cash and cash equivalents at end of period
+$
+25.3
+$
+33.8
+Supplemental cash flow information:
+Income taxes paid, net of refunds
+$
+16.7
+$
+20.8
+Interest paid
+$
+6.8
+$
+5.6
+Non-cash investing activities:
+Capitalized software included in accounts payable
+$
+3.2
+$
+4.6
+See Notes to the Unaudited Condensed Consolidated Financial Statements
+7
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Condensed Consolidated Statements of Changes in Stockholders’ Equity
+For the Three Months Ended June 30, 2026 and 2025
+(in millions)
+(UNAUDITED)
+Common Stock
+Treasury Stock
+Additional
+Paid-in
+Capital
+Retained
+Earnings
+Accumulated
+Other
+Comprehensive
+Loss
+Total
+Equity
+Shares
+Amount
+Shares
+Amount
+Balance at March 31, 2026
+40.2
+$
+0.4
+14.8
+$
+(
+572.3
+)
+$
+374.2
+$
+594.4
+$
+(
+20.0
+)
+$
+376.7
+Net earnings
+—
+—
+—
+—
+—
+36.4
+—
+36.4
+Other comprehensive loss
+—
+—
+—
+—
+—
+—
+(
+0.7
+)
+(
+0.7
+)
+Share-based compensation expense
+—
+—
+—
+—
+9.3
+—
+—
+9.3
+Common stock repurchases
+—
+—
+0.8
+(
+35.1
+)
+—
+—
+—
+(
+35.1
+)
+Issuance of share-based awards, net of withholdings and other
+0.1
+—
+—
+—
+0.8
+—
+—
+0.8
+Balance at June 30, 2026
+40.3
+$
+0.4
+15.6
+$
+(
+607.4
+)
+$
+384.3
+$
+630.8
+$
+(
+20.7
+)
+$
+387.4
+Common Stock
+Treasury Stock
+Additional
+Paid-in
+Capital
+Retained
+Earnings
+Accumulated
+Other
+Comprehensive
+Loss
+Total
+Equity
+Shares
+Amount
+Shares
+Amount
+Balance at March 31, 2025
+39.5
+$
+0.4
+11.3
+$
+(
+398.4
+)
+$
+339.7
+$
+559.5
+$
+(
+81.3
+)
+$
+419.9
+Net earnings
+—
+—
+—
+—
+—
+36.1
+—
+36.1
+Other comprehensive income
+—
+—
+—
+—
+—
+—
+1.7
+1.7
+Share-based compensation expense
+—
+—
+—
+—
+7.5
+—
+—
+7.5
+Common stock repurchases
+—
+—
+0.8
+(
+34.6
+)
+—
+—
+—
+(
+34.6
+)
+Issuance of share-based awards, net of withholdings and other
+0.1
+—
+—
+(
+0.1
+)
+1.6
+—
+—
+1.5
+Balance at June 30, 2025
+39.6
+$
+0.4
+12.1
+$
+(
+433.1
+)
+$
+348.8
+$
+595.6
+$
+(
+79.6
+)
+$
+432.1
+8
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Condensed Consolidated Statements of Changes in Stockholders’ Equity
+For the Six Months Ended June 30, 2026 and 2025
+(in millions)
+(UNAUDITED)
+Common Stock
+Treasury Stock
+Additional
+Paid-in
+Capital
+Retained
+Earnings
+Accumulated
+Other
+Comprehensive
+Loss
+Total
+Equity
+Shares
+Amount
+Shares
+Amount
+Balance at December 31, 2025
+39.6
+$
+0.4
+14.0
+$
+(
+530.3
+)
+$
+367.8
+$
+560.9
+$
+(
+19.6
+)
+$
+379.2
+Net earnings
+—
+—
+—
+—
+—
+69.9
+—
+69.9
+Other comprehensive loss
+—
+—
+—
+—
+—
+—
+(
+1.1
+)
+(
+1.1
+)
+Share-based compensation expense
+—
+—
+—
+—
+15.7
+—
+—
+15.7
+Common stock repurchases
+—
+—
+1.4
+(
+63.5
+)
+—
+—
+—
+(
+63.5
+)
+Issuance of share-based awards, net of withholdings and other
+0.7
+—
+0.2
+(
+13.6
+)
+0.8
+—
+—
+(
+12.8
+)
+Balance at June 30, 2026
+40.3
+$
+0.4
+15.6
+$
+(
+607.4
+)
+$
+384.3
+$
+630.8
+$
+(
+20.7
+)
+$
+387.4
+Common Stock
+Treasury Stock
+Additional
+Paid-in
+Capital
+Retained
+Earnings
+Accumulated
+Other
+Comprehensive
+Loss
+Total
+Equity
+Shares
+Amount
+Shares
+Amount
+Balance at December 31, 2024
+38.9
+$
+0.4
+10.2
+$
+(
+344.1
+)
+$
+333.2
+$
+528.5
+$
+(
+81.9
+)
+$
+436.1
+Net earnings
+—
+—
+—
+—
+—
+67.1
+—
+67.1
+Other comprehensive income
+—
+—
+—
+—
+—
+—
+2.3
+2.3
+Share-based compensation expense
+—
+—
+—
+—
+13.5
+—
+—
+13.5
+Common stock repurchases
+—
+—
+1.6
+(
+76.7
+)
+—
+—
+—
+(
+76.7
+)
+Issuance of share-based awards, net of withholdings and other
+0.7
+—
+0.3
+(
+12.3
+)
+2.1
+—
+—
+(
+10.2
+)
+Balance at June 30, 2025
+39.6
+$
+0.4
+12.1
+$
+(
+433.1
+)
+$
+348.8
+$
+595.6
+$
+(
+79.6
+)
+$
+432.1
+See Notes to the Unaudited Condensed Consolidated Financial Statements
+9
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements
+(in millions, except per share data, unless otherwise indicated)
+Note 1. Overview, Basis of Presentation and Significant Accounting Policies
+Description of Business
+DFIN is a leading global provider of compliance and regulatory software and services, supporting its clients’ complex capital markets transactions and essential financial reporting at every stage of the corporate lifecycle and fueling end-to-end investment company regulatory compliance needs. The Company provides regulatory filing and deal solutions via its software, technology-enabled services and print and distribution solutions to public and private companies, mutual funds and other regulated investment firms, to serve its clients’ regulatory and compliance needs. DFIN helps its clients comply with applicable regulations where and how they want to work in a digital world, providing numerous solutions tailored to each client’s business needs. The prevailing trend is toward clients choosing to utilize the Company’s software solutions, in conjunction with its tech-enabled services, to meet their document and filing needs, while at the same time shifting away from physical print and distribution of documents, except for when it is still regulatorily required or requested by clients.
+The Company serves its clients’ regulatory and compliance needs throughout their respective life cycles. For its capital markets clients, the Company offers solutions that allow companies to comply with U.S. Securities and Exchange Commission (“SEC”) regulations and support their corporate financial transactions and regulatory/financial reporting through the use of digital document creation and online content management tools; filing agent services, where applicable; solutions to facilitate clients’ communications with their investors; and virtual data rooms and other deal management solutions. For investment companies clients, the Company provides solutions that allow investment companies to comply with SEC regulations and support financial and regulatory reporting through the use of content management and technology-enabled solutions for creating, compiling and filing regulatory communications as well as digital-driven solutions for distributing content to investors.
+Services and Products
+The Company separately reports its net sales and related cost of sales for its software solutions, tech-enabled services and print and distribution offerings. The Company’s software solutions consist of ActiveDisclosure® (“ActiveDisclosure”), the Arc Suite® software platform (“Arc Suite”) and Venue® Virtual Data Room (“Venue”). The Company’s tech-enabled services offerings consist of document composition, compliance-related SEC Electronic Data Gathering, Analysis, and Retrieval (“EDGAR”) filing services and transactional solutions. The Company’s print and distribution offerings primarily consist of conventional and digital printed products and related shipping.
+Basis of Presentation
+The accompanying Unaudited Condensed Consolidated Financial Statements include the accounts of DFIN and all majority-owned subsidiaries and have been prepared in accordance with accounting principles generally accepted in the United States (“GAAP”) for interim financial information and in accordance with the rules and regulations of the SEC. Accordingly, they do not include all of the information and footnotes required by GAAP for complete financial statements. The financial data presented herein should be read in conjunction with the audited Consolidated Financial Statements and accompanying notes included in the Company’s latest Annual Report. In the opinion of management, the financial data presented includes all adjustments necessary to present fairly the results of operations, financial position and cash flows for the interim periods presented. Results of interim periods should not be considered indicative of the results for the full year.
+Significant Accounting Policies
+Use of Estimates—
+The preparation of financial statements in conformity with GAAP requires the extensive use of management’s estimates and assumptions that affect the reported amounts of assets and liabilities as well as disclosure of contingent assets and liabilities as of the date of the financial statements and the reported amounts of revenue and expenses during the reporting periods. Actual results could differ from these estimates. The Company’s significant accounting policies and critical accounting estimates are disclosed in the Annual Report.
+10
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+Allowances for Expected Losses
+—
+Transactions affecting the current expected credit loss (“CECL”)
+reserve during the six months ended June 30, 2026 and 2025 were as follows:
+June 30,
+2026
+2025
+Balance, beginning of year
+$
+20.9
+$
+25.0
+Provisions charged to expense
+6.9
+4.8
+Write-offs and other
+(
+4.6
+)
+(
+4.2
+)
+Balance, end of period
+$
+23.2
+$
+25.6
+The components of the CECL reserve balance at June 30, 2026 and December 31, 2025 were as follows:
+June 30, 2026
+December 31, 2025
+Provision for accounts receivable
+$
+22.6
+$
+20.5
+Provision for unbilled receivables and contract assets
+0.6
+0.4
+Total
+$
+23.2
+$
+20.9
+Property, Plant and Equipment, net—
+The components of the Company’s property, plant and equipment, net at
+June 30, 2026 and December 31, 2025 were as follows:
+June 30, 2026
+December 31, 2025
+Land
+$
+0.3
+$
+0.3
+Buildings
+9.7
+13.2
+Machinery and equipment
+50.0
+58.1
+60.0
+71.6
+Less: Accumulated depreciation
+(
+52.9
+)
+(
+62.8
+)
+Total
+$
+7.1
+$
+8.8
+Depreciation expense was
+$
+1.1
+million and
+$
+1.3
+million for the three months ended June 30, 2026 and 2025, respectively, and $
+2.3
+million and
+$
+2.5
+million for the six months ended June 30, 2026 and 2025
+, respectively.
+Software, net
+—Capitalized software development costs are amortized over their estimated useful life using the straight-line method, up to a maximum of
+three years
+. Amortization expense related to internally-developed software was
+$
+13.9
+million and
+$
+13.8
+million for the three months ended June 30, 2026 and 2025, respectively, and $
+27.7
+million and $
+26.7
+million for the six months ended June 30, 2026 and 2025
+, respectively.
+Investments
+—
+The carrying value of the Company’s investments in equity securities without readily determinable fair values was
+$
+6.3
+million at both June 30, 2026 and December 31, 2025
+.
+Recently Adopted Accounting Pronouncements
+In July 2025, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2025-05, “Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets,” which provides a practical expedient when developing reasonable and supportable forecasts as part of estimating expected credit losses that all entities may assume current conditions as of the balance sheet date do not change for the remaining life of the asset. The Company adopted the standard prospectively in the first quarter of 2026 and elected to utilize the practical expedient upon adoption. The adoption of the standard did not have an impact on the Company’s consolidated financial stateme
+nts.
+Recently Issued Accounting Pronouncements
+In November 2024 and January 2025, the FASB issued ASU No. 2024-03, “Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses,” and ASU No. 2025-01, “Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Clarifying the Effective Date,” respectively, which require that an entity disclose disaggregated information about specific natural expense categories underlying certain statement of operations expense line items that are considered relevant in a tabular format within the notes to the consolidated financial statements, among other amendments that expand statement of operations expense disclosures. The standards are effective for fiscal years beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027. The Company is currently evaluating the impact of the adoption of this standard on its disclosures to the consolidated financial statements.
+11
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+In September 2025, the FASB issued ASU No. 2025-06, “Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software,” which clarifies the threshold entities apply to begin capitalizing costs and removes references to software development project stages. The ASU requires that an entity capitalize software costs when management has authorized and committed to funding the software project and when it is probable that the project will be completed and the software will be used to perform the intended functions, including consideration of whether there is significant development uncertainty. The standard is effective for fiscal years beginning after December 15, 2027. The Company is currently evaluating the impact of the adoption of this standard on the consolidated financial statements.
+Note 2. Revenue
+Revenue Recognition
+The Company manages highly-customized data and materials to enable filings with the SEC on behalf of its customers as well as performs tagging of documents using Inline eXtensible Business Reporting Language (“iXBRL”) and other services. Clients are provided with EDGAR filing services, iXBRL compliance services and translation, editing, interpreting, proof-reading and multilingual typesetting services, among other services. The Company provides software solutions to public and private companies, mutual funds and other regulated investment firms to serve their regulatory and compliance needs, including ActiveDisclosure, Arc Suite and Venue, and provides digital document creation, online content management and print and distribution solutions.
+Revenue is recognized upon transfer of control of promised services or products to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for those services or products, which may include fixed consideration, variable consideration or a combination of the two. The Company’s services include software solutions and tech-enabled services whereas the Company’s products are comprised of print and distribution offerings. The Company’s arrangements with customers often include promises to transfer multiple services or products to a customer. Determining whether services and products are considered distinct performance obligations that should be accounted for separately requires significant judgment. Certain customer arrangements have multiple performance obligations as certain promises are both capable of being distinct and are distinct within the context of the contract. Other customer arrangements have a single performance obligation as the promise to transfer the individual goods or services is not separately identifiable from other promises in the contracts, and therefore is not distinct.
+Revenue for the Company’s software solutions, tech-enabled services and print and distribution offerings is recognized either over time or at a point in time, as further disclosed in the Annual Report.
+Disaggregation of Revenue
+The following tables disaggregate revenue between software solutions, tech-enabled services and print and distribution by reportable segment for the
+three and six months ended June 30, 2026 and 2025:
+Three Months Ended June 30,
+2026
+2025
+Software Solutions
+Tech-enabled Services
+Print and Distribution
+Total
+Software Solutions
+Tech-enabled Services
+Print and Distribution
+Total
+Capital Markets - Software Solutions
+$
+65.7
+$
+—
+$
+—
+$
+65.7
+$
+59.1
+$
+—
+$
+—
+$
+59.1
+Capital Markets - Compliance and Communications Management
+—
+71.5
+24.4
+95.9
+—
+65.6
+27.9
+93.5
+Investment Companies - Software Solutions
+33.7
+—
+—
+33.7
+33.1
+—
+—
+33.1
+Investment Companies - Compliance and Communications Management
+—
+18.7
+10.2
+28.9
+—
+19.6
+12.8
+32.4
+Total net sales
+$
+99.4
+$
+90.2
+$
+34.6
+$
+224.2
+$
+92.2
+$
+85.2
+$
+40.7
+$
+218.1
+12
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+Six Months Ended June 30,
+2026
+2025
+Software Solutions
+Tech-enabled Services
+Print and Distribution
+Total
+Software Solutions
+Tech-enabled Services
+Print and Distribution
+Total
+Capital Markets - Software Solutions
+$
+124.3
+$
+—
+$
+—
+$
+124.3
+$
+111.0
+$
+—
+$
+—
+$
+111.0
+Capital Markets - Compliance and Communications Management
+—
+124.8
+53.9
+178.7
+—
+125.4
+52.0
+177.4
+Investment Companies - Software Solutions
+66.8
+—
+—
+66.8
+65.8
+—
+—
+65.8
+Investment Companies - Compliance and Communications Management
+—
+35.5
+24.4
+59.9
+—
+36.3
+28.7
+65.0
+Total net sales
+$
+191.1
+$
+160.3
+$
+78.3
+$
+429.7
+$
+176.8
+$
+161.7
+$
+80.7
+$
+419.2
+Unbilled Receivables and Contract Balances
+The timing of revenue recognition may differ from the timing of invoicing to customers and these timing differences result in contract assets, unbilled receivables or contract liabilities. Contract assets represent revenue recognized for performance obligations completed before an unconditional right to payment exists and therefore invoicing has not yet occurred. The Company generally estimates contract assets based on the historical selling price adjusted for its current experience and expected resolution of the variable consideration of the completed performance obligation. When the Company’s contracts contain variable consideration, the variable consideration is recognized only to the extent that it is probable that a significant revenue reversal will not occur in a future period. As a result, the estimated revenue and contract assets may be constrained until the uncertainty associated with the variable consideration is resolved, which generally occurs in less than one year. Determining whether there will be a significant revenue reversal in the future and the determination of the amount of the constraint requires significant judgment.
+Contract assets were $
+19.1
+million and
+$
+18.3
+million at June 30, 2026 and December 31, 2025, respectively. Generally, the contract assets balance is impacted by the recognition of revenue, amounts invoiced to customers and changes in the constraint applied to variable consideration. Amounts recognized as revenue exceeded the estimates for performance obligations satisfied in previous periods by approximately
+$
+14
+million and
+$
+9
+million for the three months ended June 30, 2026 and 2025, respectively, and approximately
+$
+13
+million and
+$
+17
+million for the six months ended June 30, 2026 and 2025, respectively, primarily due to changes in the Company’s estimate of variable consideration and the application of the constraint.
+Unbilled receivables are recorded when there is an unconditional right to payment and invoicing has not yet occurred. The Company estimates the value of unbilled receivables based on a combination of historical customer selling price and management’s assessment of realizable selling price.
+Unbilled receivables were $
+42.3
+million and
+$
+24.1
+million at June 30, 2026 and December 31, 2025, respectively. Unbilled receivables and contract assets are included in receivables, less allowances for expected losses on the Unaudited Condensed Consolidated Balance Sheets.
+Contract liabilities consist of deferred revenue and progress billings, the majority of which is included in accrued liabilities on the Unaudited Condensed Consolidated Balance Sheets. Contract liabilities were
+$
+72.9
+million and
+$
+59.1
+million at June 30, 2026 and December 31, 2025, respectively. Contract liabilities increased during the period due to amounts invoiced for performance obligations before the revenue recognition criteria were met, which were partially offset by decreases due to revenue recognized in the period. The Company recognized
+$
+17.0
+million and
+$
+16.5
+million for the three months ended June 30, 2026 and 2025, respectively, and
+$
+40.9
+million and
+$
+37.5
+million of revenue during the six months ended June 30, 2026 and 2025, respectively, that was included in the deferred revenue balances at the beginning of the respective annual periods.
+13
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+Most of the Company’s contracts with significant remaining performance obligations have an initial expected duration of one year or less. As of June 30, 2026, the future estimated revenue related to unsatisfied or partially satisfied performance obligations under contracts with an original contractual term in excess of one year was approximately $
+220
+million, of which approximately
+45
+%
+is expected to be recognized as revenue over the succeeding
+twelve months
+, and the remainder recognized thereafter.
+Note 3. Goodwill
+Goodwill balances by reportable segment were as follows:
+Gross book
+value at
+December 31,
+2025
+Accumulated
+impairment
+charges at
+December 31,
+2025
+Net book
+value at
+December 31,
+2025
+Foreign
+exchange adjustments
+Net book
+value at
+June 30,
+2026
+Capital Markets - Software Solutions
+$
+100.0
+$
+—
+$
+100.0
+$
+(
+0.1
+)
+$
+99.9
+Capital Markets - Compliance and Communications Management
+252.7
+—
+252.7
+(
+0.1
+)
+252.6
+Investment Companies - Software Solutions
+53.1
+—
+53.1
+(
+0.1
+)
+53.0
+Investment Companies - Compliance and Communications Management
+40.6
+(
+40.6
+)
+—
+—
+—
+Total
+$
+446.4
+$
+(
+40.6
+)
+$
+405.8
+$
+(
+0.3
+)
+$
+405.5
+Note 4. Leases
+The Company has operating leases for certain service centers, office space and equipment.
+Cash paid for operating leases was
+$
+1.2
+million and
+$
+2.6
+million for the
+three months ended June 30, 2026 and 2025, respectively, and
+$
+2.9
+million and
+$
+5.5
+million for the
+six months ended June 30, 2026 and 2025, respectively.
+The components of lease expense for the
+three and six months ended June 30, 2026 and 2025 were as follows:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Operating lease expense:
+Operating lease expense
+$
+1.6
+$
+1.8
+$
+3.4
+$
+3.7
+Sublease income
+(
+0.6
+)
+(
+0.9
+)
+(
+1.5
+)
+(
+1.8
+)
+Net operating lease expense
+$
+1.0
+$
+0.9
+$
+1.9
+$
+1.9
+Note 5. Restructuring, Impairment and Other Charges, net
+Restructuring, Impairment and Other Charges, net recognized in Results of Operations
+The Company records restructuring charges associated with management-approved restructuring plans, which could include the elimination of job functions, closure or relocation of facilities, reorganization of operations, changes in management structure, workforce reductions or other actions. Restructuring charges may include ongoing and enhanced termination benefits related to employee separations, contract termination costs and other related costs associated with exit or disposal activities. Restructuring charges for employee terminations include management’s estimate as to the timing and amount of severance and actual results could differ from estimates.
+14
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+For the
+three months ended June 30, 2026 and 2025, the Company recorded the following restructuring, impairment and other charges, net by reportable segment:
+Employee Terminations
+Other Charges
+Total
+Three Months Ended June 30, 2026
+Capital Markets - Software Solutions
+$
+0.6
+$
+—
+$
+0.6
+Capital Markets - Compliance and Communications Management
+0.3
+0.1
+0.4
+Investment Companies - Software Solutions
+0.3
+—
+0.3
+Investment Companies - Compliance and Communications Management
+0.1
+—
+0.1
+Corporate
+0.9
+—
+0.9
+Total
+$
+2.2
+$
+0.1
+$
+2.3
+Employee Terminations
+Other Charges
+Total
+Three Months Ended June 30, 2025
+Capital Markets - Compliance and Communications Management
+$
+0.3
+$
+—
+$
+0.3
+Investment Companies - Software Solutions
+0.2
+—
+0.2
+Investment Companies - Compliance and Communications Management
+0.4
+—
+0.4
+Corporate
+—
+0.1
+0.1
+Total
+$
+0.9
+$
+0.1
+$
+1.0
+For the six months ended June 30, 2026 and 2025, the Company recorded the following restructuring, impairment and other charges, net by reportable segment:
+Employee Terminations
+Other Charges
+Total
+Six Months Ended June 30, 2026
+Capital Markets - Software Solutions
+$
+0.7
+$
+—
+$
+0.7
+Capital Markets - Compliance and Communications Management
+0.5
+0.1
+0.6
+Investment Companies - Software Solutions
+0.4
+—
+0.4
+Investment Companies - Compliance and Communications Management
+0.2
+—
+0.2
+Corporate
+1.0
+0.1
+1.1
+Total
+$
+2.8
+$
+0.2
+$
+3.0
+Employee Terminations
+Other Charges
+Total
+Six Months Ended June 30, 2025
+Capital Markets - Software Solutions
+$
+0.6
+$
+—
+$
+0.6
+Capital Markets - Compliance and Communications Management
+1.7
+0.1
+1.8
+Investment Companies - Software Solutions
+0.6
+—
+0.6
+Investment Companies - Compliance and Communications Management
+0.5
+—
+0.5
+Corporate
+0.3
+0.1
+0.4
+Total
+$
+3.7
+$
+0.2
+$
+3.9
+15
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+For the three months ended June 30, 2026, the Company recorded net restructuring charges of
+$
+2.2
+million related to employee termination costs for approximately
+10
+employees, all of whom are expected to be terminated by December 31, 2026. For the six months ended June 30, 2026, the Company recorded net restructuring charges of
+$
+2.8
+million related to employee termination costs for approximately
+20
+employees, all of whom are expected to be terminated by December 31, 2026. The restructuring actions were primarily related to certain changes in management structure.
+For the three months ended June 30, 2025, the Company recorded net restructuring charges of $
+0.9
+million related to employee termination costs for approximately
+10
+employees. For the
+six months ended June 30, 2025, the Company recorded net restructuring charges of
+$
+3.7
+million related to employee termination costs for approximately
+50
+employees, primarily related to the reorganization of certain capital markets and investment companies operations. Substantially all affected employees were terminated as of December 31, 2025.
+Restructuring Reserve – Employee Terminations
+The Company’s employee terminations liability is included in accrued liabilities on the Company’s
+Unaudited Condensed Consolidated Balance Sheets. Changes in the accrual for employee terminations during the
+six months ended June 30, 2026 were as follows:
+Employee Terminations
+Balance at December 31, 2025
+$
+2.2
+Restructuring charges, net
+2.8
+Cash paid
+(
+1.8
+)
+Balance at June 30, 2026
+$
+3.2
+Note 6. Retirement Plans
+In 2025, the Company settled its primary defined benefit plan,
+as further disclosed in the Annual Report.
+The components of net pension plan expense for the
+three and six months ended June 30, 2026 and 2025 are included in investment and other loss, net on the Unaudited Condensed Consolidated Statements of Operations and were as follows:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Interest cost
+$
+0.3
+$
+2.5
+$
+0.6
+$
+5.1
+Expected return on assets
+—
+(
+2.5
+)
+—
+(
+5.0
+)
+Amortization, net
+—
+0.4
+0.1
+0.8
+Net pension plan expense
+$
+0.3
+$
+0.4
+$
+0.7
+$
+0.9
+Note 7. Commitments and Contingencies
+Litigation
+From time to time, the Company’s customers and other counterparties file voluntary petitions for reorganization under United States bankruptcy laws. In such cases, certain pre-petition payments received by the Company from these parties could be considered preference items and subject to return. In addition, the Company may be party to certain litigation or other dispute resolution proceedings arising in the ordinary course of business. Management believes that the final resolution of these preference items and litigation or other proceedings will not have a material adverse effect on the Company’s consolidated results of operations, financial position or cash flows.
+Note 8. Debt
+The Company’s debt as of
+June 30, 2026 and December 31, 2025 consisted of the following:
+June 30, 2026
+December 31, 2025
+Term Loan A Facility
+$
+107.8
+$
+110.7
+Borrowings under the Revolving Facility
+96.5
+61.0
+Unamortized debt issuance costs
+(
+0.3
+)
+(
+0.4
+)
+Total debt
+204.0
+171.3
+Less: current portion of long-term debt
+5.8
+5.8
+Long-term debt
+$
+198.2
+$
+165.5
+16
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+Credit Agreement
+—
+On March 13, 2025, the Company amended and restated its credit agreement dated as of September 30, 2016 (as in effect prior to such amendment and restatement, the “Credit Agreement,” and the Credit Agreement, as so amended and restated, the “Amended and Restated Credit Agreement”), by and among the Company, the lenders party thereto from time to time and JPMorgan Chase Bank, N.A., as administrative agent and collateral agent, to provide for a $
+115.0
+million term loan A facility (the “Term Loan A Facility”), establish a $
+300.0
+million revolving facility (the “Revolving Facility”) with a maturity date of
+March 13, 2030
+to replace the entire amount of the revolving facility and modify the financial maintenance and negative covenants in the Amended and Restated Credit Agreement, among other things. The Amended and Restated Credit Agreement contains a number of covenants, including a minimum Interest Coverage Ratio and the Consolidated Net Leverage Ratio, as defined in and calculated pursuant to the Amended and Restated Credit Agreement, that, in part, restrict the Company’s ability to incur additional indebtedness, create liens, engage in mergers and consolidations, make restricted payments and dispose of certain assets. The Amended and Restated Credit Agreement generally allows annual dividend payments of up to $
+20.0
+million in the aggregate.
+Term Loan A Facility
+—
+The Company used the proceeds of the Term Loan A Facility and the Revolving Facility to retire the full $
+125.0
+million of the Company’s then-outstanding Delayed Draw Term Loan A Facility. Under the Amended and Restated Credit Agreement, the Term Loan A Facility bears interest at a rate equal to the sum of the Secured Overnight Financing Rate
+(“SOFR”
+) plus a margin ranging from
+2.00
+% to
+2.50
+% based on the Company’s Consolidated Net Leverage Ratio. The principal amount of the loans outstanding under the Term Loan A Facility is due and payable in equal
+quarterly
+installments of
+1.25
+% of the original principal amount of the loans during the first three years after funding, beginning on June 30, 2025, and
+2.50
+% of the original principal amount of the loans thereafter. Voluntary prepayments of the Term Loan A Facility are permitted at any time without premium or penalty. The entire unpaid principal amount of the loans will be due and payable in full on March 13, 2030.
+The fair value of the Term Loan A Facility was $
+107.8
+million and
+$
+108.8
+million as of June 30, 2026 and December 31, 2025, respectively, and was determined to be Level 2 under the fair value hierarchy. The weighted-average interest rate on borrowings under the Term Loan A Facility was
+5.8
+%
+and
+6.5
+%
+for the six months ended June 30, 2026 and 2025, respectively.
+Revolving Facility
+—As of June 30, 2026 and December 31, 2025, there were $
+96.5
+million and $
+61.0
+million, respectively, of borrowings outstanding under the Revolving Facility. The weighted-average interest rate on borrowings under the Revolving Facility was
+6.0
+%
+and
+6.7
+%
+for the six months ended June 30, 2026 and 2025, respectively. The fair value of the Company’s borrowing under the Revolving Facility is classified as Level 2 under the fair value hierarchy and approximated its carrying value as of June 30, 2026, as the Revolving Facility carries a variable rate of interest reflecting current market rates.
+The following table summarizes interest expense, net included on the Unaudited Condensed Consolidated Statements of Operations:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Interest incurred
+$
+3.8
+$
+4.1
+$
+6.8
+$
+7.4
+Interest income, net of loss on debt extinguishment
+(
+0.3
+)
+(
+0.3
+)
+(
+0.5
+)
+(
+0.5
+)
+Interest expense, net
+$
+3.5
+$
+3.8
+$
+6.3
+$
+6.9
+17
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+Note 9. Earnings per Share
+Net earnings per basic share is calculated by dividing net earnings by the weighted-average number of common shares outstanding for the period. Net earnings per diluted share is computed using the weighted-average number of common and potentially dilutive shares outstanding during the period, including stock options, restricted stock units (“RSUs”), performance share units (“PSUs”) and restricted stock, using the treasury stock method.
+The following table presents the reconciliation of the numerator and denominator used in the calculation of net earnings per basic and diluted share and the anti-dilutive share-based awards for the
+three and six months ended June 30, 2026 and 2025:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Net earnings per share:
+Basic
+$
+1.45
+$
+1.30
+$
+2.75
+$
+2.38
+Diluted
+$
+1.44
+$
+1.28
+$
+2.72
+$
+2.33
+Numerator:
+Net earnings
+$
+36.4
+$
+36.1
+$
+69.9
+$
+67.1
+Denominator:
+Weighted-average number of common shares outstanding
+25.1
+27.7
+25.4
+28.2
+Dilutive awards
+0.2
+0.5
+0.3
+0.6
+Diluted weighted-average number of common shares outstanding
+25.3
+28.2
+25.7
+28.8
+Weighted-average number of anti-dilutive share-based awards:
+Restricted stock units
+0.5
+0.1
+0.3
+0.2
+Note 10. Share-based Compensation
+Total share-based compensation expense was
+$
+9.3
+million and
+$
+7.5
+million for the three months ended June 30, 2026 and 2025, respectively, and
+$
+15.7
+million and
+$
+13.5
+million for the six months ended June 30, 2026 and 2025, respectively. The income tax benefit related to share-based compensation expense was
+$
+2.5
+million and
+$
+2.0
+million for the three months ended June 30, 2026 and 2025, respectively, and
+$
+4.7
+million and
+$
+4.3
+million for the six months ended June 30, 2026 and 2025, respectively. As of June 30, 2026,
+$
+56.8
+million of total unrecognized share-based compensation expense is expected to be recognized over a weighted-average period of
+2.1
+years.
+Restricted Stock Units
+RSUs outstanding
+as of June 30, 2026 and December 31, 2025, and changes during the six months ended June 30, 2026, were as follows:
+Shares (thousands)
+Weighted-Average Grant Date Fair Value
+Nonvested at December 31, 2025
+654
+$
+48.58
+Granted
+467
+49.73
+Vested
+(
+279
+)
+50.43
+Forfeited
+(
+21
+)
+51.91
+Nonvested at June 30, 2026
+821
+$
+48.52
+As of June 30, 2026,
+$
+28.6
+million of unrecognized share-based compensation expense related to RSUs is expected to be recognized over a weighted-average period of
+2.2
+years.
+18
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+Performance Share Units
+PSUs include a market condition related to the Company’s stock price performance relative to a peer group, or relative total shareholder return (“TSR”) modifier, which can affect the number of shares ultimately issued to grantees at the end of the three-year performance period. The grant-date fair value of the PSUs is determined based on a Monte Carlo valuation model. The total potential payout for the PSUs is payable upon the achievement of certain established performance targets and can also be impacted by the TSR modifier.
+PSUs outstanding
+as of June 30, 2026 and December 31, 2025, and changes during the six months ended June 30, 2026, were as follows:
+Shares (thousands)
+Weighted-Average Grant Date Fair Value
+Nonvested at December 31, 2025
+785
+$
+54.24
+Granted
+485
+54.11
+Vested
+(
+328
+)
+41.85
+Forfeited
+(
+4
+)
+41.85
+Nonvested at June 30, 2026
+938
+$
+58.55
+During the six months ended June 30, 2026,
+485
+thousand PSUs were granted to certain executive officers and senior management,
+412
+thousand of which related to the 2026 performance grant and
+73
+thousand of which related to additional shares issued due to the achievement of certain targets associated with the 2023 PSUs.
+Year Granted
+Performance /
+Service Period
+(a)
+Estimated or Actual Attainment
+(b)
+PSUs Outstanding as of June 30, 2026
+(thousands)
+Estimated PSU Attainment or Actual PSUs Earned
+(thousands)
+2026
+2026
+57
+%
+(c)
+41
+23
+2026
+2027
+(d)
+41
+—
+2026
+2028
+(d)
+41
+—
+2026
+2026
+-
+2028
+100
+%
+(e)
+82
+82
+2026
+2026
+-
+2028
+100
+%
+(e)
+207
+207
+412
+312
+2025
+2025
+61
+%
+(f)
+30
+18
+2025
+2026
+52
+%
+(c)
+30
+16
+2025
+2027
+(d)
+30
+—
+2025
+2025
+-
+2027
+100
+%
+(e)
+60
+60
+2025
+2025
+-
+2027
+100
+%
+(e)
+150
+150
+300
+244
+2024
+2024
+66
+%
+(f)
+23
+15
+2024
+2025
+0
+%
+(f)
+23
+—
+2024
+2026
+50
+%
+(c)
+23
+12
+2024
+2024
+-
+2026
+0
+%
+(c)
+45
+—
+2024
+2024
+-
+2026
+200
+%
+(c)
+112
+224
+226
+251
+(a)
+PSUs contain five performance periods, including three annual performance periods and two three-year cumulative performance periods.
+(b)
+Attainment percentage does not include the TSR modifier that is determined at the end of the three-year cumulative performance period and applied to PSUs that are earned based on the achievement of the service and performance conditions.
+(c)
+Amounts represent estimated attainment and estimated PSUs.
+(d)
+As the performance period has not yet commenced, expense is not being recognized.
+(e)
+Expense for the cumulative performance/service period is recognized at
+100
+% of the estimated attainment
+until the attainment expected by the end of the cumulative three-year performance period can be estimated, which generally occurs at the end of the second service year.
+(f)
+Amounts represent actual attainment and actual PSUs earned as the performance period is complete.
+As of June 30, 2026,
+$
+28.2
+million of unrecognized share-based compensation expense related to PSUs is expected to be recognized over a weighted-average period of
+2.0
+years.
+19
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+Note 11. Capital Stock
+The Company has authorized for issuance
+65
+million shares of $
+0.01
+par value common stock and
+one
+million shares of $
+0.01
+par value preferred stock. The Board may divide the preferred stock into one or more series and fix the redemption, dividend, voting, conversion, sinking fund, liquidation and other rights. The Company has no present plans to issue any preferred stock.
+Common Stock Repurchases
+On April 16, 2026, the Board authorized the repurchase of up to $
+150
+million of the Company’s outstanding common stock commencing on April 17, 2026, with an expiration date of
+December 31, 2027
+. This new share repurchase program replaced the previous $
+150
+million program, which had been authorized on May 15, 2025 and was scheduled to expire on
+December 31, 2026
+.
+As of June 30, 2026
+, the remaining authorized amount was $
+125.4
+million.
+The stock repurchase program may be suspended or discontinued at any time. The timing and amount of any shares repurchased are determined by the Company based on its evaluation of market conditions and other factors and may be completed from time to time in one or more transactions on the open market or in privately negotiated purchases in accordance with all applicable securities laws and regulations and all repurchases in the open market will be made in compliance with Rule 10b-18 under the Securities Exchange Act of 1934, as amended (the “Exchange Act”). Repurchases may also be made under a Rule 10b5-1 plan, which would permit shares to be repurchased when the Company might otherwise be precluded from doing so.
+The Company’s stock repurchases, excluding associated excise taxes, for the
+three and six months ended June 30, 2026 and 2025 were as follows:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Common stock repurchases
+$
+34.7
+$
+34.3
+$
+63.0
+$
+76.1
+Number of shares repurchased
+763,451
+787,152
+1,358,233
+1,648,453
+Average price paid per share
+$
+45.48
+$
+43.56
+$
+46.40
+$
+46.18
+Note 12. Comprehensive Income
+The components of other comprehensive (loss) income and income tax expense allocated to each component for the
+three and six months ended June 30, 2026 and 2025 were as follows:
+Three Months Ended June 30, 2026
+Six Months Ended June 30, 2026
+Before Tax
+Income Tax
+Net of Tax
+Before Tax
+Income Tax
+Net of Tax
+Translation adjustments
+$
+(
+0.7
+)
+$
+—
+$
+(
+0.7
+)
+$
+(
+1.2
+)
+$
+—
+$
+(
+1.2
+)
+Adjustment for net periodic pension and other postretirement benefits plans
+—
+—
+—
+0.1
+—
+0.1
+Other comprehensive loss
+$
+(
+0.7
+)
+$
+—
+$
+(
+0.7
+)
+$
+(
+1.1
+)
+$
+—
+$
+(
+1.1
+)
+Three Months Ended June 30, 2025
+Six Months Ended June 30, 2025
+Before Tax
+Income Tax
+Net of Tax
+Before Tax
+Income Tax
+Net of Tax
+Translation adjustments
+$
+1.4
+$
+—
+$
+1.4
+$
+1.7
+$
+—
+$
+1.7
+Adjustment for net periodic pension and other postretirement benefits plans
+0.4
+0.1
+0.3
+0.8
+0.2
+0.6
+Other comprehensive income
+$
+1.8
+$
+0.1
+$
+1.7
+$
+2.5
+$
+0.2
+$
+2.3
+20
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+The following
+tables summarize changes in accumulated other comprehensive loss by component for the three months ended June 30, 2026 and 2025:
+Pension and Other Postretirement Benefits Plans
+Translation Adjustments
+Total
+Balance at March 31, 2026
+$
+(
+5.2
+)
+$
+(
+14.8
+)
+$
+(
+20.0
+)
+Other comprehensive loss before reclassifications
+—
+(
+0.7
+)
+(
+0.7
+)
+Balance at June 30, 2026
+$
+(
+5.2
+)
+$
+(
+15.5
+)
+$
+(
+20.7
+)
+Pension and Other Postretirement Benefits Plans
+Translation Adjustments
+Total
+Balance at March 31, 2025
+$
+(
+66.1
+)
+$
+(
+15.2
+)
+$
+(
+81.3
+)
+Other comprehensive income before reclassifications
+—
+1.4
+1.4
+Reclassifications:
+Amortization of net actuarial loss
+(a)
+0.4
+—
+0.4
+Less: Income tax
+0.1
+—
+0.1
+Reclassifications, net of tax
+0.3
+—
+0.3
+Net change in accumulated other comprehensive loss
+0.3
+1.4
+1.7
+Balance at June 30, 2025
+$
+(
+65.8
+)
+$
+(
+13.8
+)
+$
+(
+79.6
+)
+__________________
+(a)
+The amortization of net actuarial loss is included in investment and other loss, net on the Unaudited Condensed Consolidated Statements of Operations.
+The following tables summarize changes in accumulated other comprehensive loss by component for the six months ended June 30, 2026 and 2025:
+Pension and Other Postretirement Benefits Plans
+Translation Adjustments
+Total
+Balance at December 31, 2025
+$
+(
+5.3
+)
+$
+(
+14.3
+)
+$
+(
+19.6
+)
+Other comprehensive loss before reclassifications
+—
+(
+1.2
+)
+(
+1.2
+)
+Reclassifications:
+Amortization of net actuarial loss
+(a)
+0.1
+—
+0.1
+Reclassifications, net of tax
+0.1
+—
+0.1
+Net change in accumulated other comprehensive loss
+0.1
+(
+1.2
+)
+(
+1.1
+)
+Balance at June 30, 2026
+$
+(
+5.2
+)
+$
+(
+15.5
+)
+$
+(
+20.7
+)
+Pension and Other Postretirement Benefits Plans
+Translation Adjustments
+Total
+Balance at December 31, 2024
+$
+(
+66.4
+)
+$
+(
+15.5
+)
+$
+(
+81.9
+)
+Other comprehensive income before reclassifications
+—
+1.7
+1.7
+Reclassifications:
+Amortization of net actuarial loss
+(a)
+0.8
+—
+0.8
+Less: Income tax
+0.2
+—
+0.2
+Reclassifications, net of tax
+0.6
+—
+0.6
+Net change in accumulated other comprehensive loss
+0.6
+1.7
+2.3
+Balance at June 30, 2025
+$
+(
+65.8
+)
+$
+(
+13.8
+)
+$
+(
+79.6
+)
+__________________
+(a)
+The amortization of net actuarial loss is included in investment and other loss, net on the Unaudited Condensed Consolidated Statements of Operations.
+21
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+Note 13. Segment Information
+The Company operates its business through
+four
+operating and reportable segments: Capital Markets – Software Solutions, Capital Markets – Compliance and Communications Management, Investment Companies – Software Solutions and Investment Companies – Compliance and Communications Management.
+Corporate
+is not an operating segment and consists primarily of unallocated selling, general and administrative (“SG&A”) activities and associated expenses including, in part, executive, legal, finance and certain facility costs. In addition, certain expenses and income of employee benefits plans, such as net pension plan expense as well as share-based compensation expense, are included in Corporate and not allocated to the operating segments.
+Capital Markets
+The Company provides software solutions, tech-enabled services and print and distribution solutions to public and private companies for deal solutions and compliance to companies that are, or are preparing to become, subject to the filing and reporting requirements of the Securities Act of 1933, as amended (the “Securities Act”), and the Exchange Act. Capital markets clients leverage the Company’s software offerings, proprietary technology, deep industry expertise and experience to successfully navigate the SEC’s specified file formats when submitting compliance documents through the SEC’s EDGAR system for their transactional and ongoing compliance needs. The Company assists its capital markets clients throughout the course of initial public offerings, secondary offerings, mergers and acquisitions, public and private debt offerings, leveraged buyouts, spinouts, special purpose acquisition company (“SPAC”) and de-SPAC transactions and other similar transactions. In addition, the Company provides clients with compliance solutions to prepare their ongoing required Exchange Act filings that are compatible with the SEC’s EDGAR system, most notably Form 10-K, Form 10-Q, Form 8-K and proxy filings. The Company’s operating segments associated with its capital markets services and product offerings are as follows:
+Capital Markets – Software Solutions—
+The CM-SS segment provides Venue and ActiveDisclosure subscriptions and related services (including service packages and services the Company performs on behalf of its clients with customer-facing software) to public and private companies to help manage public and private transactional and compliance processes; collaborate; and tag, validate and file SEC documents.
+Capital Markets – Compliance and Communications Management—
+The CM-CCM segment provides tech-enabled services and print and distribution solutions to public and private companies for deal solutions and SEC compliance requirements. The Company offers around-the-clock services to support the transaction process, production platform and service delivery model. The Company has seen clients utilizing the range of options available to them, including a hybrid approach with working group members participating both virtually and in-person during drafting sessions for their transactions or a fully-virtual experience.
+Investment Companies
+The Company provides software solutions, tech-enabled services and print and distribution solutions to its investment companies clients, which are primarily mutual fund companies, alternative investment companies, insurance companies and third-party fund administrators, that are subject to the filing and reporting requirements of the Investment Company Act of 1940, as amended (the “Investment Company Act”) as well as European and Canadian regulations. The Company’s suite of solutions enables its investment companies clients to comply with applicable ongoing SEC regulations, as well as to create, manage and deliver accurate and timely financial communications to investors and regulators. Investment companies clients leverage the Company’s proprietary technology, deep industry expertise and experience to successfully navigate the SEC’s specified file formats when submitting compliance documents through the SEC’s EDGAR system. The Company’s operating segments associated with its investment companies services and products offerings are as follows:
+Investment Companies – Software Solutions—
+The IC-SS segment provides clients with the Arc Suite platform that contains a comprehensive suite of cloud-based solutions, including subscriptions to ArcDigital, ArcPro, ArcRegulatory and ArcReporting as well as related services that enable storage and management of compliance and regulatory information in a self-service, central repository so that documents can be easily accessed, assembled, edited, tagged, translated, rendered and submitted to regulators and investors.
+Investment Companies – Compliance and Communications Management—
+The IC-CCM segment provides clients with tech-enabled services and print and distribution solutions for creating, filing and distributing regulatory communications and solutions for investor communications, as well as iXBRL-formatted filings pursuant to the Investment Company Act, through the SEC’s EDGAR system. The IC-CCM segment also provides turnkey proxy services, including discovery, planning and implementation, print and mail management, solicitation, tabulation services, stockholder meeting review and expert support.
+22
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+Information by Segment
+The chief operating decision maker (“CODM”) regularly reviews segment net sales and Segment Adjusted EBITDA to assess segment performance and to decide how to allocate resources.
+Segment Adjusted EBITDA is reviewed to monitor budget versus actual results, analyze historical trends in assessing performance and identify actions required to improve profitability. Segment Adjusted EBITDA is defined as earnings before interest expense, net, income tax expense, depreciation and amortization and adjusted to exclude the impact of certain costs, expenses, gains, losses and other items, as reflected in the
+Reconciliation of total Segment Adjusted EBITDA
+sections below, which management believes are not indicative of ongoing operations and segment performance.
+As the CODM does not review segment assets to evaluate segment performance, segment assets are not disclosed.
+The following tables include selected financial data for the Company’s reportable segments for the
+three and six months ended June 30, 2026 and 2025:
+Capital Markets - Software Solutions
+Capital Markets - Compliance and Communications Management
+Investment Companies - Software Solutions
+Investment Companies - Compliance and Communications Management
+Total
+Three Months Ended June 30, 2026
+Net sales
+$
+65.7
+$
+95.9
+$
+33.7
+$
+28.9
+$
+224.2
+Less:
+Cost of sales
+(a)
+14.7
+34.4
+13.3
+13.6
+SG&A expenses
+(a)
+27.3
+21.4
+5.7
+3.4
+Other segment items
+(a)
+—
+(
+0.1
+)
+0.1
+—
+Segment Adjusted EBITDA
+$
+23.7
+$
+40.2
+$
+14.6
+$
+11.9
+$
+90.4
+Reconciliation of total Segment Adjusted EBITDA
+Corporate
+(b)
+(
+8.1
+)
+Restructuring, impairment and other charges, net
+(
+2.3
+)
+Share-based compensation expense
+(
+9.3
+)
+Non-income tax, net
+0.3
+Depreciation and amortization
+(
+15.0
+)
+Interest expense, net
+(
+3.5
+)
+Investment and other loss, net
+(
+0.4
+)
+Earnings before income taxes
+$
+52.1
+Three Months Ended June 30, 2025
+Net sales
+$
+59.1
+$
+93.5
+$
+33.1
+$
+32.4
+$
+218.1
+Less:
+Cost of sales
+(a)
+13.6
+37.0
+12.8
+15.8
+SG&A expenses
+(a)
+23.2
+19.6
+6.0
+4.0
+Other segment items
+(a)
+(
+0.1
+)
+0.1
+0.1
+—
+Segment Adjusted EBITDA
+$
+22.4
+$
+36.8
+$
+14.2
+$
+12.6
+$
+86.0
+Reconciliation of total Segment Adjusted EBITDA
+Corporate
+(b)
+(
+9.7
+)
+Restructuring, impairment and other charges, net
+(
+1.0
+)
+Share-based compensation expense
+(
+7.5
+)
+Non-income tax, net
+0.1
+Depreciation and amortization
+(
+15.1
+)
+Interest expense, net
+(
+3.8
+)
+Investment and other loss, net
+(
+0.3
+)
+Earnings before income taxes
+$
+48.7
+(a)
+The significant expense categories align with the segment-level information that is regularly provided to the CODM. Segment Cost of sales, segment SG&A expenses and other segment items were adjusted to exclude certain items, as reflected in the
+Reconciliation of total Segment Adjusted EBITDA
+sections above, that are not included in the Segment Adjusted EBITDA profitability metric utilized by the CODM.
+(b)
+Corporate is not an operating segment and consists primarily of unallocated SG&A expenses.
+23
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+Capital Markets - Software Solutions
+Capital Markets - Compliance and Communications Management
+Investment Companies - Software Solutions
+Investment Companies - Compliance and Communications Management
+Total
+Six Months Ended June 30, 2026
+Net sales
+$
+124.3
+$
+178.7
+$
+66.8
+$
+59.9
+$
+429.7
+Less:
+Cost of sales
+(a)
+28.6
+67.3
+27.1
+28.4
+SG&A expenses
+(a)
+52.8
+37.6
+11.9
+7.5
+Other segment items
+(a)
+—
+(
+0.1
+)
+0.1
+—
+Segment Adjusted EBITDA
+$
+42.9
+$
+73.9
+$
+27.7
+$
+24.0
+$
+168.5
+Reconciliation of total Segment Adjusted EBITDA
+Corporate
+(b)
+(
+15.6
+)
+Restructuring, impairment and other charges, net
+(
+3.0
+)
+Share-based compensation expense
+(
+15.7
+)
+Non-income tax, net
+0.3
+Depreciation and amortization
+(
+30.0
+)
+Interest expense, net
+(
+6.3
+)
+Investment and other loss, net
+(
+0.7
+)
+Earnings before income taxes
+$
+97.5
+Six Months Ended June 30, 2025
+Net sales
+$
+111.0
+$
+177.4
+$
+65.8
+$
+65.0
+$
+419.2
+Less:
+Cost of sales
+(a)
+27.9
+67.4
+26.1
+32.0
+SG&A expenses
+(a)
+46.8
+36.5
+12.7
+8.2
+Segment Adjusted EBITDA
+$
+36.3
+$
+73.5
+$
+27.0
+$
+24.8
+$
+161.6
+Reconciliation of total Segment Adjusted EBITDA
+Corporate
+(b)
+(
+17.1
+)
+Restructuring, impairment and other charges, net
+(
+3.9
+)
+Share-based compensation expense
+(
+13.5
+)
+Gain on sale of long-lived assets
+0.5
+Non-income tax, net
+0.2
+Depreciation and amortization
+(
+29.2
+)
+Interest expense, net
+(
+6.9
+)
+Investment and other loss, net
+(
+0.8
+)
+Earnings before income taxes
+$
+90.9
+(a)
+The significant expense categories align with the segment-level information that is regularly provided to the CODM. Segment Cost of sales, segment SG&A expenses and other segment items were adjusted to exclude certain items, as reflected in the
+Reconciliation of total Segment Adjusted EBITDA
+sections above, that are not included in the Segment Adjusted EBITDA profitability metric utilized by the CODM.
+(b)
+Corporate is not an operating segment and consists primarily of unallocated SG&A expenses.
+24
+Donnelley Financial Solutions, Inc. and Subsidiaries (“DFIN”)
+Notes to the Unaudited Condensed Consolidated Financial Statements (continued)
+(in millions, except per share data, unless otherwise indicated)
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+Depreciation and amortization
+Capital Markets - Software Solutions
+$
+7.6
+$
+7.7
+$
+15.2
+$
+14.7
+Capital Markets - Compliance and Communications Management
+1.7
+1.7
+3.3
+3.1
+Investment Companies - Software Solutions
+5.0
+4.7
+9.8
+9.5
+Investment Companies - Compliance and Communications Management
+0.7
+1.0
+1.7
+1.9
+Total operating segments
+15.0
+15.1
+30.0
+29.2
+Corporate
+—
+—
+—
+—
+Total
+$
+15.0
+$
+15.1
+$
+30.0
+$
+29.2
+Capital expenditures
+Capital Markets - Software Solutions
+$
+6.5
+$
+8.5
+$
+11.8
+$
+14.7
+Capital Markets - Compliance and Communications Management
+2.1
+2.4
+3.6
+4.4
+Investment Companies - Software Solutions
+4.4
+4.3
+7.2
+8.8
+Investment Companies - Compliance and Communications Management
+0.2
+0.6
+0.5
+1.1
+Total operating segments
+13.2
+15.8
+23.1
+29.0
+Corporate
+0.3
+0.9
+0.8
+1.0
+Total
+$
+13.5
+$
+16.7
+$
+23.9
+$
+30.0
+25
+Item 2. Management’s Discussion and Analysis of
+Financial Condition and Results of Operations
+As used in this Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”), unless otherwise specified or the context otherwise requires, the “Company” or “DFIN” refer to Donnelley Financial Solutions, Inc.
+and its consolidated subsidiaries. MD&A should be read together with the Company’s Unaudited Condensed Consolidated Financial Statements and the related notes thereto, as well as the Company’s audited Consolidated Financial Statements and the related notes thereto within its Annual Report on Form 10-K for the year ended December 31, 2025, filed with the SEC on February 17, 2026 (the “Annual Report”).
+Company Overview
+DFIN is a leading global provider of compliance and regulatory software and services, supporting its clients’ complex capital markets transactions and essential financial reporting at every stage of the corporate lifecycle and fueling end-to-end investment company regulatory compliance needs. The Company provides regulatory filing and deal solutions via its software, technology-enabled services and print and distribution solutions to public and private companies, mutual funds and other regulated investment firms, to serve its clients’ regulatory and compliance needs. DFIN helps its clients comply with applicable regulations where and how they want to work in a digital world, providing numerous solutions tailored to each client’s business needs. The prevailing trend is toward clients choosing to utilize the Company’s software solutions, in conjunction with its tech-enabled services, to meet their document and filing needs, while at the same time shifting away from physical print and distribution of documents, except for when it is still regulatorily required or requested by clients.
+The Company serves its clients’ regulatory and compliance needs throughout their respective life cycles. For its capital markets clients, the Company offers solutions that allow companies to comply with U.S. Securities and Exchange Commission (“SEC”) regulations and support their corporate financial transactions and regulatory/financial reporting through the use of digital document creation and online content management tools; filing agent services, where applicable; solutions to facilitate clients’ communications with their investors; and virtual data rooms and other deal management solutions. For investment companies clients, the Company provides solutions that allow investment companies to comply with SEC regulations and support financial and regulatory reporting through the use of content management and technology-enabled solutions for creating, compiling and filing regulatory communications as well as digital-driven solutions for distributing content to investors.
+Technological advancements, regulatory changes, and evolving workflow preferences have led to the Company’s clients managing more of the financial disclosure process themselves, changing the marketplace for the Company’s services and products. DFIN’s strategy in its Software Solutions segments (CM-SS and IC-SS, as defined below) aligns with the changing marketplace by focusing the Company’s resources in its advanced software solutions, primarily ActiveDisclosure® (“ActiveDisclosure”), Arc Suite® software platform (“Arc Suite”) and Venue® Virtual Data Room (“Venue”), while making targeted investments to further enhance product features. In its Compliance and Communications Management segments (CM-CCM and IC-CCM, as defined below), the Company’s strategy focuses on maintaining its market-leading position by offering a high-touch, service-oriented experience, using its unique combination of tech-enabled services and print and distribution capabilities.
+Market Volatility/Cyclicality and Seasonality
+The Company’s Capital Markets segments (CM-SS and CM-CCM), in particular, are subject to market volatility, as the demand for the transactional and Venue offerings is largely dependent on the global market for initial public offerings (“IPOs”), secondary offerings, mergers and acquisitions (“M&A”), public and private debt offerings, leveraged buyouts, spinouts, special purpose acquisition company (“SPAC”) and de-SPAC transactions and other similar transactions. A variety of factors impact the global markets for transactions, including economic activity levels, interest rates, market volatility, the regulatory and political environment, tariffs and trade policy, geopolitical and civil unrest and global pandemics, among others. Due to the significant net sales and profitability derived from transactional and Venue offerings, market volatility can lead to uneven financial performance when comparing to previous periods. Recently, U.S. capital market transactions, especially IPO and M&A transactions, were disrupted by the U.S. federal government shutdowns that occurred during the fourth quarter of 2025. Future government shutdowns or other factors impacting the attractiveness of U.S. capital markets could result in additional volatility. The Company’s compliance offerings, supporting the quarterly and annual public company reporting processes through its filing services and ActiveDisclosure, as well as its Investment Companies segments (IC-SS and IC-CCM) regulatory and stockholder communications offerings, including Arc Suite, are less impacted by market volatility. The Company’s overall risk profile is balanced by offering services in higher demand during a down market, such as document management tools for the bankruptcy/restructuring process and by moving upstream in the transactional process with products like Venue.
+26
+The quarterly/annual public company reporting cycle subjects the Company to filing seasonality which peaks shortly after the end of each fiscal quarter. Additionally, investment companies clients’ financial and regulatory reporting requirements include filings for mutual funds on a semi-annual basis as well as annual prospectus filings, which peaks during the second fiscal quarter. The seasonality and associated operational implications include the need to increase staff during peak periods through a combined strategy of hiring temporary personnel, increasing the premium time of existing staff and outsourcing production for a number of services. ActiveDisclosure and Arc Suite provide clients and their financial advisors software solutions which allow them to autonomously file and distribute compliance documents with regulatory agencies reducing the need for additional service support during peak periods. The Company remains focused on driving annual recurring revenue to mitigate the impact of market volatility on its financial results.
+Services and Products
+The Company separately reports its net sales and related cost of sales for its software solutions, tech-enabled services and print and distribution offerings. The Company’s software solutions offerings include ActiveDisclosure, Arc Suite and Venue. The Company’s tech-enabled services offerings consist of document composition, compliance-related SEC Electronic Data Gathering, Analysis, and Retrieval (“EDGAR”) filing services and transactional solutions. The Company’s print and distribution offerings primarily consist of conventional and digital printed products and related shipping.
+Government Regulations and Regulatory Impact
+The SEC is adopting new as well as amending existing rules and forms to enhance the security and modernize the reporting and disclosure of information under the Securities Act of 1933, as amended (the “Securities Act”), the Securities Exchange Act of 1934, as amended (the “Exchange Act”) and the Investment Company Act of 1940, as amended (the “Investment Company Act”). As the regulatory environment continues to evolve, regulators are also demanding a greater use of structured, machine-readable data in companies’ disclosures, more summary documents and layered website disclosures. These actions are driving significant changes which impact the Company and its customers. The Company actively monitors proposals, through comment periods, adoption, implementation and legal challenges, as applicable. Regulatory changes have enabled the Company to offer new value-added functionality and services, leverage its domain expertise and accelerate its transition from print and distribution to software solutions.
+Segments
+The Company’s four operating and reportable segments are: Capital Markets – Software Solutions (“CM-SS”), Capital Markets – Compliance and Communications Management (“CM-CCM”), Investment Companies – Software Solutions (“IC-SS”) and Investment Companies – Compliance and Communications Management (“IC-CCM”).
+Corporate
+is not an operating segment and consists primarily of unallocated selling, general and administrative (“SG&A”) activities and associated expenses including, in part, executive, legal, finance and certain facility costs. In addition, certain expenses and income of employee benefits plans, such as net pension plan expense as well as share-based compensation expense, are included in Corporate and not allocated to the operating segments.
+Capital Markets
+The Company provides software solutions, tech-enabled services and print and distribution solutions to public and private companies for deal solutions and compliance to companies that are, or are preparing to become, subject to the filing and reporting requirements of the Securities Act and the Exchange Act. The Company’s operating segments associated with its capital markets services and product offerings are as follows:
+Capital Markets – Software Solutions
+—
+The CM-SS segment provides Venue and ActiveDisclosure subscriptions and related services (including service packages and services the Company performs on behalf of its clients with customer-facing software) to public and private companies to help manage public and private transactional and compliance processes; collaborate; and tag, validate and file SEC documents.
+Capital Markets – Compliance and Communications Management
+—
+The CM-CCM segment provides tech-enabled services and print and distribution solutions to public and private companies for deal solutions and SEC compliance requirements. The Company offers around-the-clock services to support the transaction process, production platform and service delivery model. The Company has seen clients utilizing the range of options available to them, including a hybrid approach with working group members participating both virtually and in-person during drafting sessions for their transactions or a fully-virtual experience.
+27
+Investment Companies
+The Company provides software solutions, tech-enabled services and print and distribution solutions to its investment companies clients, which are primarily mutual fund companies, alternative investment companies, insurance companies and third-party fund administrators, that are subject to the filing and reporting requirements of the Investment Company Act, as well as European and Canadian regulations. The Company’s operating segments associated with its investment companies services and product offerings are as follows:
+Investment Companies – Software Solutions—
+The IC-SS segment provides clients with the Arc Suite platform that contains a comprehensive suite of cloud-based solutions, including subscriptions to ArcDigital, ArcPro, ArcRegulatory and ArcReporting as well as related services that enable storage and management of compliance and regulatory information in a self-service, central repository so that documents can be easily accessed, assembled, edited, tagged, translated, rendered and submitted to regulators and investors.
+Investment Companies – Compliance and Communications Management—
+The IC-CCM segment provides clients with tech-enabled services and print and distribution solutions for creating, filing and distributing regulatory communications and solutions for investor communications, as well as iXBRL-formatted filings pursuant to the Investment Company Act, through the SEC’s EDGAR system. The IC-CCM segment also provides turnkey proxy services, including discovery, planning and implementation, print and mail management, solicitation, tabulation services, stockholder meeting review and expert support.
+Executive Overview
+Second Quarter Overview
+Net sales for the three months ended June 30, 2026 increased by $6.1 million, or 2.8%, to $224.2 million from $218.1 million for the three months ended June 30, 2025, including a $0.2 million, or 0.1%, increase due to changes in foreign currency exchange rates. Net sales increased due to higher software solutions net sales of $7.2 million and higher tech-enabled services net sales of $5.0 million, partially offset by lower print and distribution net sales of $6.1 million. The increase in software solutions net sales was primarily driven by higher ActiveDisclosure net sales of $6.4 million. The increase in tech-enabled services net sales was primarily driven by higher capital markets transactional volumes, partially offset by lower compliance volumes. The decrease in print and distribution net sales was primarily driven by lower compliance volumes.
+Income from operations for the three months ended June 30, 2026 increased by $3.2 million, or 6.1%, to $56.0 million from $52.8 million for the three months ended June 30, 2025, primarily due to higher net sales of $6.1 million, as described above, and lower cost of sales of $3.0 million, partially offset by higher SG&A expenses of $4.7 million and higher restructuring, impairment and other charges, net of $1.3 million. The decrease in cost of sales was primarily driven by lower print and distribution sales volumes and cost control initiatives. The increase in SG&A expenses was primarily driven by higher share-based compensation expense of $1.8 million, higher selling expense, higher bad debt expense of $1.2 million and higher incentive compensation expense, partially offset by lower consulting expense.
+Year-to-Date Overview
+Net sales for the six months ended June 30, 2026 increased by $10.5 million, or 2.5%, to $429.7 million from $419.2 million for the six months ended June 30, 2025, including a $1.3 million, or 0.3%, increase due to changes in foreign currency exchange rates. Net sales increased due to higher software solutions net sales of $14.3 million, partially offset by lower print and distribution net sales of $2.4 million and lower tech-enabled services net sales of $1.4 million. The increase in software solutions net sales was primarily driven by higher ActiveDisclosure net sales of $10.9 million and higher Venue net sales of $2.4 million. The decreases in tech-enabled services and print and distribution net sales were both primarily driven by lower compliance volumes, partially offset by higher capital markets transactional volumes.
+Income from operations of $104.5 million for the six months ended June 30, 2026 increased by $5.9 million, or 6.0%, as compared to the six months ended June 30, 2025, primarily due to higher net sales of $10.5 million, as described above, and lower cost of sales of $2.1 million, partially offset by higher SG&A expenses of $6.3 million. The decrease in cost of sales was primarily driven by lower print and distribution sales volumes, lower tech-enabled services sales volumes and cost control initiatives. The increase in SG&A expenses was primarily driven by higher selling expense, higher share-based compensation expense of $2.2 million, higher bad debt expense of $2.1 million and higher overhead costs, partially offset by cost control initiatives.
+28
+Financial Review
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States (“GAAP”) requires the extensive use of management’s estimates and assumptions that affect the reported amounts of assets and liabilities as well as disclosures of contingent assets and liabilities as of the date of the financial statements and the reported amounts of revenue and expenses during the reporting periods. Actual results could differ from these estimates. The Company’s significant accounting policies and critical estimates are disclosed in the Annual Report.
+The chief operating decision maker regularly reviews segment net sales and Segment Adjusted EBITDA to assess segment performance and to decide how to allocate resources. Segment Adjusted EBITDA is defined as earnings before interest expense, net, income tax expense, depreciation and amortization and adjusted to exclude the impact of certain costs, expenses, gains, losses and other items, as further described in Note 13,
+Segment Information
+, which management believes are not indicative of ongoing operations and segment performance.
+Corporate
+is not an operating segment and consists primarily of unallocated SG&A activities and associated expenses. See Note 13,
+Segment Information
+, for a reconciliation of Segment Adjusted EBITDA to consolidated earnings before income taxes.
+In the financial review that follows, the Company discusses its unaudited condensed consolidated results of operations, segment net sales, Segment Adjusted EBITDA, financial position, cash flows and certain other information. The Company’s cost of sales as a percentage of net sales, consolidated income from operations, Segment Adjusted EBITDA and Segment Adjusted EBITDA margin may be affected by sales mix (i.e., a higher proportion of sales of higher or lower margin services or products relative to total sales). Sales mix can vary period to period and is impacted by regulatory filing seasonality and global capital markets volatility. This discussion should be read in conjunction with the Company’s Unaudited Condensed Consolidated Financial Statements and the related notes thereto.
+Results of Operations for the Three and Six Months Ended June 30, 2026 as Compared to the Three and Six Months Ended June 30, 2025
+The following table shows the results of operations for the three and six months ended June 30, 2026 and 2025:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+$ Change
+% Change
+2026
+2025
+$ Change
+% Change
+(in millions, except percentages)
+Net sales
+Software solutions
+$
+99.4
+$
+92.2
+$
+7.2
+7.8
+%
+$
+191.1
+$
+176.8
+$
+14.3
+8.1
+%
+Tech-enabled services
+90.2
+85.2
+5.0
+5.9
+%
+160.3
+161.7
+(1.4
+)
+(0.9
+%)
+Print and distribution
+34.6
+40.7
+(6.1
+)
+(15.0
+%)
+78.3
+80.7
+(2.4
+)
+(3.0
+%)
+Total net sales
+224.2
+218.1
+6.1
+2.8
+%
+429.7
+419.2
+10.5
+2.5
+%
+Cost of sales
+(a)
+Software solutions
+28.2
+26.4
+1.8
+6.8
+%
+55.8
+54.0
+1.8
+3.3
+%
+Tech-enabled services
+29.8
+31.6
+(1.8
+)
+(5.7
+%)
+56.6
+58.9
+(2.3
+)
+(3.9
+%)
+Print and distribution
+18.2
+21.2
+(3.0
+)
+(14.2
+%)
+37.7
+39.3
+(1.6
+)
+(4.1
+%)
+Total cost of sales
+76.2
+79.2
+(3.0
+)
+(3.8
+%)
+150.1
+152.2
+(2.1
+)
+(1.4
+%)
+Selling, general and administrative expenses
+(a)
+74.7
+70.0
+4.7
+6.7
+%
+142.1
+135.8
+6.3
+4.6
+%
+Depreciation and amortization
+15.0
+15.1
+(0.1
+)
+(0.7
+%)
+30.0
+29.2
+0.8
+2.7
+%
+Restructuring, impairment and other charges, net
+2.3
+1.0
+1.3
+nm
+3.0
+3.9
+(0.9
+)
+(23.1
+%)
+Other operating income, net
+—
+—
+—
+—
+—
+(0.5
+)
+0.5
+(100.0
+%)
+Income from operations
+56.0
+52.8
+3.2
+6.1
+%
+104.5
+98.6
+5.9
+6.0
+%
+Interest expense, net
+3.5
+3.8
+(0.3
+)
+(7.9
+%)
+6.3
+6.9
+(0.6
+)
+(8.7
+%)
+Investment and other loss, net
+0.4
+0.3
+0.1
+33.3
+%
+0.7
+0.8
+(0.1
+)
+(12.5
+%)
+Earnings before income taxes
+52.1
+48.7
+3.4
+7.0
+%
+97.5
+90.9
+6.6
+7.3
+%
+Income tax expense
+15.7
+12.6
+3.1
+24.6
+%
+27.6
+23.8
+3.8
+16.0
+%
+Net earnings
+$
+36.4
+$
+36.1
+$
+0.3
+0.8
+%
+$
+69.9
+$
+67.1
+$
+2.8
+4.2
+%
+(a)
+Exclusive of depreciation and amortization
+29
+Consolidated
+Three Months Ended June 30, 2026 as compared to the Three Months Ended June 30, 2025
+Net sales of software solutions of $99.4 million for the three months ended June 30, 2026 increased by $7.2 million, or 7.8%, as compared to the three months ended June 30, 2025. Net sales of software solutions increased primarily due to higher ActiveDisclosure net sales of $6.4 million, largely driven by higher sales volumes.
+Net sales of tech-enabled services of $90.2 million for the three months ended June 30, 2026 increased by $5.0 million, or 5.9%, as compared to the three months ended June 30, 2025. Net sales of tech-enabled services increased primarily due to higher capital markets net sales of $5.9 million, largely driven by higher transactional volumes, partially offset by lower compliance volumes.
+Net sales of print and distribution of $34.6 million for the three months ended June 30, 2026 decreased by $6.1 million, or 15.0%, as compared to the three months ended June 30, 2025. Net sales of print and distribution decreased due to lower capital markets net sales of $3.5 million and lower investment companies net sales of $2.6 million. The decreases in capital markets and investment companies net sales were both largely driven by lower compliance volumes.
+Software solutions cost of sales of $28.2 million for the three months ended June 30, 2026 increased by $1.8 million, or 6.8%, as compared to the three months ended June 30, 2025. Software solutions cost of sales increased primarily due to higher sales volumes. As a percentage of software solutions net sales, software solutions cost of sales decreased by 0.2%.
+Tech-enabled services cost of sales of $29.8 million for the three months ended June 30, 2026 decreased by $1.8 million, or 5.7%, as compared to the three months ended June 30, 2025. Tech-enabled services cost of sales decreased primarily due to a higher proportion of transactional net sales, which generally have higher margins as compared to compliance net sales, as well as cost control initiatives. As a percentage of tech-enabled services net sales, tech-enabled services cost of sales decreased by 4.1%, largely driven by a higher proportion of transactional net sales, which generally have higher margins as compared to compliance net sales, as well as cost control initiatives.
+Print and distribution cost of sales of $18.2 million for the three months ended June 30, 2026 decreased by $3.0 million, or 14.2%, as compared to the three months ended June 30, 2025. Print and distribution cost of sales decreased primarily due to lower sales volumes and cost control initiatives. As a percentage of print and distribution net sales, print and distribution cost of sales increased by 0.5%.
+SG&A expenses of $74.7 million for the three months ended June 30, 2026 increased by $4.7 million, or 6.7%, as compared to the three months ended June 30, 2025. SG&A expenses increased primarily due to higher share-based compensation expense of $1.8 million, higher selling expense as a result of the increase in net sales, higher bad debt expense of $1.2 million and higher incentive compensation expense, partially offset by lower consulting expense. As a percentage of net sales, SG&A expenses increased to 33.3% for the three months ended June 30, 2026 from 32.1% for the three months ended June 30, 2025.
+Depreciation and amortization of $15.0 million for the three months ended June 30, 2026 decreased by $0.1 million, or 0.7%, as compared to the three months ended June 30, 2025.
+Restructuring, impairment and other charges, net of $2.3 million for the three months ended June 30, 2026 increased by $1.3 million, as compared to the three months ended June 30, 2025. For the three months ended June 30, 2026, these charges included $2.2 million of employee termination costs for approximately 10 employees. For the three months ended June 30, 2025, these charges included $0.9 million of employee termination costs for approximately 10 employees.
+Income from operations of $56.0 million for the three months ended June 30, 2026 increased by $3.2 million, or 6.1%, as compared to the three months ended June 30, 2025. Income from operations increased primarily due to higher net sales of $6.1 million, as described above, and lower cost of sales of $3.0 million, partially offset by higher SG&A expenses of $4.7 million and higher restructuring, impairment and other charges, net of $1.3 million. The decrease in cost of sales was primarily driven by lower print and distribution sales volumes and cost control initiatives. The increase in SG&A expenses was primarily driven by higher share-based compensation expense of $1.8 million, higher selling expense, higher bad debt expense of $1.2 million and higher incentive compensation expense, partially offset by lower consulting expense.
+Interest expense, net of $3.5 million for the three months ended June 30, 2026 decreased by $0.3 million, or 7.9%, as compared to the three months ended June 30, 2025.
+The effective income tax rate was 30.1% for the three months ended June 30, 2026 as compared to 25.9% for the three months ended June 30, 2025. The increase in the effective income tax rate was primarily driven by a net decrease in valuation allowances during the three months ended June 30, 2025 and the net unfavorable impact of discrete adjustments.
+30
+Six Months Ended June 30, 2026 as compared to the Six Months Ended June 30, 2025
+Net sales of software solutions of $191.1 million for the six months ended June 30, 2026 increased by $14.3 million, or 8.1%, as compared to the six months ended June 30, 2025. Net sales of software solutions increased primarily due to higher ActiveDisclosure net sales of $10.9 million and higher Venue net sales of $2.4 million, both largely driven by higher sales volumes.
+Net sales of tech-enabled services of $160.3 million for the six months ended June 30, 2026 decreased by $1.4 million, or 0.9%, as compared to the six months ended June 30, 2025. Net sales of tech-enabled services decreased due to lower investment companies net sales of $0.8 million and lower capital markets net sales of $0.6 million. The decrease in investment companies net sales was largely driven by lower compliance volumes and the decrease in capital markets net sales was largely driven by lower compliance volumes, partially offset by higher transactional volumes.
+Net sales of print and distribution of $78.3 million for the six months ended June 30, 2026 decreased by $2.4 million, or 3.0%, as compared to the six months ended June 30, 2025. Net sales of print and distribution decreased due to lower investment companies net sales of $4.3 million, partially offset by higher capital markets net sales of $1.9 million. The decrease in investment companies net sales was largely driven by lower compliance volumes, whereas the increase in capital markets net sales was largely driven by higher transactional volumes, partially offset by lower compliance volumes.
+Software solutions cost of sales of $55.8 million for the six months ended June 30, 2026 increased by $1.8 million, or 3.3%, as compared to the six months ended June 30, 2025, primarily due to higher sales volumes. As a percentage of software solutions net sales, software solutions cost of sales decreased by 1.3%, largely driven by higher sales volumes.
+Tech-enabled services cost of sales of $56.6 million for the six months ended June 30, 2026 decreased by $2.3 million, or 3.9%, as compared to the six months ended June 30, 2025 primarily due to lower sales volumes, cost control initiatives and a higher proportion of transactional net sales, which generally have higher margins as compared to compliance net sales. As a percentage of tech-enabled services net sales, tech-enabled services cost of sales decreased by 1.1%, largely driven by cost control initiatives and a higher proportion of transactional net sales, which generally have higher margins as compared to compliance net sales.
+Print and distribution cost of sales of $37.7 million for the six months ended June 30, 2026 decreased by $1.6 million, or 4.1%, as compared to the six months ended June 30, 2025. Print and distribution cost of sales decreased primarily due to lower sales volumes and cost control initiatives. As a percentage of print and distribution net sales, print and distribution cost of sales decreased by 0.6%.
+SG&A expenses of $142.1 million for the six months ended June 30, 2026 increased by $6.3 million, or 4.6%, as compared to the six months ended June 30, 2025. SG&A expenses increased primarily due to higher selling expense as a result of the increase in net sales, higher share-based compensation expense of $2.2 million, higher bad debt expense of $2.1 million and higher overhead costs, partially offset by cost control initiatives. As a percentage of net sales, SG&A expenses increased to 33.1% for the six months ended June 30, 2026 from 32.4% for the six months ended June 30, 2025.
+Depreciation and amortization of $30.0 million for the six months ended June 30, 2026 increased by $0.8 million, or 2.7%, as compared to the six months ended June 30, 2025. Depreciation and amortization increased due to higher software amortization expense, driven by additional software development.
+Restructuring, impairment and other charges, net of $3.0 million for the six months ended June 30, 2026 decreased by $0.9 million, or 23.1%, as compared to the six months ended June 30, 2025. For the six months ended June 30, 2026, these charges included $2.8 million of employee termination costs for approximately 20 employees. For the six months ended June 30, 2025, these charges included $3.7 million of employee termination costs for approximately 50 employees.
+Income from operations of $104.5 million for the six months ended June 30, 2026 increased by $5.9 million, or 6.0%, as compared to the six months ended June 30, 2025 primarily due to higher net sales of $10.5 million, as described above, and lower cost of sales of $2.1 million, partially offset by higher SG&A expenses of $6.3 million. The decrease in cost of sales was primarily driven by lower print and distribution sales volumes, lower tech-enabled services sales volumes and cost control initiatives. The increase in SG&A expenses was primarily driven by higher selling expense, higher share-based compensation expense of $2.2 million, higher bad debt expense of $2.1 million and higher overhead costs, partially offset by cost control initiatives.
+Interest expense, net of $6.3 million for the six months ended June 30, 2026 decreased by $0.6 million, or 8.7%, as compared to the six months ended June 30, 2025.
+The effective income tax rate was 28.3% for the six months ended June 30, 2026, as compared to 26.2% for the six months ended June 30, 2025. The increase in the effective income tax rate was primarily driven by a net decrease in valuation allowances during the six months ended June 30, 2025 and a decrease in the net favorable impact of discrete adjustments.
+31
+Information by Segment
+The following tables summarize net sales, Segment Adjusted EBITDA and Segment Adjusted EBITDA margin within each of the operating segments for the three and six months ended June 30, 2026 and 2025:
+Capital Markets – Software Solutions
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+$ Change
+% Change
+2026
+2025
+$ Change
+% Change
+(in millions, except percentages)
+Net sales
+$
+65.7
+$
+59.1
+$
+6.6
+11.2
+%
+$
+124.3
+$
+111.0
+$
+13.3
+12.0
+%
+Segment Adjusted EBITDA
+23.7
+22.4
+1.3
+5.8
+%
+42.9
+36.3
+6.6
+18.2
+%
+Segment Adjusted EBITDA margin
+36.1
+%
+37.9
+%
+nm
+(180 bps)
+34.5
+%
+32.7
+%
+nm
+180 bps
+nm – Not meaningful
+Three Months Ended June 30, 2026 as compared to the Three Months Ended June 30, 2025
+Net sales of $65.7 million for the three months ended June 30, 2026 increased by $6.6 million, or 11.2%, as compared to the three months ended June 30, 2025, primarily due to higher ActiveDisclosure net sales of $6.4 million, largely driven by higher sales volumes.
+Segment Adjusted EBITDA of $23.7 million for the three months ended June 30, 2026 increased by $1.3 million, or 5.8%, as compared to the three months ended June 30, 2025, due to higher net sales of $6.6 million, partially offset by higher SG&A expenses of $4.1 million and higher cost of sales of $1.1 million. The increase in SG&A expenses was primarily due to higher selling expense as a result of the increase in net sales and higher incentive compensation expense, whereas the increase in cost of sales was primarily due to a higher allocation of overhead costs.
+Segment Adjusted EBITDA margin decreased by approximately 180 basis points (“bps”) from 37.9% for the three months ended June 30, 2025 to 36.1% for the three months ended June 30, 2026, primarily due to an approximately 230 bps increase in SG&A expense as a percentage of net sales, largely driven by higher selling expense and higher incentive compensation expense.
+Six Months Ended June 30, 2026 as compared to the Six Months Ended June 30, 2025
+Net sales of $124.3 million for the six months ended June 30, 2026 increased by $13.3 million, or 12.0%, as compared to the six months ended June 30, 2025, due to higher ActiveDisclosure net sales of $10.9 million and higher Venue net sales of $2.4 million, both largely driven by higher sales volumes.
+Segment Adjusted EBITDA of $42.9 million for the six months ended June 30, 2026 increased by $6.6 million, or 18.2%, as compared to the six months ended June 30, 2025, primarily due to higher net sales of $13.3 million, partially offset by higher SG&A expenses of $6.0 million, largely driven by higher selling expense as a result of the increase in net sales, higher bad debt expense of $1.6 million and a higher allocation of overhead costs.
+Segment Adjusted EBITDA margin increased by approximately 180 bps from 32.7% for the six months ended June 30, 2025 to 34.5% for the six months ended June 30, 2026, primarily due to an approximately 210 bps decrease in cost of sales as a percentage of net sales, largely driven by higher net sales.
+32
+Capital Markets – Compliance and Communications Management
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+$ Change
+% Change
+2026
+2025
+$ Change
+% Change
+(in millions, except percentages)
+Net sales
+$
+95.9
+$
+93.5
+$
+2.4
+2.6
+%
+$
+178.7
+$
+177.4
+$
+1.3
+0.7
+%
+Segment Adjusted EBITDA
+40.2
+36.8
+3.4
+9.2
+%
+73.9
+73.5
+0.4
+0.5
+%
+Segment Adjusted EBITDA margin
+41.9
+%
+39.4
+%
+nm
+250 bps
+41.4
+%
+41.4
+%
+nm
+—
+nm – Not meaningful
+Three Months Ended June 30, 2026 as compared to the Three Months Ended June 30, 2025
+Net sales of $95.9 million for the three months ended June 30, 2026 increased by $2.4 million, or 2.6%, as compared to the three months ended June 30, 2025, due to higher tech-enabled services net sales of $5.9 million, partially offset by lower print and distribution net sales of $3.5 million. The increase in tech-enabled services net sales was largely driven by higher transactional volumes, partially offset by lower compliance volumes, whereas the decrease in print and distribution net sales was largely driven by lower compliance volumes.
+Segment Adjusted EBITDA of $40.2 million for the three months ended June 30, 2026 increased by $3.4 million, or 9.2%, as compared to the three months ended June 30, 2025, primarily due to lower cost of sales of $2.6 million and higher net sales of $2.4 million, partially offset by higher SG&A expenses of $1.8 million. The decrease in cost of sales was largely driven by lower print and distribution net sales and cost control initiatives, whereas the increase in SG&A expenses was largely driven by higher bad debt expense of $1.3 million.
+Segment Adjusted EBITDA margin increased by approximately 250 bps from 39.4% for the three months ended June 30, 2025 to 41.9% for the three months ended June 30, 2026, primarily due to an approximately 370 bps decrease in cost of sales as a percentage of net sales, largely driven by a higher proportion of transactional net sales, which generally have higher margins, as compared to compliance net sales, and cost control initiatives, partially offset by an approximately 130 bps increase in SG&A expenses as a percentage of net sales, largely driven by higher bad debt expense.
+Six Months Ended June 30, 2026 as compared to the Six Months Ended June 30, 2025
+Net sales of $178.7 million for the six months ended June 30, 2026 increased by $1.3 million, or 0.7%, as compared to the six months ended June 30, 2025, due to higher print and distribution net sales of $1.9 million, partially offset by lower tech-enabled services net sales of $0.6 million. The increase in print and distribution net sales was largely driven by higher transactional volumes, partially offset by lower compliance volumes, whereas the decrease in tech-enabled services net sales was largely driven by lower compliance volumes, partially offset by higher transactional volumes.
+Segment Adjusted EBITDA of $73.9 million for the six months ended June 30, 2026 increased by $0.4 million, or 0.5%, as compared to the six months ended June 30, 2025, primarily due to higher net sales of $1.3 million.
+Segment Adjusted EBITDA margin for the six months ended June 30, 2026 was flat as compared to the six months ended June 30, 2025.
+Investment Companies – Software Solutions
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+$ Change
+% Change
+2026
+2025
+$ Change
+% Change
+(in millions, except percentages)
+Net sales
+$
+33.7
+$
+33.1
+$
+0.6
+1.8
+%
+$
+66.8
+$
+65.8
+$
+1.0
+1.5
+%
+Segment Adjusted EBITDA
+14.6
+14.2
+0.4
+2.8
+%
+27.7
+27.0
+0.7
+2.6
+%
+Segment Adjusted EBITDA margin
+43.3
+%
+42.9
+%
+nm
+40 bps
+41.5
+%
+41.0
+%
+nm
+50 bps
+nm – Not meaningful
+Three Months Ended June 30, 2026 as compared to the Three Months Ended June 30, 2025
+Net sales of $33.7 million for the three months ended June 30, 2026 increased by $0.6 million, or 1.8%, as compared to the three months ended June 30, 2025, primarily due to price increases.
+33
+Segment Adjusted EBITDA of $14.6 million for the three months ended June 30, 2026 increased by $0.4 million, or 2.8%, as compared to the three months ended June 30, 2025, primarily due to higher net sales.
+Segment Adjusted EBITDA margin increased by approximately 40 bps from 42.9% for the three months ended June 30, 2025 to 43.3% for the three months ended June 30, 2026, primarily due to higher net sales.
+Six Months Ended June 30, 2026 as compared to the Six Months Ended June 30, 2025
+Net sales of $66.8 million for the six months ended June 30, 2026 increased by $1.0 million, or 1.5%, as compared to the six months ended June 30, 2025, primarily due to price increases.
+Segment Adjusted EBITDA of $27.7 million for the six months ended June 30, 2026 increased by $0.7 million, or 2.6%, as compared to the six months ended June 30, 2025, primarily due to higher net sales.
+Segment Adjusted EBITDA margin increased by approximately 50 bps from 41.0% for the six months ended June 30, 2025 to 41.5% for the six months ended June 30, 2026, primarily due to higher net sales.
+Investment Companies – Compliance and Communications Management
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+$ Change
+% Change
+2026
+2025
+$ Change
+% Change
+(in millions, except percentages)
+Net sales
+$
+28.9
+$
+32.4
+$
+(3.5
+)
+(10.8
+%)
+$
+59.9
+$
+65.0
+$
+(5.1
+)
+(7.8
+%)
+Segment Adjusted EBITDA
+11.9
+12.6
+(0.7
+)
+(5.6
+%)
+24.0
+24.8
+(0.8
+)
+(3.2
+%)
+Segment Adjusted EBITDA margin
+41.2
+%
+38.9
+%
+nm
+230 bps
+40.1
+%
+38.2
+%
+nm
+190 bps
+nm – Not meaningful
+Three Months Ended June 30, 2026 as compared to the Three Months Ended June 30, 2025
+Net sales of $28.9 million for the three months ended June 30, 2026 decreased by $3.5 million, or 10.8%, as compared to the three months ended June 30, 2025, primarily due to lower print and distribution net sales of $2.6 million, largely driven by lower compliance volumes.
+Segment Adjusted EBITDA of $11.9 million for the three months ended June 30, 2026 decreased by $0.7 million, or 5.6%, as compared to the three months ended June 30, 2025, primarily due to lower net sales of $3.5 million, partially offset by lower cost of sales of $2.2 million, largely driven by lower sales volumes.
+Segment Adjusted EBITDA margin increased by approximately 230 bps from 38.9% for the three months ended June 30, 2025 to 41.2% for the three months ended June 30, 2026, primarily due to an approximately 170 bps decrease in cost of sales as a percentage of net sales, largely driven by a higher proportion of tech-enabled services net sales, which generally have higher margins, as compared to print and distribution net sales.
+Six Months Ended June 30, 2026 as compared to the Six Months Ended June 30, 2025
+Net sales of $59.9 million for the six months ended June 30, 2026 decreased by $5.1 million, or 7.8%, as compared to the six months ended June 30, 2025, primarily due to lower print and distribution net sales of $4.3 million, largely driven by lower compliance volumes.
+Segment Adjusted EBITDA of $24.0 million for the six months ended June 30, 2026 decreased by $0.8 million, or 3.2%, as compared to the six months ended June 30, 2025, primarily due to lower net sales of $5.1 million, partially offset by lower cost of sales of $3.6 million, largely driven by lower sales volumes.
+Segment Adjusted EBITDA margin increased by approximately 190 bps from 38.2% for the six months ended June 30, 2025 to 40.1% for the six months ended June 30, 2026, primarily due to an approximately 180 bps decrease in cost of sales as a percentage of net sales, largely driven by a higher proportion of tech-enabled services net sales, which generally have higher margins, as compared to print and distribution net sales.
+34
+Corporate
+The following table summarizes unallocated expenses within Corporate for the three and six months ended June 30, 2026 and 2025:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+$ Change
+% Change
+2026
+2025
+$ Change
+% Change
+(in millions, except percentages)
+Unallocated expenses
+$
+8.1
+$
+9.7
+$
+(1.6
+)
+(16.5
+%)
+$
+15.6
+$
+17.1
+$
+(1.5
+)
+(8.8
+%)
+Three Months Ended June 30, 2026 as compared to the Three Months Ended June 30, 2025
+Corporate unallocated expenses of $8.1 million for the three months ended June 30, 2026 decreased by $1.6 million, or 16.5%, as compared to the three months ended June 30, 2025, primarily due to lower consulting expense.
+Six Months Ended June 30, 2026 as compared to the Six Months Ended June 30, 2025
+Corporate unallocated expenses of $15.6 million for the six months ended June 30, 2026 decreased by $1.5 million, or 8.8%, as compared to the six months ended June 30, 2025, primarily due to lower healthcare and consulting expenses.
+Non-GAAP Measures
+The Company believes that certain non-GAAP measures, such as non-GAAP consolidated adjusted EBITDA (“Adjusted EBITDA”), provide useful information about the Company’s operating results and enhance the overall ability to assess the Company’s financial performance. The Company uses these measures, together with other measures of performance prepared in accordance with GAAP, to compare the relative performance of operations in planning, budgeting and reviewing the performance of its business. Adjusted EBITDA allows investors to make a more meaningful comparison between the Company’s core business operating results over different periods of time. The Company believes that Adjusted EBITDA, when viewed with the Company’s results under GAAP and the accompanying reconciliations, provides useful information about the Company’s business without regard to potential distortions. By eliminating potential differences in results of operations between periods caused by factors such as historic cost and age of assets, restructuring, impairment and other charges, net, non-income tax, net, gain on investments in equity securities as well as other items, as described below, the Company believes that Adjusted EBITDA can provide a useful additional basis for comparing the current performance of the underlying operations being evaluated.
+Adjusted EBITDA is not presented in accordance with GAAP and has important limitations as an analytical tool. These measures should not be considered as a substitute for analysis of the Company’s results as reported under GAAP. In addition, these measures are defined differently by different companies and, accordingly, such measures may not be comparable to similarly-titled measures of other companies. In addition to the factors listed above, share-based compensation expense is excluded from Adjusted EBITDA. Although share-based compensation is a key incentive offered to certain Company employees, business performance is evaluated excluding share-based compensation expense. Depending upon the size, timing and the terms of grants, share-based compensation expense may vary but will recur in future periods.
+The following table reconciles net earnings to Adjusted EBITDA for the three and six months ended June 30, 2026 and 2025:
+Three Months Ended June 30,
+Six Months Ended June 30,
+2026
+2025
+2026
+2025
+(in millions)
+Net earnings
+$
+36.4
+$
+36.1
+$
+69.9
+$
+67.1
+Restructuring, impairment and other charges, net
+2.3
+1.0
+3.0
+3.9
+Share-based compensation expense
+9.3
+7.5
+15.7
+13.5
+Non-income tax, net
+(0.3
+)
+(0.1
+)
+(0.3
+)
+(0.2
+)
+Gain on sale of long-lived assets
+—
+—
+—
+(0.5
+)
+Depreciation and amortization
+15.0
+15.1
+30.0
+29.2
+Interest expense, net
+3.5
+3.8
+6.3
+6.9
+Investment and other loss, net
+0.4
+0.3
+0.7
+0.8
+Income tax expense
+15.7
+12.6
+27.6
+23.8
+Adjusted EBITDA
+$
+82.3
+$
+76.3
+$
+152.9
+$
+144.5
+Restructuring, impairment and other charges, net—
+Included employee termination costs of $2.2 million and $2.8 million for the three and six months ended June 30, 2026, respectively, and $0.9 million and $3.7 million for the three and six months ended June 30, 2025, respectively. Refer to Note 5,
+Restructuring, Impairment and Other Charges, net
+, to the Unaudited Condensed Consolidated Financial Statements for additional information.
+35
+Share-based compensation expense—
+Included charges of $9.3 million and $15.7 million for the three and six months ended June 30, 2026, respectively, and $7.5 million and $13.5 million for the three and six months ended June 30, 2025, respectively.
+Non-income tax, net—
+Included income of $0.3 million for both the three and six months ended June 30, 2026, and $0.1 million and $0.2 million for the three and six months ended June 30, 2025, respectively, related to certain estimated non-income tax exposures.
+Gain on sale of long-lived assets—
+Included a gain of $0.5 million for the six months ended June 30, 2025.
+Liquidity and Capital Resources
+The Company believes it has sufficient liquidity to support its ongoing operations and to invest in future growth to create value for its investors. Cash and cash equivalents on hand, operating cash flows and the Company’s Revolving Facility are the primary sources of liquidity and are expected to be used for, among other things, payment of interest and principal on the Company’s debt obligations, capital expenditures necessary to support productivity improvement and growth, share repurchases and continuous operational improvements.
+The Company maintains cash pooling structures that enable participating international locations to draw on the pools’ cash resources to meet local liquidity needs. Foreign cash balances may be loaned from certain cash pools to U.S. operating entities on a temporary basis in order to reduce the Company’s short-term borrowing costs or for other purposes. The Company has the ability to repatriate foreign cash, associated with foreign earnings previously subjected to U.S. tax, with minimal additional tax consequences. The Company maintains its assertion of indefinite reinvestment on all foreign earnings and other outside basis differences to indicate that the Company remains indefinitely reinvested in operations outside of the U.S., with the exception of the previously taxed foreign earnings already subject to U.S. tax. The Company did not repatriate excess cash of previously taxed earnings at its foreign subsidiaries to the U.S. during the six months ended June 30, 2026. The Company repatriated $14.0 million of excess cash of previously taxed earnings at its foreign subsidiaries to the U.S. during the year ended December 31, 2025. The Company is evaluating whether to make any cash repatriations in the future.
+Cash and cash equivalents were $25.3 million at June 30, 2026, which included $3.3 million in the U.S. and $22.0 million at international locations.
+The following table describes the Company’s cash flows for the six months ended June 30, 2026 and 2025:
+Six Months Ended June 30,
+2026
+2025
+(in millions)
+Net cash provided by operating activities
+$
+69.1
+$
+30.7
+Net cash used in investing activities
+(23.8
+)
+(29.9
+)
+Net cash used in financing activities
+(44.0
+)
+(25.5
+)
+Effect of exchange rate on cash and cash equivalents
+(0.5
+)
+1.2
+Net increase (decrease) in cash and cash equivalents
+$
+0.8
+$
+(23.5
+)
+Cash Flows Provided by Operating Activities
+Operating cash inflows and outflows are largely attributable to sales of the Company’s services and products as well as recurring expenditures for labor and other operating activities.
+36
+Net cash provided by operating activities was $69.1 million for the six months ended June 30, 2026 as compared to $30.7 million for the six months ended June 30, 2025. The change in net cash provided by operating activities of $38.4 million was primarily due to the following factors:
+Six Months Ended June 30,
+2026
+2025
+$ Change
+(in millions)
+Net earnings
+$
+69.9
+$
+67.1
+$
+2.8
+Adjustments to reconcile net earnings to net cash provided by operating activities:
+Other adjustments, net
+56.0
+49.5
+6.5
+Changes in operating assets and liabilities:
+Accrued liabilities and other
+(5.7
+)
+(30.5
+)
+24.8
+Receivables, net
+(57.4
+)
+(67.6
+)
+10.2
+Accounts payable
+1.0
+10.5
+(9.5
+)
+Other changes, net
+5.3
+1.7
+3.6
+Net cash provided by operating activities
+$
+69.1
+$
+30.7
+$
+38.4
+•
+Accrued liabilities and other resulted in a $24.8 million favorable impact to net cash provided by operating activities for the six months ended June 30, 2026, compared to the prior year period. The decrease in cash used was primarily due to lower 2026 payments of employee-related compensation, including sales commissions and incentive compensation, as a result of the Company’s 2025 operating results and increases in customer and vendor accruals.
+•
+Receivables, net resulted in a $10.2 million favorable impact to net cash provided by operating activities for the six months ended June 30, 2026, compared to the prior year period. The decrease in cash used was primarily due to timing of collections.
+•
+Accounts payable resulted in a $9.5 million unfavorable impact to net cash provided by operating activities for the six months ended June 30, 2026, compared to the prior year period. The decrease in cash provided by accounts payable was primarily due to timing of supplier payments.
+•
+Income tax payments decreased by $4.1 million to $16.7 million for the six months ended June 30, 2026, compared to the prior year period, primarily due to a favorable cash tax impact of the research and development expenditures provisions of the One Big Beautiful Bill Act.
+Cash Flows Used in Investing Activities
+Net cash used in investing activities was $23.8 million for the six months ended June 30, 2026, which primarily consisted of $23.9 million of capital expenditures, substantially all related to investments in software development. The Company currently expects capital expenditures to be approximately $55 million to $60 million for the year ending December 31, 2026.
+Net cash used in investing activities was $29.9 million for the six months ended June 30, 2025, which primarily consisted of $30.0 million of capital expenditures, substantially all related to investments in software development.
+Cash Flows Used in Financing Activities
+Net cash used in financing activities was $44.0 million for the six months ended June 30, 2026. During the six months ended June 30, 2026, the Company received $123.0 million of proceeds from the Revolving Facility borrowings, partially offset by $87.5 million of payments on the Revolving Facility borrowings. The Company’s common stock repurchases for the six months ended June 30, 2026 totaled $76.2 million, which included $62.6 million of repurchases under the stock repurchase program and $13.6 million associated with vesting of the Company’s equity awards.
+Net cash used in financing activities was $25.5 million for the six months ended June 30, 2025. During the six months ended June 30, 2025, the Company received $207.5 million of proceeds from the Revolving Facility borrowings, partially offset by $130.5 million of payments on the Revolving Facility borrowings. During the six months ended June 30, 2025, the Company made $126.4 million of payments on long-term debt, primarily to retire the full amount of the Company’s then-outstanding $125.0 million Delayed Draw Term Loan A Facility. The Company’s common stock repurchases for the six months ended June 30, 2025 totaled $88.7 million, which included $76.4 million of repurchases under the stock repurchase program and $12.3 million associated with vesting of the Company’s equity awards.
+37
+Debt
+The Company’s debt as of June 30, 2026 and December 31, 2025 consisted of the following (in millions):
+June 30, 2026
+December 31, 2025
+Term Loan A Facility
+$
+107.8
+$
+110.7
+Borrowings under the Revolving Facility
+96.5
+61.0
+Unamortized debt issuance costs
+(0.3
+)
+(0.4
+)
+Total debt
+204.0
+171.3
+Less: current portion of long-term debt
+5.8
+5.8
+Long-term debt
+$
+198.2
+$
+165.5
+Credit Agreement
+—On March 13, 2025, the Company amended and restated its credit agreement dated as of September 30, 2016 (as in effect prior to such amendment and restatement, the “Credit Agreement,” and the Credit Agreement, as so amended and restated, the “Amended and Restated Credit Agreement”), by and among the Company, the lenders party thereto from time to time and JPMorgan Chase Bank, N.A., as administrative agent and collateral agent, to provide for a $115.0 million term loan A facility (the “Term Loan A Facility”), establish a $300.0 million revolving facility (the “Revolving Facility”) with a maturity date of March 13, 2030 to replace the entire amount of the revolving facility and modify the financial maintenance and negative covenants in the Amended and Restated Credit Agreement, among other things. The Amended and Restated Credit Agreement contains a number of covenants, including a minimum Interest Coverage Ratio and the Consolidated Net Leverage Ratio, as defined in and calculated pursuant to the Amended and Restated Credit Agreement, that, in part, restrict the Company’s ability to incur additional indebtedness, create liens, engage in mergers and consolidations, make restricted payments and dispose of certain assets. The Amended and Restated Credit Agreement generally allows annual dividend payments of up to $20.0 million in the aggregate. Each of these covenants is subject to important exceptions and qualifications. Refer to Note 8,
+Debt
+, for additional information.
+The Company used the proceeds of the Term Loan A Facility and the Revolving Facility to retire the full $125.0 million of the Company’s then-outstanding Delayed Draw Term Loan A Facility. Under the Amended and Restated Credit Agreement, the Term Loan A Facility bears interest at a rate equal to the sum of the Secured Overnight Financing Rate (“SOFR”) plus a margin ranging from 2.00% to 2.50% based on the Company’s Consolidated Net Leverage Ratio. The principal amount of the loans outstanding under the Term Loan A Facility is due and payable in equal quarterly installments of 1.25% of the original principal amount of the loans during the first three years after funding, beginning on June 30, 2025, and 2.50% of the original principal amount of the loans thereafter. Voluntary prepayments of the Term Loan A Facility are permitted at any time without premium or penalty. The entire unpaid principal amount of the loans will be due and payable in full on March 13, 2030.
+As of June 30, 2026, there were $96.5 million of borrowings outstanding under the Revolving Facility as well as $1.4 million in outstanding letters of credit, all of which reduced the availability under the Revolving Facility. Based on the Company’s results of operations for the twelve months ended June 30, 2026 and existing debt, the Company would have had the ability to utilize the remaining $202.1 million of the Revolving Facility and not have been in violation of the terms of the agreement.
+The current availability under the Revolving Facility and net available liquidity as of June 30, 2026 are shown in the table below:
+June 30, 2026
+Availability
+(in millions)
+Revolving Facility
+$
+300.0
+Availability reduction from covenants
+—
+$
+300.0
+Usage
+Borrowings under the Revolving Facility
+96.5
+Impact on availability related to outstanding letters of credit
+1.4
+$
+97.9
+Current availability
+$
+202.1
+Cash and cash equivalents
+25.3
+Net Available Liquidity
+$
+227.4
+38
+The Company was in compliance with its debt covenants as of June 30, 2026, and expects to remain in compliance based on management’s estimates of operating and financial results for fiscal year 2026 and the foreseeable future. However, declines in market and economic conditions or demand for certain of the Company’s services and products could impact the Company’s ability to remain in compliance with its debt covenants in future periods.
+The failure of a financial institution supporting the Revolving Facility would reduce the size of the Company’s committed facility unless a replacement institution was added. As of June 30, 2026, the Revolving Facility is supported by thirteen U.S. and international financial institutions.
+As of June 30, 2026, the Company met all the conditions required to borrow under the Revolving Facility, and management expects the Company to continue to meet the applicable borrowing conditions.
+OTHER INFORMATION
+Litigation and Contingent Liabilities
+For a discussion of certain litigation involving the Company, see Note 7,
+Commitments and Contingencies
+, to the Unaudited Condensed Consolidated Financial Statements.
+Critical Accounting Estimates
+There were no changes to critical accounting estimates from those disclosed in the Annual Report.
+New Accounting Pronouncements
+Recently issued accounting standards and their estimated effect on the Company’s Unaudited Condensed Consolidated Financial Statements are described in Note 1,
+Overview, Basis of Presentation and Significant Accounting Policies
+, to the Unaudited Condensed Consolidated Financial Statements.
+Item 3. Quantitative and Qualitati
+ve Disclosures About Market Risk
+There have been no significant changes to the Company’s market risk disclosed in the Annual Report.
+Item 4. Controls
+and Procedures
+(a)
+Disclosure controls and procedures.
+Management, together with the Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of the Company’s disclosure controls and procedures (as defined in Rules 13a-15(b) and 15d-15(e) of the Exchange Act) as of June 30, 2026. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the Company’s disclosure controls and procedures were effective as of June 30, 2026.
+(b)
+Changes in internal control over financial reporting.
+There were no changes in the Company’s internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the quarter ended June 30, 2026 that have materially affected or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+PART II — OTHE
+R INFORMATION
+Item 1. Legal
+Proceedings
+For a discussion of certain litigation involving the Company, see Note 7,
+Commitments and Contingencies
+, to the Unaudited Condensed Consolidated Financial Statements.
+Item 1A. Ri
+sk Factors
+There were no material changes during the three months ended June 30, 2026 to the risk factors identified in the Annual Report.
+39
+Item 2. Unregistered Sales of Equi
+ty Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+Period
+Total
+Number of Shares Purchased
+Average Price Paid per Share
+Total
+Number of Shares
+Purchased
+as Part of Publicly Announced Plans or Programs
+Dollar Value of
+Shares that May Yet be Purchased Under the Plans or Programs
+(a)
+April 1, 2026 - April 30, 2026
+363,561
+$
+50.01
+363,561
+$
+141,928,811
+May 1, 2026 - May 31, 2026
+164,322
+44.16
+163,014
+134,723,474
+June 1, 2026 - June 30, 2026
+(b)
+237,133
+39.42
+236,876
+125,385,063
+Total
+765,016
+$
+45.47
+763,451
+(a)
+As further described in Note 11,
+Capital Stock
+, to the Unaudited Condensed Consolidated Financial Statements, on April 16, 2026, the Board authorized the repurchase of up to $150 million of the Company’s outstanding common stock commencing on April 17, 2026, with an expiration date of December 31, 2027. This new share repurchase program replaced the previous $150 million program, which had been authorized on May 15, 2025 and was scheduled to expire on December 31, 2026. The stock repurchase program may be suspended or discontinued at any time. The timing and amount of any shares repurchased are determined by the Company based on its evaluation of market conditions and other factors and may be completed from time to time in one or more transactions on the open market or in privately negotiated purchases in accordance with all applicable securities laws and regulations and all repurchases in the open market will be made in compliance with Rule 10b-18 under the Exchange Act. Repurchases may also be made under a Rule 10b5-1 plan, which would permit shares to be repurchased when the Company might otherwise be precluded from doing so.
+(b)
+Includes 11,250 shares, valued at $0.5 million, for which the Company placed orders prior to June 30, 2026 that were not settled until the third quarter of 2026.
+Item 3. Defaults Up
+on Senior Securities
+None.
+Item 4. Mine Saf
+ety Disclosures
+Not applicable.
+Item 5. Othe
+r Information
+Director or Officer Adoption or Termination of Trading Agreements
+On
+June 8, 2026
+,
+Daniel N. Leib
+, the Company’s
+President and Chief Executive Officer
+,
+adopted
+a trading plan with respe
+ct to the sale of
+15,000
+shares of common stock, granted to Mr. Leib as equity incentive compensation (the “Leib Plan”). The Leib Plan is intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Exchange Act. Pursuant to the Leib Plan, if the market price of the Company’s common stock is within a specified price range during a trading window between November 3, 2026 and
+December 1, 2026
+, up to 15,000 shares of common stock will be sold at the market price.
+40
+Item 6. E
+xhibits
+3.1
+Amended and Restated Certificate of Incorporation of Donnelley Financial Solutions, Inc. (incorporated by reference to Exhibit 3.1 to the Company’s Current Report on Form 8-K dated September 30, 2016, filed on October 3, 2016)
+3.2
+Certificate of Amendment to Amended and Restated Certificate of Incorporation of Donnelley Financial Solutions, Inc., as filed on May 19, 2023 with the Secretary of State of Delaware (incorporated by reference to Exhibit 3.1 to the Company’s Current Report on Form 8-K, filed on May 19, 2023)
+3.3
+Amended and Restated By-laws of Donnelley Financial Solutions, Inc. (incorporated by reference to Exhibit 3.1 to the Company’s Current Report on Form 8-K dated November 14, 2023, filed on November 16, 2023)
+31.1
+Certification by Daniel N. Leib, President and Chief Executive Officer, required by Rule 13a-14(a) and Rule 15d-14(a) of the Securities Exchange Act of 1934 (filed herewith)
+31.2
+Certification by David A. Gardella, Executive Vice President and Chief Financial Officer, required by Rule 13a-14(a) and Rule 15d-14(a) of the Securities Exchange Act of 1934 (filed herewith)
+32.1
+Certification by Daniel N. Leib, President and Chief Executive Officer, required by Rule 13a-14(b) or Rule 15d-14(b) of the Securities Exchange Act of 1934 and Section 1350 of Chapter 63 of Title 18 of the United States Code (filed herewith)
+32.2
+Certification by David A. Gardella, Executive Vice President and Chief Financial Officer, required by Rule 13a-14(b) or Rule 15d-14(b) of the Securities Exchange Act of 1934 and Section 1350 of Chapter 63 of Title 18 of the United States Code (filed herewith)
+101.INS
+Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+101.SCH
+Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents
+104
+The cover page for the Company’s Quarterly Report on Form 10-Q has been formatted in Inline XBRL and contained in Exhibit 101
+41
+SIGNAT
+URES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+DONNELLEY FINANCIAL SOLUTIONS, INC.
+By:
+/s/ DAVID A. GARDELLA
+David A. Gardella
+Executive Vice President and Chief Financial Officer
+Date: July 30, 2026
+42
